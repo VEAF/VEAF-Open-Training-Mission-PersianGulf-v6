@@ -207,7 +207,7 @@ zone("combatZone_Persepolis", C, 3000, "Z18 Tourisme — Persépolis", "Tourisme
      "Persépolis, la capitale des rois achéménides, au pied du mont Rahmat : un vol touristique à basse altitude sur le "
      "plateau de Marvdasht, à 1 600 m. Les Gardiens de la révolution ont installé un détachement à 2 km au nord-est du "
      "site : blindés, camions et deux ZU-23. Le neutraliser sans toucher aux ruines. Le SA-11 de Shiraz porte jusqu'à "
-     "3 nm au sud-ouest du site : arriver par l'est. Ruines de Persépolis dans DCS : à confirmer en jeu.",
+     "3 nm au sud-ouest du site : arriver par l'est. Les colonnes et l'escalier de l'Apadana sont modélisés dans DCS.",
      g_fake(P18, [("-zu23", "Ural-375 ZU-23", 0, 300, ""), ("-zu23", "Ural-375 ZU-23", 180, 300, "")], "Z18")
      + [g_native(P18, "Detachement", 90, 200, [{"type": "BTR-80", "count": 2}, {"type": "Ural-375", "count": 2}])])
 

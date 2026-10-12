@@ -203,7 +203,7 @@ Le champ pétrolier offshore de Mubarek, au sud-est des Tunb, sert de base avanc
 
 **Z18 Tourisme — Persépolis** — `N29°56.110' E052°53.424'` · bullseye `331°/254 nm`
 
-Persépolis, la capitale des rois achéménides, au pied du mont Rahmat : un vol touristique à basse altitude sur le plateau de Marvdasht, à 1 600 m. Les Gardiens de la révolution ont installé un détachement à 2 km au nord-est du site : blindés, camions et deux ZU-23. Le neutraliser sans toucher aux ruines. Le SA-11 de Shiraz porte jusqu'à 3 nm au sud-ouest du site : arriver par l'est. Ruines de Persépolis dans DCS : à confirmer en jeu. Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 319 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 302 nm.
+Persépolis, la capitale des rois achéménides, au pied du mont Rahmat : un vol touristique à basse altitude sur le plateau de Marvdasht, à 1 600 m. Les Gardiens de la révolution ont installé un détachement à 2 km au nord-est du site : blindés, camions et deux ZU-23. Le neutraliser sans toucher aux ruines. Le SA-11 de Shiraz porte jusqu'à 3 nm au sud-ouest du site : arriver par l'est. Les colonnes et l'escalier de l'Apadana sont modélisés dans DCS. Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 319 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 302 nm.
 
 ## Missions scénarisées
 

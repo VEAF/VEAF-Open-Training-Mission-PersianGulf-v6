@@ -9,11 +9,11 @@ Ce qui reste à vérifier ou à décider, au fil de l'eau. Ce qui concerne les o
 - **Statiques** : 50 sur 50 à leur place (elles apparaissent en différé après l'activation).
 - **Navires** : 6 groupes à flot et en route.
 - **Convois** : départs recalés sur la route (`tools/fix_convoys_on_road.py`) ; les trois roulent sur la route dès la première minute.
+- **Persépolis** (Z18) : modélisée dans DCS (22 objets de décor `PERSEPOLIS_COLUMN` et `PERSEPOLIS_STAIRS` à l'emplacement) ; la zone apparaît bien, sur la terre ferme.
 - **CAP** : 4 sur 5 ont tiré sur leur cible en moins de 10 minutes ; la Mirage 2000 d'Abu Dhabi pas encore (cible à 32 km qui s'éloignait), à revoir.
 
 ## À vérifier dans DCS
 
 - **QRA** : décollage de la piste et patrouille sur le cercle (non testé).
 - **Dessins F10** : 76 objets (front, contours et étiquettes des zones, QRA, sanctuaires, arène, hippodromes) — ils ne se voient qu'en jeu.
-- **Persépolis** (Z18) : les ruines existent-elles dans DCS ? La zone apparaît bien, sur la terre ferme.
 - **CAP bleue Mirage 2000** d'Abu Dhabi : engage-t-elle ?

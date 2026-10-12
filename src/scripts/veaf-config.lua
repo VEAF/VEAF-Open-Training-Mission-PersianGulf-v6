@@ -441,7 +441,7 @@ Position : bullseye 096°/18 nm (N26°14.372' E055°37.848'). Ravitailleurs : Ar
         :setMissionEditorZoneName("combatZone_Persepolis")
         :setFriendlyName("Z18 Tourisme — Persépolis")
         :setRadioGroupName("Tourisme")
-        :setBriefing([[Persépolis, la capitale des rois achéménides, au pied du mont Rahmat : un vol touristique à basse altitude sur le plateau de Marvdasht, à 1 600 m. Les Gardiens de la révolution ont installé un détachement à 2 km au nord-est du site : blindés, camions et deux ZU-23. Le neutraliser sans toucher aux ruines. Le SA-11 de Shiraz porte jusqu'à 3 nm au sud-ouest du site : arriver par l'est. Ruines de Persépolis dans DCS : à confirmer en jeu.
+        :setBriefing([[Persépolis, la capitale des rois achéménides, au pied du mont Rahmat : un vol touristique à basse altitude sur le plateau de Marvdasht, à 1 600 m. Les Gardiens de la révolution ont installé un détachement à 2 km au nord-est du site : blindés, camions et deux ZU-23. Le neutraliser sans toucher aux ruines. Le SA-11 de Shiraz porte jusqu'à 3 nm au sud-ouest du site : arriver par l'est. Les colonnes et l'escalier de l'Apadana sont modélisés dans DCS.
 Position : bullseye 331°/254 nm (N29°56.110' E052°53.424'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 319 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 302 nm.]])
         :setTraining(false)
         :initialize()
