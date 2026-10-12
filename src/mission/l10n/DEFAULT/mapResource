@@ -1,0 +1,13 @@
+mapResource = 
+{
+  ResKey_ImageBriefing_carte = "carte.jpg",
+  ResKey_ImageBriefing_carte_01_abudhabi = "carte_01_abudhabi.jpg",
+  ResKey_ImageBriefing_carte_02_dubai = "carte_02_dubai.jpg",
+  ResKey_ImageBriefing_carte_03_ormuz = "carte_03_ormuz.jpg",
+  ResKey_ImageBriefing_carte_04_iles = "carte_04_iles.jpg",
+  ResKey_ImageBriefing_carte_05_ouest = "carte_05_ouest.jpg",
+  ResKey_ImageBriefing_carte_06_lar = "carte_06_lar.jpg",
+  ResKey_ImageBriefing_carte_07_oman = "carte_07_oman.jpg",
+  ResKey_ImageBriefing_carte_08_profondeur = "carte_08_profondeur.jpg",
+  ResKey_ImageBriefing_carte_09_arene = "carte_09_arene.jpg",
+}

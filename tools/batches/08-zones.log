@@ -1,0 +1,68 @@
+[1] create_combat_zone: {"zone_name": "combatZone_Qeshm", "zone_id": 10, "warnings": []}
+[2] add_group: {"group_id": 113, "name": "combatZone_Qeshm-Static-Command-1", "durable": true, "warnings": []}
+[3] add_group: {"group_id": 114, "name": "combatZone_Qeshm-Static-Fuel-2", "durable": true, "warnings": []}
+[4] create_combat_zone: {"zone_name": "combatZone_BandarLengeh", "zone_id": 11, "warnings": []}
+[5] add_group: {"group_id": 120, "name": "combatZone_BandarLengeh-Static-Barracks-1", "durable": true, "warnings": []}
+[6] add_group: {"group_id": 121, "name": "combatZone_BandarLengeh-Static-Barracks-2", "durable": true, "warnings": []}
+[7] create_combat_zone: {"zone_name": "combatZone_Minab", "zone_id": 12, "warnings": []}
+[8] add_group: {"group_id": 127, "name": "combatZone_Minab-Static-Barracks-1", "durable": true, "warnings": []}
+[9] add_group: {"group_id": 128, "name": "combatZone_Minab-Static-Barracks-2", "durable": true, "warnings": []}
+[10] add_group: {"group_id": 129, "name": "combatZone_Minab-Static-Fuel-3", "durable": true, "warnings": []}
+[11] add_group: {"group_id": 130, "name": "combatZone_Minab-Static-Fuel-4", "durable": true, "warnings": []}
+[12] add_group: {"group_id": 131, "name": "combatZone_Minab-Static-Workshop-5", "durable": true, "warnings": []}
+[13] add_group: {"group_id": 132, "name": "combatZone_Minab-Static-TV-6", "durable": true, "warnings": []}
+[14] create_combat_zone: {"zone_name": "combatZone_Lavan", "zone_id": 13, "warnings": []}
+[15] create_combat_zone: {"zone_name": "combatZone_Jask", "zone_id": 14, "warnings": []}
+[16] create_combat_zone: {"zone_name": "combatZone_ConvoiMinab", "zone_id": 15, "warnings": []}
+[17] create_combat_zone: {"zone_name": "combatZone_ConvoiLar", "zone_id": 16, "warnings": []}
+[18] create_combat_zone: {"zone_name": "combatZone_ConvoiJask", "zone_id": 17, "warnings": []}
+[19] create_combat_zone: {"zone_name": "combatZone_WeaponFactory", "zone_id": 18, "warnings": []}
+[20] add_group: {"group_id": 146, "name": "combatZone_WeaponFactory-Static-Workshop-1", "durable": true, "warnings": []}
+[21] add_group: {"group_id": 147, "name": "combatZone_WeaponFactory-Static-Workshop-2", "durable": true, "warnings": []}
+[22] add_group: {"group_id": 148, "name": "combatZone_WeaponFactory-Static-Tech-3", "durable": true, "warnings": []}
+[23] add_group: {"group_id": 149, "name": "combatZone_WeaponFactory-Static-Hangar-4", "durable": true, "warnings": []}
+[24] add_group: {"group_id": 150, "name": "combatZone_WeaponFactory-Static-Chemical-5", "durable": true, "warnings": []}
+[25] add_group: {"group_id": 151, "name": "combatZone_WeaponFactory-Static-Chemical-6", "durable": true, "warnings": []}
+[26] add_group: {"group_id": 152, "name": "combatZone_WeaponFactory-Static-Fuel-7", "durable": true, "warnings": []}
+[27] add_group: {"group_id": 153, "name": "combatZone_WeaponFactory-Static-Garage-8", "durable": true, "warnings": []}
+[28] create_combat_zone: {"zone_name": "combatZone_Missiles", "zone_id": 19, "warnings": []}
+[29] add_group: {"group_id": 157, "name": "combatZone_Missiles-Static-Bunker-1", "durable": true, "warnings": []}
+[30] add_group: {"group_id": 158, "name": "combatZone_Missiles-Static-Military-2", "durable": true, "warnings": []}
+[31] create_combat_zone: {"zone_name": "combatZone_PortRajaee", "zone_id": 20, "warnings": []}
+[32] add_group: {"group_id": 161, "name": "combatZone_PortRajaee-Static-Warehouse-1", "durable": true, "warnings": []}
+[33] add_group: {"group_id": 162, "name": "combatZone_PortRajaee-Static-Warehouse-2", "durable": true, "warnings": []}
+[34] add_group: {"group_id": 163, "name": "combatZone_PortRajaee-Static-Fuel-3", "durable": true, "warnings": []}
+[35] add_group: {"group_id": 164, "name": "combatZone_PortRajaee-Static-Fuel-4", "durable": true, "warnings": []}
+[36] add_group: {"group_id": 165, "name": "combatZone_PortRajaee-Static-Container-5", "durable": true, "warnings": []}
+[37] add_group: {"group_id": 166, "name": "combatZone_PortRajaee-Static-Container-6", "durable": true, "warnings": []}
+[38] add_group: {"group_id": 167, "name": "combatZone_PortRajaee-Static-Tank-7", "durable": true, "warnings": []}
+[39] create_combat_zone: {"zone_name": "combatZone_CentraleLar", "zone_id": 21, "warnings": []}
+[40] add_group: {"group_id": 169, "name": "combatZone_CentraleLar-Static-Boiler-house-1", "durable": true, "warnings": []}
+[41] add_group: {"group_id": 170, "name": "combatZone_CentraleLar-Static-Workshop-2", "durable": true, "warnings": []}
+[42] add_group: {"group_id": 171, "name": "combatZone_CentraleLar-Static-Workshop-3", "durable": true, "warnings": []}
+[43] add_group: {"group_id": 172, "name": "combatZone_CentraleLar-Static-Tech-4", "durable": true, "warnings": []}
+[44] add_group: {"group_id": 173, "name": "combatZone_CentraleLar-Static-Shelter-5", "durable": true, "warnings": []}
+[45] add_group: {"group_id": 174, "name": "combatZone_CentraleLar-Static-Electric-6", "durable": true, "warnings": []}
+[46] create_combat_zone: {"zone_name": "combatZone_Kish", "zone_id": 22, "warnings": []}
+[47] add_group: {"group_id": 177, "name": "combatZone_Kish-Static-F-14A-1", "durable": true, "warnings": []}
+[48] add_group: {"group_id": 178, "name": "combatZone_Kish-Static-F-14A-2", "durable": true, "warnings": []}
+[49] add_group: {"group_id": 179, "name": "combatZone_Kish-Static-F-4E-3", "durable": true, "warnings": []}
+[50] add_group: {"group_id": 180, "name": "combatZone_Kish-Static-F-4E-4", "durable": true, "warnings": []}
+[51] add_group: {"group_id": 181, "name": "combatZone_Kish-Static-Hangar-5", "durable": true, "warnings": []}
+[52] add_group: {"group_id": 182, "name": "combatZone_Kish-Static-Fuel-6", "durable": true, "warnings": []}
+[53] create_combat_zone: {"zone_name": "combatZone_Jiroft", "zone_id": 23, "warnings": []}
+[54] add_group: {"group_id": 185, "name": "combatZone_Jiroft-Static-Su-24M-1", "durable": true, "warnings": []}
+[55] add_group: {"group_id": 186, "name": "combatZone_Jiroft-Static-Su-24M-2", "durable": true, "warnings": []}
+[56] add_group: {"group_id": 187, "name": "combatZone_Jiroft-Static-MiG-29A-3", "durable": true, "warnings": []}
+[57] add_group: {"group_id": 188, "name": "combatZone_Jiroft-Static-MiG-29A-4", "durable": true, "warnings": []}
+[58] add_group: {"group_id": 189, "name": "combatZone_Jiroft-Static-Hangar-5", "durable": true, "warnings": []}
+[59] add_group: {"group_id": 190, "name": "combatZone_Jiroft-Static-Fuel-6", "durable": true, "warnings": []}
+[60] create_combat_zone: {"zone_name": "combatZone_Flottille", "zone_id": 24, "warnings": []}
+[61] create_combat_zone: {"zone_name": "combatZone_AbuMusa", "zone_id": 25, "warnings": []}
+[62] add_group: {"group_id": 193, "name": "combatZone_AbuMusa-Silkworm", "durable": true, "warnings": []}
+[63] create_combat_zone: {"zone_name": "combatZone_Mubarek", "zone_id": 26, "warnings": []}
+[64] add_group: {"group_id": 195, "name": "combatZone_Mubarek-Static-Oil-1", "durable": true, "warnings": [{"group": "combatZone_Mubarek-Static-Oil-1", "warning": "'combatZone_Mubarek-Static-Oil-1' is in the sea: the ground reads 0 m there"}]}
+[65] add_group: {"group_id": 196, "name": "combatZone_Mubarek-Static-Oil-2", "durable": true, "warnings": [{"group": "combatZone_Mubarek-Static-Oil-2", "warning": "'combatZone_Mubarek-Static-Oil-2' is in the sea: the ground reads 0 m there"}]}
+[66] add_group: {"group_id": 197, "name": "combatZone_Mubarek-Static-Gas-3", "durable": true, "warnings": [{"group": "combatZone_Mubarek-Static-Gas-3", "warning": "'combatZone_Mubarek-Static-Gas-3' is in the sea: the ground reads 0 m there"}]}
+[67] add_group: {"group_id": 198, "name": "combatZone_Mubarek-Static-Gas-4", "durable": true, "warnings": [{"group": "combatZone_Mubarek-Static-Gas-4", "warning": "'combatZone_Mubarek-Static-Gas-4' is in the sea: the ground reads 0 m there"}]}
+[68] add_air_group: {"group_id": 199, "name": "Reaper 2", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}

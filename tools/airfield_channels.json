@@ -1,0 +1,412 @@
+describe_airfield_channels: {
+ "theatre": "PersianGulf",
+ "candidates": [
+  {
+   "airdrome_id": 25,
+   "name": "Al Ain Intl",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.7,
+    "vhf": 119.85,
+    "fm": 39.15
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 4,
+   "name": "Al Dhafra AFB",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.1,
+    "vhf": 126.5,
+    "fm": 39.5
+   },
+   "tacan": "96X",
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 12,
+   "name": "Al Minhad AFB",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.1,
+    "vhf": 118.55,
+    "fm": 38.5
+   },
+   "tacan": "99X",
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 23,
+   "name": "Al-Bateen",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.6,
+    "vhf": 119.9,
+    "fm": 39.05
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 2,
+   "name": "Bandar Abbas Intl",
+   "coalition": "red",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.0,
+    "vhf": 118.1,
+    "fm": 39.4
+   },
+   "tacan": "78X",
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 7,
+   "name": "Fujairah Intl",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.25,
+    "vhf": 124.6,
+    "fm": 39.65
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 10,
+   "name": "Khasab",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.0,
+    "vhf": 124.35,
+    "fm": 38.4
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 11,
+   "name": "Lar",
+   "coalition": "red",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.05,
+    "vhf": 127.35,
+    "fm": 38.45
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 29,
+   "name": "Liwa AFB",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.95,
+    "vhf": 119.3,
+    "fm": 39.35
+   },
+   "tacan": "121X",
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 28,
+   "name": "Ras Al Khaimah Intl",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.9,
+    "vhf": 121.6,
+    "fm": 39.3
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 19,
+   "name": "Shiraz Intl",
+   "coalition": "red",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.35,
+    "vhf": 121.9,
+    "fm": 38.8
+   },
+   "tacan": "94X",
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 17,
+   "name": "Sir Abu Nuayr",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.8,
+    "vhf": 118.0,
+    "fm": 38.7
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 22,
+   "name": "Abu Dhabi Intl",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.55,
+    "vhf": 119.2,
+    "fm": 39.0
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 1,
+   "name": "Abu Musa Island",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.4,
+    "vhf": 122.9,
+    "fm": 38.85
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 6,
+   "name": "Al Maktoum Intl",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.2,
+    "vhf": 118.6,
+    "fm": 39.6
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 3,
+   "name": "Bandar Lengeh",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.05,
+    "vhf": 121.7,
+    "fm": 39.45
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 21,
+   "name": "Bandar-e-Jask",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.5,
+    "vhf": 118.15,
+    "fm": 38.95
+   },
+   "tacan": "110X",
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 5,
+   "name": "Dubai Intl",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.15,
+    "vhf": 118.75,
+    "fm": 39.55
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 9,
+   "name": "Havadarya",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.3,
+    "vhf": 123.15,
+    "fm": 39.7
+   },
+   "tacan": "47X",
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 27,
+   "name": "Jiroft",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.85,
+    "vhf": 136.0,
+    "fm": 39.25
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 18,
+   "name": "Kerman",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.3,
+    "vhf": 118.25,
+    "fm": 38.75
+   },
+   "tacan": "97X",
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 24,
+   "name": "Kish Intl",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.65,
+    "vhf": 121.65,
+    "fm": 39.1
+   },
+   "tacan": "112X",
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 26,
+   "name": "Lavan Island",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.75,
+    "vhf": 128.55,
+    "fm": 39.2
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 13,
+   "name": "Qeshm Island",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.15,
+    "vhf": 118.05,
+    "fm": 38.55
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 20,
+   "name": "Sas Al Nakheel",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.45,
+    "vhf": 128.9,
+    "fm": 38.9
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 14,
+   "name": "Sharjah Intl",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.2,
+    "vhf": 118.6,
+    "fm": 38.6
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 15,
+   "name": "Sirri Island",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.25,
+    "vhf": 135.05,
+    "fm": 38.65
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  }
+ ],
+ "bases_channels": [],
+ "on_a_radio": []
+}

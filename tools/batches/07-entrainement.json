@@ -1,0 +1,834 @@
+[
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Berlin_Easy",
+   "position": {
+    "x": -217391,
+    "y": -238497
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Inert-T-72B-1",
+     "position": {
+      "x": -216791,
+      "y": -238497
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-T-72B-2",
+     "position": {
+      "x": -217041,
+      "y": -237891
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BMP-2-3",
+     "position": {
+      "x": -217641,
+      "y": -238064
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BMP-2",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BMP-2-4",
+     "position": {
+      "x": -218191,
+      "y": -238497
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BMP-2",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BRDM-2-5",
+     "position": {
+      "x": -217691,
+      "y": -239017
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BRDM-2",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Ural-375-6",
+     "position": {
+      "x": -217041,
+      "y": -239103
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Ural-375-7",
+     "position": {
+      "x": -217045,
+      "y": -238697
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375",
+       "count": 1
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "H1 Hélico Berlin — facile",
+    "radio_group_name": "Entraînement hélicoptères",
+    "training": true,
+    "briefing": "Champ de tir hélicoptères à 3 nm à l'ouest du FARP Berlin : cibles inertes (chars, blindés et camions immobiles, tir interdit).\nPosition : bullseye 212°/146 nm (N24°10.751' E053°54.423'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Berlin_Medium",
+   "position": {
+    "x": -217391,
+    "y": -238497
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "H2-1",
+     "position": {
+      "x": -216352,
+      "y": -237897
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #spawngroup=\"H2AAA\" #spawncount=2 #H2-1"
+      }
+     ]
+    },
+    {
+     "name": "H2-2",
+     "position": {
+      "x": -218344,
+      "y": -237947
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #spawngroup=\"H2AAA\" #spawncount=2 #H2-2"
+      }
+     ]
+    },
+    {
+     "name": "H2-3",
+     "position": {
+      "x": -217391,
+      "y": -239797
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #spawngroup=\"H2AAA\" #spawncount=2 #H2-3"
+      }
+     ]
+    },
+    {
+     "name": "H2-4",
+     "position": {
+      "x": -218170,
+      "y": -238947
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country iran\" #spawnchance=50 #H2-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "H2 Hélico Berlin — moyen",
+    "radio_group_name": "Entraînement hélicoptères",
+    "training": true,
+    "briefing": "Champ de tir hélicoptères de Berlin : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile.\nPosition : bullseye 212°/146 nm (N24°10.751' E053°54.423'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm.",
+    "includes": [
+     "combatZone_Berlin_Easy"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Berlin_Hard",
+   "position": {
+    "x": -217391,
+    "y": -238497
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "H3-1",
+     "position": {
+      "x": -218034,
+      "y": -239263
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-10M3",
+       "name": "#command=\"-sa13, country iran\" #spawngroup=\"H3SR\" #spawncount=1 #H3-1"
+      }
+     ]
+    },
+    {
+     "name": "H3-2",
+     "position": {
+      "x": -216891,
+      "y": -239363
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-10M3",
+       "name": "#command=\"-sa13, country iran\" #spawngroup=\"H3SR\" #spawncount=1 #H3-2"
+      }
+     ]
+    },
+    {
+     "name": "H3-3",
+     "position": {
+      "x": -217904,
+      "y": -239907
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SA-18 Igla-S manpad",
+       "name": "#command=\"-sa18, country iran\" #spawngroup=\"H3MP\" #spawncount=1 #H3-3"
+      }
+     ]
+    },
+    {
+     "name": "H3-4",
+     "position": {
+      "x": -218707,
+      "y": -238976
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SA-18 Igla-S manpad",
+       "name": "#command=\"-sa18, country iran\" #spawngroup=\"H3MP\" #spawncount=1 #H3-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "H3 Hélico Berlin — difficile",
+    "radio_group_name": "Entraînement hélicoptères",
+    "training": true,
+    "briefing": "Champ de tir hélicoptères de Berlin, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge.\nPosition : bullseye 212°/146 nm (N24°10.751' E053°54.423'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm.",
+    "includes": [
+     "combatZone_Berlin_Medium"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Tarif_Easy",
+   "position": {
+    "x": -250000,
+    "y": -215000
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Inert-T-72B-1",
+     "position": {
+      "x": -249300,
+      "y": -215000
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-T-72B-2",
+     "position": {
+      "x": -249311,
+      "y": -214421
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-T-72B-3",
+     "position": {
+      "x": -249896,
+      "y": -214409
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BMP-2-4",
+     "position": {
+      "x": -250400,
+      "y": -214307
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BMP-2",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BMP-2-5",
+     "position": {
+      "x": -250470,
+      "y": -214829
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BMP-2",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BTR-80-6",
+     "position": {
+      "x": -250658,
+      "y": -215239
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-80",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BTR-80-7",
+     "position": {
+      "x": -250450,
+      "y": -215779
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-80",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Ural-375-8",
+     "position": {
+      "x": -249896,
+      "y": -215591
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Ural-375-9",
+     "position": {
+      "x": -249387,
+      "y": -215514
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-KAMAZ-10",
+     "position": {
+      "x": -249606,
+      "y": -215069
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "KAMAZ Truck",
+       "count": 1
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "A1 Attaque Tarif — facile",
+    "radio_group_name": "Entraînement attaque",
+    "training": true,
+    "briefing": "Champ de tir air-sol au nord de Tarif, à 23 nm de Liwa : blindés et camions immobiles en tir interdit, dépôt de carburant et poste de commandement. Le drone Reaper 1 tourne au-dessus.\nPosition : bullseye 205°/156 nm (N23°53.372' E054°08.675'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 49 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 65 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Tarif_Medium",
+   "position": {
+    "x": -250000,
+    "y": -215000
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "A2-1",
+     "position": {
+      "x": -250996,
+      "y": -215836
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "name": "#command=\"-armor, defense 0, country iran\" #A2-1"
+      }
+     ]
+    },
+    {
+     "name": "A2-2",
+     "position": {
+      "x": -249250,
+      "y": -213701
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #spawngroup=\"A2AAA\" #spawncount=1 #A2-2"
+      }
+     ]
+    },
+    {
+     "name": "A2-3",
+     "position": {
+      "x": -249300,
+      "y": -216212
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #spawngroup=\"A2AAA\" #spawncount=1 #A2-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "A2 Attaque Tarif — moyen",
+    "radio_group_name": "Entraînement attaque",
+    "training": true,
+    "briefing": "Champ de tir de Tarif : une compagnie blindée active et de l'artillerie antiaérienne légère en plus des cibles du niveau facile.\nPosition : bullseye 205°/156 nm (N23°53.372' E054°08.675'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 49 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 65 nm.",
+    "includes": [
+     "combatZone_Tarif_Easy"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Tarif_Hard",
+   "position": {
+    "x": -250000,
+    "y": -215000
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "A3-1",
+     "position": {
+      "x": -250278,
+      "y": -216576
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "name": "#command=\"-armor, defense 1, country iran\" #A3-1"
+      }
+     ]
+    },
+    {
+     "name": "A3-2",
+     "position": {
+      "x": -251128,
+      "y": -215410
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-10M3",
+       "name": "#command=\"-sa13, country iran\" #spawngroup=\"A3SR\" #spawncount=1 #A3-2"
+      }
+     ]
+    },
+    {
+     "name": "A3-3",
+     "position": {
+      "x": -249081,
+      "y": -215771
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-1 9P31",
+       "name": "#command=\"-sa9, country iran\" #spawngroup=\"A3SR\" #spawncount=1 #A3-3"
+      }
+     ]
+    },
+    {
+     "name": "A3-4",
+     "position": {
+      "x": -250274,
+      "y": -215752
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country iran\" #A3-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "A3 Attaque Tarif — difficile",
+    "radio_group_name": "Entraînement attaque",
+    "training": true,
+    "briefing": "Champ de tir de Tarif : un second groupe blindé et une défense courte portée à guidage infrarouge (SA-13 ou SA-9), avec un Shilka.\nPosition : bullseye 205°/156 nm (N23°53.372' E054°08.675'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 49 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 65 nm.",
+    "includes": [
+     "combatZone_Tarif_Medium"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_AlQua_Easy",
+   "position": {
+    "x": -285000,
+    "y": -150000
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "S1-1",
+     "position": {
+      "x": -285000,
+      "y": -150000
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Kub 2P25 ln",
+       "name": "#command=\"-sa6, country iran\" #spawngroup=\"S1MR\" #spawncount=1 #S1-1"
+      }
+     ]
+    },
+    {
+     "name": "S1-2",
+     "position": {
+      "x": -285000,
+      "y": -149700
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SA-11 Buk LN 9A310M1",
+       "name": "#command=\"-sa11, country iran\" #spawngroup=\"S1MR\" #spawncount=1 #S1-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "S1 SEAD Al Qua'a — facile",
+    "radio_group_name": "Entraînement SEAD",
+    "training": true,
+    "briefing": "Site SEAD dans le désert d'Al Qua'a, au sud d'Al Dhafra : une batterie sol-air moyenne portée, SA-6 ou SA-11 tirée au sort.\nPosition : bullseye 191°/163 nm (N23°35.050' E054°47.271'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 68 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 85 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_AlQua_Medium",
+   "position": {
+    "x": -285000,
+    "y": -150000
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "S2-1",
+     "position": {
+      "x": -283939,
+      "y": -148939
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15, country iran\" #spawngroup=\"S2SR\" #spawncount=2 #S2-1"
+      }
+     ]
+    },
+    {
+     "name": "S2-2",
+     "position": {
+      "x": -286449,
+      "y": -149612
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Osa 9A33 ln",
+       "name": "#command=\"-sa8, country iran\" #spawngroup=\"S2SR\" #spawncount=2 #S2-2"
+      }
+     ]
+    },
+    {
+     "name": "S2-3",
+     "position": {
+      "x": -284612,
+      "y": -151449
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15, country iran\" #spawngroup=\"S2SR\" #spawncount=2 #S2-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "S2 SEAD Al Qua'a — moyen",
+    "radio_group_name": "Entraînement SEAD",
+    "training": true,
+    "briefing": "Site SEAD d'Al Qua'a : la batterie moyenne portée est protégée par une défense courte portée (SA-15, SA-8).\nPosition : bullseye 191°/163 nm (N23°35.050' E054°47.271'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 68 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 85 nm.",
+    "includes": [
+     "combatZone_AlQua_Easy"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_AlQua_Hard",
+   "position": {
+    "x": -285000,
+    "y": -150000
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "S3-1",
+     "position": {
+      "x": -286100,
+      "y": -148095
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "55G6 EWR",
+       "name": "#command=\"-ewr, country iran\" #S3-1"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "S3 SEAD Al Qua'a — difficile",
+    "radio_group_name": "Entraînement SEAD",
+    "training": true,
+    "briefing": "Site SEAD d'Al Qua'a en réseau Skynet : un radar d'alerte avancée guide les batteries, qui restent éteintes jusqu'au dernier moment.\nPosition : bullseye 191°/163 nm (N23°35.050' E054°47.271'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 68 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 85 nm.",
+    "includes": [
+     "combatZone_AlQua_Medium"
+    ]
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Fuel-1",
+   "position": {
+    "x": -250191,
+    "y": -213917
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Tarif_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Fuel-2",
+   "position": {
+    "x": -250410,
+    "y": -213872
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Tarif_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Command-3",
+   "position": {
+    "x": -248778,
+    "y": -214555
+   },
+   "units": [
+    {
+     "type": ".Command Center"
+    }
+   ],
+   "for_combat_zone": "combatZone_Tarif_Easy",
+   "keep_position": true
+  }
+ }
+]

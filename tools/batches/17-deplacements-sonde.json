@@ -1,0 +1,5 @@
+[
+ {"name": "set_group_properties", "params": {"mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6", "group_name": "combatZone_Minab-Smerch", "move_to": {"x": 109775, "y": 86761}}},
+ {"name": "set_group_properties", "params": {"mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6", "group_name": "combatZone_Jask-Z05-3", "move_to": {"x": -51630, "y": 154447}}},
+ {"name": "set_group_properties", "params": {"mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6", "group_name": "AD Hajiabad SA-10", "move_to": {"x": 202624, "y": 37682}}}
+]

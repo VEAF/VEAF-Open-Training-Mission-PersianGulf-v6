@@ -1,0 +1,365 @@
+# Plan radio de l'Open Training Golfe Persique — écrit par tools/gen_12_presets.py, ne pas éditer à la main.
+# Hors bande des tours : les tours du théâtre occupent UHF 250.0-251.3, une partie de la VHF 118.0-136.0,
+# FM 38.4-39.7 (describe_airfield_channels, 12/10/2026). AWACS 282-286, ravitailleurs 290-295 (dernier chiffre
+# = TACAN), S-3B 296-297, porte-avions 305-307, patrouilles VHF 130.0-131.3 / UHF 390-395.5.
+# Les canaux d'aérodromes (collection `bases`) viennent de set_airfield_channels : fréquences DCS.
+channel_lists:
+  blue:
+    primary_1: &id003
+      1: &id001
+        title: Guard/UHF
+        channel: Guard
+      2: Overlord-1
+      3: Magic-1
+      4: Texaco-1
+      5: Arco-1
+      6: Texaco-2
+      7: Arco-2
+      8: Stennis
+      9: Roosevelt
+      10: Tarawa
+      11: S3B-Stennis
+      12: S3B-Roosevelt
+      13: Darkstar-1
+      14: Base-Al Dhafra AFB
+      15: Base-Al Minhad AFB
+      16: Base-Khasab
+      17: Base-Ras Al Khaimah Intl
+      18: Base-Fujairah Intl
+      19: Base-Liwa AFB
+      20: Base-Al Ain Intl
+    primary_2:
+      1: &id002
+        title: Guard/VHF
+        channel: Guard
+      2: FARP-Berlin
+      3: FARP-London
+      4: Archer
+      5: Arctic
+      6: Astro
+      7: Nickel
+      8: Nitro
+      9: Ninja
+      10: Pinder
+      11: Bengal
+      12: Base-Al Dhafra AFB
+      13: Base-Al Minhad AFB
+      14: Base-Khasab
+      15: Base-Ras Al Khaimah Intl
+      16: Base-Fujairah Intl
+      17: Base-Liwa AFB
+      18: Base-Al Ain Intl
+      19: Base-Al-Bateen
+      20: Base-Sir Abu Nuayr
+    fm_supplement:
+      1: 30
+      2: 31
+      3: 32
+      4: 33
+      5: 34
+      6: 35
+      7: 36
+      8: 37
+      9: 38
+      10: 39
+      11: 40
+      12: 41
+      13: 42
+      14: 43
+      15: 44
+      16: 45
+      17: 46
+      18: 47
+      19: 48
+      20: 49
+  red:
+    primary_1:
+      1: *id001
+      2: Wizard-1
+      3: Shell-1
+      4: Focus-1
+      5: Base-Bandar Abbas Intl
+      6: Base-Lar
+      7: Base-Shiraz Intl
+      8: Base-Havadarya
+      9: Base-Qeshm Island
+      10: Base-Kish Intl
+    primary_2:
+      1: *id002
+      2: Shahin
+      3: Oghab
+      4: Toufan
+      5: Saeqeh
+      6: Kowsar
+      7: Azarakhsh
+      8: Base-Bandar Abbas Intl
+      9: Base-Lar
+      10: Base-Shiraz Intl
+      11: Base-Havadarya
+      12: Base-Qeshm Island
+      13: Base-Kish Intl
+    fm_supplement:
+      1: 30
+      2: 31
+      3: 32
+      4: 33
+      5: 34
+      6: 35
+      7: 36
+      8: 37
+      9: 38
+      10: 39
+      11: 40
+      12: 41
+      13: 42
+      14: 43
+      15: 44
+      16: 45
+      17: 46
+      18: 47
+      19: 48
+      20: 49
+presets_assignments:
+  blue:
+    helicopter:
+      Mi-8MT: none
+      CH-47Fbl1: modern_blue_fm_uhf
+radios_collection:
+  blue_radios:
+    radio_uhf_30:
+      title: UHF
+      type: uhf
+      channels: *id003
+    radio_fm_30:
+      title: FM
+      type: fm
+      channels:
+        1: 30
+        2: 31
+        3: 32
+        4: 33
+        5: 34
+        6: 35
+        7: 36
+        8: 37
+        9: 38
+        10: 39
+        11: 40
+        12: 41
+        13: 42
+        14: 43
+        15: 44
+        16: 45
+        17: 46
+        18: 47
+        19: 48
+        20: 49
+        21: 50
+        22: 51
+        23: 52
+        24: 53
+        25: 54
+        26: 55
+        27: 56
+        28: 57
+        29: 58
+        30: 59
+presets_collection:
+  blue_presets:
+    modern_blue_fm_uhf:
+      title: Blue coalition - FM/UHF (CH-47)
+      radios:
+        radio_1: radio_fm_30
+        radio_2: radio_uhf_30
+channels_collection:
+  tactical:
+    Guard:
+      title: Guard
+      freqs:
+        uhf: 243
+        vhf: 121.5
+    Overlord-1:
+      title: Overlord 1 AWACS ouest
+      freqs:
+        uhf: 282.0
+    Magic-1:
+      title: Magic 1 AWACS est
+      freqs:
+        uhf: 283.0
+    Wizard-1:
+      title: Wizard 1 AWACS
+      freqs:
+        uhf: 284.0
+    Darkstar-1:
+      title: Darkstar 1 Arène
+      freqs:
+        uhf: 285.0
+    Focus-1:
+      title: Focus 1 Arène
+      freqs:
+        uhf: 286.0
+    Texaco-1:
+      title: Texaco 1/BS/50Y
+      freqs:
+        uhf: 290.0
+    Arco-1:
+      title: Arco 1/BM/51Y
+      freqs:
+        uhf: 291.0
+    Texaco-2:
+      title: Texaco 2/BS/52Y
+      freqs:
+        uhf: 292.0
+    Arco-2:
+      title: Arco 2/BM/53Y
+      freqs:
+        uhf: 293.0
+    Shell-1:
+      title: Shell 1 IL-78
+      freqs:
+        uhf: 294.0
+    S3B-Stennis:
+      title: S-3B Stennis/56Y
+      freqs:
+        uhf: 296.0
+    S3B-Roosevelt:
+      title: S-3B Roosevelt/57Y
+      freqs:
+        uhf: 297.0
+    Stennis:
+      title: Stennis/74X/ICLS11
+      freqs:
+        uhf: 305.0
+    Roosevelt:
+      title: Roosevelt/71X/ICLS12
+      freqs:
+        uhf: 306.0
+    Tarawa:
+      title: Tarawa/73X/ICLS13
+      freqs:
+        uhf: 307.0
+    FARP-Berlin:
+      title: FARP Berlin
+      freqs:
+        vhf: 127.5
+    FARP-London:
+      title: FARP London
+      freqs:
+        vhf: 128.5
+  flights:
+    Archer:
+      title: Archer
+      freqs:
+        vhf: 130.0
+        uhf: 390.0
+    Arctic:
+      title: Arctic
+      freqs:
+        vhf: 130.1
+        uhf: 390.1
+    Astro:
+      title: Astro
+      freqs:
+        vhf: 130.2
+        uhf: 390.2
+    Nickel:
+      title: Nickel
+      freqs:
+        vhf: 130.3
+        uhf: 390.3
+    Nitro:
+      title: Nitro
+      freqs:
+        vhf: 130.4
+        uhf: 390.4
+    Ninja:
+      title: Ninja
+      freqs:
+        vhf: 130.5
+        uhf: 390.5
+    Pinder:
+      title: Pinder
+      freqs:
+        vhf: 130.6
+        uhf: 390.6
+    Bengal:
+      title: Bengal
+      freqs:
+        vhf: 130.7
+        uhf: 390.7
+    Shahin:
+      title: Shahin
+      freqs:
+        vhf: 130.8
+        uhf: 395.0
+    Oghab:
+      title: Oghab
+      freqs:
+        vhf: 130.9
+        uhf: 395.1
+    Toufan:
+      title: Toufan
+      freqs:
+        vhf: 131.0
+        uhf: 395.2
+    Saeqeh:
+      title: Saeqeh
+      freqs:
+        vhf: 131.1
+        uhf: 395.3
+    Kowsar:
+      title: Kowsar
+      freqs:
+        vhf: 131.2
+        uhf: 395.4
+    Azarakhsh:
+      title: Azarakhsh
+      freqs:
+        vhf: 131.3
+        uhf: 395.5
+  bases:
+    Base-Al Dhafra AFB:
+      title: Al Dhafra AFB / 96X
+      freqs: {uhf: 251.1, vhf: 126.5, fm: 39.5}
+    Base-Al Minhad AFB:
+      title: Al Minhad AFB / 99X
+      freqs: {uhf: 250.1, vhf: 118.55, fm: 38.5}
+    Base-Khasab:
+      title: Khasab
+      freqs: {uhf: 250.0, vhf: 124.35, fm: 38.4}
+    Base-Ras Al Khaimah Intl:
+      title: Ras Al Khaimah Intl
+      freqs: {uhf: 250.9, vhf: 121.6, fm: 39.3}
+    Base-Fujairah Intl:
+      title: Fujairah Intl
+      freqs: {uhf: 251.25, vhf: 124.6, fm: 39.65}
+    Base-Liwa AFB:
+      title: Liwa AFB / 121X
+      freqs: {uhf: 250.95, vhf: 119.3, fm: 39.35}
+    Base-Al Ain Intl:
+      title: Al Ain Intl
+      freqs: {uhf: 250.7, vhf: 119.85, fm: 39.15}
+    Base-Al-Bateen:
+      title: Al-Bateen
+      freqs: {uhf: 250.6, vhf: 119.9, fm: 39.05}
+    Base-Sir Abu Nuayr:
+      title: Sir Abu Nuayr
+      freqs: {uhf: 250.8, vhf: 118.0, fm: 38.7}
+    Base-Bandar Abbas Intl:
+      title: Bandar Abbas Intl / 78X
+      freqs: {uhf: 251.0, vhf: 118.1, fm: 39.4}
+    Base-Lar:
+      title: Lar
+      freqs: {uhf: 250.05, vhf: 127.35, fm: 38.45}
+    Base-Shiraz Intl:
+      title: Shiraz Intl / 94X
+      freqs: {uhf: 250.35, vhf: 121.9, fm: 38.8}
+    Base-Havadarya:
+      title: Havadarya / 47X
+      freqs: {uhf: 251.3, vhf: 123.15, fm: 39.7}
+    Base-Qeshm Island:
+      title: Qeshm Island
+      freqs: {uhf: 250.15, vhf: 118.05, fm: 38.55}
+    Base-Kish Intl:
+      title: Kish Intl / 112X
+      freqs: {uhf: 250.65, vhf: 121.65, fm: 39.1}

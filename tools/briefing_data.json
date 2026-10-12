@@ -1,0 +1,1894 @@
+{
+ "name": "VEAF_OpenTraining_PersianGulf_ICAO_OMAA",
+ "date": {
+  "Day": 15,
+  "Month": 11,
+  "Year": 2025
+ },
+ "start": 32400,
+ "bullseye": {
+  "x": 11193.0,
+  "y": -93469.0,
+  "ddm": "N26°15.893' E055°18.324'"
+ },
+ "bases": [
+  {
+   "name": "Al Ain Intl",
+   "side": "blue",
+   "x": -211058,
+   "y": -65421,
+   "be": "173°/121 nm",
+   "ddm": "N24°15.686' E055°36.555'",
+   "uhf": 250.7,
+   "vhf": 119.85,
+   "fm": 39.15
+  },
+  {
+   "name": "Al Dhafra AFB",
+   "side": "blue",
+   "x": -211028,
+   "y": -173240,
+   "be": "200°/127 nm",
+   "ddm": "N24°14.897' E054°32.862'",
+   "uhf": 251.1,
+   "vhf": 126.5,
+   "fm": 39.5
+  },
+  {
+   "name": "Al Minhad AFB",
+   "side": "blue",
+   "x": -126014,
+   "y": -89133,
+   "be": "178°/74 nm",
+   "ddm": "N25°01.613' E055°21.946'",
+   "uhf": 250.1,
+   "vhf": 118.55,
+   "fm": 38.5
+  },
+  {
+   "name": "Al-Bateen",
+   "side": "blue",
+   "x": -190947,
+   "y": -181928,
+   "be": "204°/119 nm",
+   "ddm": "N24°25.684' E054°27.515'",
+   "uhf": 250.6,
+   "vhf": 119.9,
+   "fm": 39.05
+  },
+  {
+   "name": "Fujairah Intl",
+   "side": "blue",
+   "x": -117532,
+   "y": 7939,
+   "be": "142°/88 nm",
+   "ddm": "N25°06.656' E056°19.641'",
+   "uhf": 251.25,
+   "vhf": 124.6,
+   "fm": 39.65
+  },
+  {
+   "name": "Khasab",
+   "side": "blue",
+   "x": -220,
+   "y": -178,
+   "be": "097°/51 nm",
+   "ddm": "N26°10.189' E056°14.410'",
+   "uhf": 250.0,
+   "vhf": 124.35,
+   "fm": 38.4
+  },
+  {
+   "name": "Liwa AFB",
+   "side": "blue",
+   "x": -275766,
+   "y": -248214,
+   "be": "208°/176 nm",
+   "ddm": "N23°39.046' E053°49.466'",
+   "uhf": 250.95,
+   "vhf": 119.3,
+   "fm": 39.35
+  },
+  {
+   "name": "Ras Al Khaimah Intl",
+   "side": "blue",
+   "x": -61625,
+   "y": -30796,
+   "be": "139°/52 nm",
+   "ddm": "N25°36.809' E055°56.328'",
+   "uhf": 250.9,
+   "vhf": 121.6,
+   "fm": 39.3
+  },
+  {
+   "name": "Sir Abu Nuayr",
+   "side": "blue",
+   "x": -103103,
+   "y": -202973,
+   "be": "224°/85 nm",
+   "ddm": "N25°13.012' E054°14.019'",
+   "uhf": 250.8,
+   "vhf": 118.0,
+   "fm": 38.7
+  },
+  {
+   "name": "Bandar Abbas Intl",
+   "side": "red",
+   "x": 115766,
+   "y": 14258,
+   "be": "046°/81 nm",
+   "ddm": "N27°13.061' E056°22.738'",
+   "uhf": 251.0,
+   "vhf": 118.1,
+   "fm": 39.4
+  },
+  {
+   "name": "Lar",
+   "side": "red",
+   "x": 168978,
+   "y": -182360,
+   "be": "331°/98 nm",
+   "ddm": "N27°40.484' E054°22.988'",
+   "uhf": 250.05,
+   "vhf": 127.35,
+   "fm": 38.45
+  },
+  {
+   "name": "Shiraz Intl",
+   "side": "red",
+   "x": 381101,
+   "y": -351636,
+   "be": "325°/244 nm",
+   "ddm": "N29°32.455' E052°35.465'",
+   "uhf": 250.35,
+   "vhf": 121.9,
+   "fm": 38.8
+  }
+ ],
+ "farps": [
+  {
+   "name": "Berlin",
+   "x": -217391.0,
+   "y": -232497.0,
+   "freq": "127.5",
+   "be": "211°/144 nm",
+   "ddm": "N24°10.823' E053°57.962'"
+  },
+  {
+   "name": "London",
+   "x": -66742.0,
+   "y": -17757.0,
+   "freq": "128.5",
+   "be": "136°/59 nm",
+   "ddm": "N25°34.090' E056°04.140'"
+  }
+ ],
+ "support": [
+  {
+   "name": "Texaco 1",
+   "side": "blue",
+   "type": "KC-135",
+   "kind": "tanker",
+   "tacan": "50Y",
+   "freq": 290.0,
+   "alt_ft": 22000.0,
+   "a": {
+    "x": -130000,
+    "y": -240000,
+    "ddm": "N24°58.020' E053°52.365'"
+   },
+   "b": {
+    "x": -130000.0,
+    "y": -180000.0,
+    "ddm": "N24°58.698' E054°27.989'"
+   },
+   "mid_be": "220°/99 nm",
+   "escort": true
+  },
+  {
+   "name": "Arco 1",
+   "side": "blue",
+   "type": "KC135MPRS",
+   "kind": "tanker",
+   "tacan": "51Y",
+   "freq": 291.0,
+   "alt_ft": 18000.0,
+   "a": {
+    "x": -160000,
+    "y": -225000,
+    "ddm": "N24°41.968' E054°01.657'"
+   },
+   "b": {
+    "x": -160000.0,
+    "y": -165000.0,
+    "ddm": "N24°42.603' E054°37.209'"
+   },
+   "mid_be": "211°/107 nm",
+   "escort": true
+  },
+  {
+   "name": "Overlord 1",
+   "side": "blue",
+   "type": "E-3A",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 282.0,
+   "alt_ft": 30000.0,
+   "a": {
+    "x": -200000,
+    "y": -140000,
+    "ddm": "N24°21.165' E054°52.393'"
+   },
+   "b": {
+    "x": -200000.0,
+    "y": -60000.0,
+    "ddm": "N24°21.705' E055°39.695'"
+   },
+   "mid_be": "182°/114 nm",
+   "escort": true
+  },
+  {
+   "name": "Texaco 2",
+   "side": "blue",
+   "type": "KC-135",
+   "kind": "tanker",
+   "tacan": "52Y",
+   "freq": 292.0,
+   "alt_ft": 24000.0,
+   "a": {
+    "x": -150000,
+    "y": 45000,
+    "ddm": "N24°49.136' E056°41.739'"
+   },
+   "b": {
+    "x": -90000.0,
+    "y": 45000.0,
+    "ddm": "N25°21.647' E056°41.659'"
+   },
+   "mid_be": "133°/103 nm",
+   "escort": true
+  },
+  {
+   "name": "Arco 2",
+   "side": "blue",
+   "type": "KC135MPRS",
+   "kind": "tanker",
+   "tacan": "53Y",
+   "freq": 293.0,
+   "alt_ft": 20000.0,
+   "a": {
+    "x": -165000,
+    "y": 75000,
+    "ddm": "N24°41.026' E056°59.552'"
+   },
+   "b": {
+    "x": -105000.0,
+    "y": 75000.0,
+    "ddm": "N25°13.538' E056°59.550'"
+   },
+   "mid_be": "131°/120 nm",
+   "escort": true
+  },
+  {
+   "name": "Magic 1",
+   "side": "blue",
+   "type": "E-2C",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 283.0,
+   "alt_ft": 28000.0,
+   "a": {
+    "x": -210000,
+    "y": 50000,
+    "ddm": "N24°16.628' E056°44.774'"
+   },
+   "b": {
+    "x": -160000.0,
+    "y": 110000.0,
+    "ddm": "N24°43.713' E057°20.317'"
+   },
+   "mid_be": "139°/141 nm",
+   "escort": true
+  },
+  {
+   "name": "Darkstar 1",
+   "side": "blue",
+   "type": "E-3A",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 285.0,
+   "alt_ft": 30000.0,
+   "a": {
+    "x": 300000,
+    "y": -660000,
+    "ddm": "N28°40.341' E049°28.883'"
+   },
+   "b": {
+    "x": 300000.0,
+    "y": -720000.0,
+    "ddm": "N28°38.220' E048°52.388'"
+   },
+   "mid_be": "296°/358 nm",
+   "escort": false
+  },
+  {
+   "name": "Wizard 1",
+   "side": "red",
+   "type": "A-50",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 284.0,
+   "alt_ft": 30000.0,
+   "a": {
+    "x": 320000,
+    "y": -120000,
+    "ddm": "N29°02.859' E054°59.369'"
+   },
+   "b": {
+    "x": 320000.0,
+    "y": -20000.0,
+    "ddm": "N29°03.546' E056°00.981'"
+   },
+   "mid_be": "004°/167 nm",
+   "escort": true
+  },
+  {
+   "name": "Focus 1",
+   "side": "red",
+   "type": "A-50",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 286.0,
+   "alt_ft": 30000.0,
+   "a": {
+    "x": 470000,
+    "y": -660000,
+    "ddm": "N30°11.593' E049°22.070'"
+   },
+   "b": {
+    "x": 470000.0,
+    "y": -720000.0,
+    "ddm": "N30°09.337' E048°45.038'"
+   },
+   "mid_be": "308°/406 nm",
+   "escort": false
+  },
+  {
+   "name": "Shell 1",
+   "side": "red",
+   "type": "IL-78M",
+   "kind": "tanker",
+   "tacan": null,
+   "freq": 294.0,
+   "alt_ft": 20000.0,
+   "a": {
+    "x": 250000,
+    "y": -150000,
+    "ddm": "N28°24.682' E054°41.727'"
+   },
+   "b": {
+    "x": 250000.0,
+    "y": -60000.0,
+    "ddm": "N28°25.429' E055°36.834'"
+   },
+   "mid_be": "357°/129 nm",
+   "escort": true
+  }
+ ],
+ "caps": [
+  {
+   "name": "CAP-RAK-F16",
+   "side": "blue",
+   "type": "F-16C bl.50",
+   "a": {
+    "x": -75000,
+    "y": -45000,
+    "ddm": "N25°29.498' E055°47.913'"
+   },
+   "b": {
+    "x": -50000.0,
+    "y": -20000.0,
+    "ddm": "N25°43.152' E056°02.728'"
+   },
+   "mid_be": "140°/52 nm",
+   "n": 2,
+   "fl": 220,
+   "menu": "CAP bleue F-16 (Fox 3) — Ras Al Khaimah — FL220",
+   "briefing": "Deux F-16C patrouillent au-dessus de Ras Al Khaimah et de la base de Musandam, au FL220. Emport : AIM-120C*4, AIM-9M*2, Fuel."
+  },
+  {
+   "name": "CAP-AbuDhabi-M2000",
+   "side": "blue",
+   "type": "Mirage 2000-5",
+   "a": {
+    "x": -175000,
+    "y": -205000,
+    "ddm": "N24°34.076' E054°13.685'"
+   },
+   "b": {
+    "x": -150000.0,
+    "y": -150000.0,
+    "ddm": "N24°48.154' E054°46.003'"
+   },
+   "mid_be": "206°/104 nm",
+   "n": 2,
+   "fl": 250,
+   "menu": "CAP bleue Mirage 2000-5 (Fox 3) — Abu Dhabi — FL250",
+   "briefing": "Deux Mirage 2000-5 émiriens couvrent la côte d'Abu Dhabi, au FL250. Emport : R 550*2,MICA AR*4,Fuel*3."
+  },
+  {
+   "name": "CAP-Qeshm-MiG29",
+   "side": "red",
+   "type": "MiG-29A",
+   "a": {
+    "x": 70000,
+    "y": -60000,
+    "ddm": "N26°47.956' E055°38.052'"
+   },
+   "b": {
+    "x": 90000.0,
+    "y": -20000.0,
+    "ddm": "N26°58.988' E056°02.102'"
+   },
+   "mid_be": "038°/47 nm",
+   "n": 2,
+   "fl": 220,
+   "menu": "CAP rouge MiG-29 (Fox 1) — Qeshm — FL220",
+   "briefing": "Deux MiG-29A armés de R-27R et R-73 patrouillent au-dessus de l'île de Qeshm, au FL220. Emport : R-73*4,R-27R*2,Fuel-1500."
+  },
+  {
+   "name": "CAP-Lengeh-F4",
+   "side": "red",
+   "type": "F-4E",
+   "a": {
+    "x": 60000,
+    "y": -165000,
+    "ddm": "N26°41.697' E054°34.819'"
+   },
+   "b": {
+    "x": 75000.0,
+    "y": -110000.0,
+    "ddm": "N26°50.319' E055°07.836'"
+   },
+   "mid_be": "322°/39 nm",
+   "n": 2,
+   "fl": 200,
+   "menu": "CAP rouge F-4E (Fox 1) — Bandar Lengeh — FL200",
+   "briefing": "Deux F-4E armés d'AIM-7 et d'AIM-9 patrouillent au-dessus de Bandar Lengeh et de Kong, au FL200. Emport : AIM-9*4,AIM-7*4,Fuel*2."
+  },
+  {
+   "name": "CAP-Lar-F14",
+   "side": "red",
+   "type": "F-14A",
+   "a": {
+    "x": 150000,
+    "y": -230000,
+    "ddm": "N27°29.622' E053°54.329'"
+   },
+   "b": {
+    "x": 190000.0,
+    "y": -150000.0,
+    "ddm": "N27°52.210' E054°42.421'"
+   },
+   "mid_be": "329°/100 nm",
+   "n": 2,
+   "fl": 350,
+   "menu": "CAP rouge F-14A (intercepteur haut et rapide, AIM-54) — Lar — FL350",
+   "briefing": "Deux F-14A armés de Phoenix patrouillent haut et vite au-dessus de Lar, au FL350. Emport : AIM-54C*4,AIM-9*2,AIM-7*2."
+  },
+  {
+   "name": "Raid-Kish-Su24",
+   "side": "red",
+   "type": "Su-24M",
+   "a": {
+    "x": 70000,
+    "y": -250000,
+    "ddm": "N26°46.078' E053°43.466'"
+   },
+   "b": {
+    "x": 40000.0,
+    "y": -195000.0,
+    "ddm": "N26°30.547' E054°17.000'"
+   },
+   "mid_be": "289°/74 nm",
+   "n": 2,
+   "fl": 150,
+   "menu": "Raid rouge Su-24M à intercepter — Kish — FL150",
+   "briefing": "Deux Su-24M chargés de bombes tournent au-dessus de Kish, au FL150, prêts à frapper Sir Abu Nuayr : les intercepter. Emport : FAB-500*4,R-60M*2."
+  }
+ ],
+ "carriers": [
+  {
+   "name": "CSG-74 Stennis",
+   "x": -89300.0,
+   "y": -253900.0,
+   "tacan": "74X STN",
+   "icls": 11,
+   "link4": 336.0,
+   "tower": 305.0,
+   "group": "CSG-74 Stennis",
+   "escorts": 2,
+   "ddm": "N25°19.860' E053°43.528'",
+   "be": "238°/102 nm",
+   "deck": [
+    {
+     "group": "Stennis F/A-18C #1",
+     "type": "FA-18C_hornet",
+     "n": 2
+    },
+    {
+     "group": "Stennis F/A-18C #2",
+     "type": "FA-18C_hornet",
+     "n": 2
+    },
+    {
+     "group": "Stennis F-14B #1",
+     "type": "F-14B",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "name": "CSG-71 Roosevelt",
+   "x": -185000.0,
+   "y": 80000.0,
+   "tacan": "71X RSV",
+   "icls": 12,
+   "link4": 337.0,
+   "tower": 306.0,
+   "group": "CSG-71 Roosevelt",
+   "escorts": 2,
+   "ddm": "N24°30.188' E057°02.513'",
+   "be": "139°/141 nm",
+   "deck": [
+    {
+     "group": "Roosevelt F/A-18C #1",
+     "type": "FA-18C_hornet",
+     "n": 2
+    },
+    {
+     "group": "Roosevelt F-14B #1",
+     "type": "F-14B",
+     "n": 2
+    },
+    {
+     "group": "Roosevelt F-14B #2",
+     "type": "F-14B",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "name": "ARG-1 Tarawa",
+   "x": -85000.0,
+   "y": -225000.0,
+   "tacan": "73X TRW",
+   "icls": 13,
+   "tower": 307.0,
+   "group": "ARG-1 Tarawa",
+   "escorts": 1,
+   "ddm": "N25°22.553' E054°00.675'",
+   "be": "234°/88 nm",
+   "deck": [
+    {
+     "group": "Tarawa AV-8B #1",
+     "type": "AV8BNA",
+     "n": 2
+    },
+    {
+     "group": "Tarawa AV-8B #2",
+     "type": "AV8BNA",
+     "n": 2
+    }
+   ]
+  }
+ ],
+ "zones": [
+  {
+   "key": "combatZone_Berlin_Easy",
+   "name": "H1 Hélico Berlin — facile",
+   "training": true,
+   "menu": "Entraînement hélicoptères",
+   "x": -217391,
+   "y": -238497,
+   "radius_nm": 1.349892008639309,
+   "be": "212°/146 nm",
+   "ddm": "N24°10.751' E053°54.423'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm",
+   "briefing": "Champ de tir hélicoptères à 3 nm à l'ouest du FARP Berlin : cibles inertes (chars, blindés et camions immobiles, tir interdit)."
+  },
+  {
+   "key": "combatZone_Berlin_Medium",
+   "name": "H2 Hélico Berlin — moyen",
+   "training": true,
+   "menu": "Entraînement hélicoptères",
+   "x": -217391,
+   "y": -238497,
+   "radius_nm": 1.349892008639309,
+   "be": "212°/146 nm",
+   "ddm": "N24°10.751' E053°54.423'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm",
+   "briefing": "Champ de tir hélicoptères de Berlin : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile."
+  },
+  {
+   "key": "combatZone_Berlin_Hard",
+   "name": "H3 Hélico Berlin — difficile",
+   "training": true,
+   "menu": "Entraînement hélicoptères",
+   "x": -217391,
+   "y": -238497,
+   "radius_nm": 1.349892008639309,
+   "be": "212°/146 nm",
+   "ddm": "N24°10.751' E053°54.423'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm",
+   "briefing": "Champ de tir hélicoptères de Berlin, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge."
+  },
+  {
+   "key": "combatZone_Tarif_Easy",
+   "name": "A1 Attaque Tarif — facile",
+   "training": true,
+   "menu": "Entraînement attaque",
+   "x": -250000,
+   "y": -215000,
+   "radius_nm": 1.349892008639309,
+   "be": "205°/156 nm",
+   "ddm": "N23°53.372' E054°08.675'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 49 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 65 nm",
+   "briefing": "Champ de tir air-sol au nord de Tarif, à 23 nm de Liwa : blindés et camions immobiles en tir interdit, dépôt de carburant et poste de commandement. Le drone Reaper 1 tourne au-dessus."
+  },
+  {
+   "key": "combatZone_Tarif_Medium",
+   "name": "A2 Attaque Tarif — moyen",
+   "training": true,
+   "menu": "Entraînement attaque",
+   "x": -250000,
+   "y": -215000,
+   "radius_nm": 1.349892008639309,
+   "be": "205°/156 nm",
+   "ddm": "N23°53.372' E054°08.675'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 49 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 65 nm",
+   "briefing": "Champ de tir de Tarif : une compagnie blindée active et de l'artillerie antiaérienne légère en plus des cibles du niveau facile."
+  },
+  {
+   "key": "combatZone_Tarif_Hard",
+   "name": "A3 Attaque Tarif — difficile",
+   "training": true,
+   "menu": "Entraînement attaque",
+   "x": -250000,
+   "y": -215000,
+   "radius_nm": 1.349892008639309,
+   "be": "205°/156 nm",
+   "ddm": "N23°53.372' E054°08.675'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 49 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 65 nm",
+   "briefing": "Champ de tir de Tarif : un second groupe blindé et une défense courte portée à guidage infrarouge (SA-13 ou SA-9), avec un Shilka."
+  },
+  {
+   "key": "combatZone_AlQua_Easy",
+   "name": "S1 SEAD Al Qua'a — facile",
+   "training": true,
+   "menu": "Entraînement SEAD",
+   "x": -285000,
+   "y": -150000,
+   "radius_nm": 1.6198704103671706,
+   "be": "191°/163 nm",
+   "ddm": "N23°35.050' E054°47.271'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 68 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 85 nm",
+   "briefing": "Site SEAD dans le désert d'Al Qua'a, au sud d'Al Dhafra : une batterie sol-air moyenne portée, SA-6 ou SA-11 tirée au sort."
+  },
+  {
+   "key": "combatZone_AlQua_Medium",
+   "name": "S2 SEAD Al Qua'a — moyen",
+   "training": true,
+   "menu": "Entraînement SEAD",
+   "x": -285000,
+   "y": -150000,
+   "radius_nm": 1.6198704103671706,
+   "be": "191°/163 nm",
+   "ddm": "N23°35.050' E054°47.271'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 68 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 85 nm",
+   "briefing": "Site SEAD d'Al Qua'a : la batterie moyenne portée est protégée par une défense courte portée (SA-15, SA-8)."
+  },
+  {
+   "key": "combatZone_AlQua_Hard",
+   "name": "S3 SEAD Al Qua'a — difficile",
+   "training": true,
+   "menu": "Entraînement SEAD",
+   "x": -285000,
+   "y": -150000,
+   "radius_nm": 1.6198704103671706,
+   "be": "191°/163 nm",
+   "ddm": "N23°35.050' E054°47.271'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 68 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 85 nm",
+   "briefing": "Site SEAD d'Al Qua'a en réseau Skynet : un radar d'alerte avancée guide les batteries, qui restent éteintes jusqu'au dernier moment."
+  },
+  {
+   "key": "combatZone_Qeshm",
+   "name": "Z01 Front — brigade IRGC de Qeshm",
+   "training": false,
+   "menu": "Front",
+   "x": 76000,
+   "y": -28000,
+   "radius_nm": 1.349892008639309,
+   "be": "045°/50 nm",
+   "ddm": "N26°51.371' E055°57.336'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 112 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 98 nm",
+   "briefing": "La brigade des Gardiens de la révolution qui tient l'île de Qeshm et le détroit d'Ormuz : chars, blindés et lance-roquettes multiples en position. Détruire les blindés et l'artillerie ; défense SA-15 possible et artillerie antiaérienne. Sous la couverture lointaine du SA-10 au nord de Bandar Abbas."
+  },
+  {
+   "key": "combatZone_BandarLengeh",
+   "name": "Z02 Front — défense côtière de Bandar Lengeh",
+   "training": false,
+   "menu": "Front",
+   "x": 50740,
+   "y": -135038,
+   "radius_nm": 1.349892008639309,
+   "be": "314°/31 nm",
+   "ddm": "N26°36.972' E054°52.969'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 115 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 101 nm",
+   "briefing": "La brigade de défense côtière de Bandar Lengeh, face à Abu Musa et aux Tunb : blindés et artillerie. Défense courte portée seulement (SA-13, Shilka) : le drone Reaper 2 la désigne au laser."
+  },
+  {
+   "key": "combatZone_Minab",
+   "name": "Z03 Front — base IRGC de Minab",
+   "training": false,
+   "menu": "Front",
+   "x": 109400,
+   "y": 86371,
+   "radius_nm": 0.8099352051835853,
+   "be": "061°/111 nm",
+   "ddm": "N27°09.693' E057°06.429'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 116 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 110 nm",
+   "briefing": "La base des Gardiens de la révolution de Minab, à l'est de Bandar Abbas : casernes, dépôts, lance-roquettes Smerch. Défendue par une batterie SA-11, un SA-15 et des ZU-23 : traiter le SA-11 d'abord."
+  },
+  {
+   "key": "combatZone_Lavan",
+   "name": "Z04 SEAD — site Hawk de Lavan",
+   "training": false,
+   "menu": "SEAD",
+   "x": 75496,
+   "y": -294522,
+   "radius_nm": 0.8099352051835853,
+   "be": "288°/114 nm",
+   "ddm": "N26°48.386' E053°16.551'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 133 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 115 nm",
+   "briefing": "Le site Hawk de l'île de Lavan, à l'ouest du Golfe, couvert par un radar d'alerte avancée en réseau Skynet. Détruire le radar de poursuite et les lanceurs."
+  },
+  {
+   "key": "combatZone_Jask",
+   "name": "Z05 SEAD — site sol-air de Jask",
+   "training": false,
+   "menu": "SEAD",
+   "x": -51214,
+   "y": 154150,
+   "radius_nm": 1.079913606911447,
+   "be": "104°/138 nm",
+   "ddm": "N25°42.556' E057°46.884'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 52 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 63 nm",
+   "briefing": "Le site sol-air qui protège la base navale de Jask, sur la mer d'Oman : une batterie SA-2 ou SA-3 tirée au sort, son radar d'alerte avancée et un Shilka."
+  },
+  {
+   "key": "combatZone_ConvoiMinab",
+   "name": "Z06 Convoi — Bandar Abbas vers Minab",
+   "training": false,
+   "menu": "Convois",
+   "x": 112923,
+   "y": 38998,
+   "radius_nm": 0.8099352051835853,
+   "be": "052°/90 nm",
+   "ddm": "N27°11.574' E056°37.733'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 119 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 110 nm",
+   "briefing": "Un convoi logistique quitte Bandar Abbas par la route côtière de l'est vers la base de Minab. L'arrêter avant Minab ; il porte sa propre artillerie antiaérienne (ZU-23)."
+  },
+  {
+   "key": "combatZone_ConvoiLar",
+   "name": "Z07 Convoi — Lar vers Bandar Lengeh",
+   "training": false,
+   "menu": "Convois",
+   "x": 151653,
+   "y": -188603,
+   "radius_nm": 0.8099352051835853,
+   "be": "326°/92 nm",
+   "ddm": "N27°31.037' E054°19.422'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 168 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 152 nm",
+   "briefing": "Des renforts blindés descendent de Lar vers la côte par Bastak et Kong. Les arrêter avant la côte ; le convoi est escorté par un SA-13."
+  },
+  {
+   "key": "combatZone_ConvoiJask",
+   "name": "Z08 Convoi — Jask vers Sirik",
+   "training": false,
+   "menu": "Convois",
+   "x": -47175,
+   "y": 152376,
+   "radius_nm": 0.8099352051835853,
+   "be": "103°/136 nm",
+   "ddm": "N25°44.750' E057°45.837'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 52 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 62 nm",
+   "briefing": "Un convoi de carburant remonte la côte de la mer d'Oman, de Jask vers Sirik et Minab. Le détruire avant Sirik ; il porte sa propre artillerie antiaérienne."
+  },
+  {
+   "key": "combatZone_WeaponFactory",
+   "name": "Z09 Frappe — usine d'armement de Sirjan",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": 324196,
+   "y": -86766,
+   "radius_nm": 0.6479481641468683,
+   "be": "001°/169 nm",
+   "ddm": "N29°05.411' E055°19.804'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 248 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 235 nm",
+   "briefing": "L'usine d'armement de la région de Sirjan, loin dans les terres : ateliers, hangars, réservoirs chimiques. Tout détruire ; défense SA-6 et ZU-23. Long trajet : prévoir le ravitaillement."
+  },
+  {
+   "key": "combatZone_Missiles",
+   "name": "Z10 Frappe — base de missiles balistiques",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": 150000,
+   "y": 40000,
+   "radius_nm": 0.8099352051835853,
+   "be": "044°/104 nm",
+   "ddm": "N27°31.660' E056°38.274'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 139 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 130 nm",
+   "briefing": "Une base de missiles balistiques des Gardiens de la révolution dans les montagnes au nord-est de Bandar Abbas : lanceurs Scud et leurs camions. Détruire les lanceurs ; défense SA-15 et Shilka, sous la couverture du SA-10 au nord de Bandar Abbas."
+  },
+  {
+   "key": "combatZone_PortRajaee",
+   "name": "Z11 Frappe — port Shahid Rajaee",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": 103393,
+   "y": -17110,
+   "radius_nm": 0.5399568034557235,
+   "be": "040°/65 nm",
+   "ddm": "N27°06.254' E056°03.789'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 123 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 110 nm",
+   "briefing": "Les dépôts logistiques militaires du port Shahid Rajaee, à l'ouest de Bandar Abbas : entrepôts, réservoirs, conteneurs. Tout détruire ; ZU-23 sur place, et les défenses permanentes de Bandar Abbas à moins de 15 nm."
+  },
+  {
+   "key": "combatZone_CentraleLar",
+   "name": "Z12 Frappe — centrale électrique de Lar",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": 167610,
+   "y": -201530,
+   "radius_nm": 0.4319654427645788,
+   "be": "325°/103 nm",
+   "ddm": "N27°39.516' E054°11.357'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 177 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 161 nm",
+   "briefing": "La centrale électrique au sud de Lar. Détruire les bâtiments ; ZU-23 sur place, et le SA-10 et le SA-15 de Lar à 10 nm au nord."
+  },
+  {
+   "key": "combatZone_Kish",
+   "name": "Z13 OCA — base aérienne de Kish",
+   "training": false,
+   "menu": "Bases aériennes",
+   "x": 43284,
+   "y": -225094,
+   "radius_nm": 0.8099352051835853,
+   "be": "284°/73 nm",
+   "ddm": "N26°31.959' E053°58.856'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 110 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 94 nm",
+   "briefing": "La base aérienne de l'île de Kish : chasseurs au parking, hangars et carburant. Tout détruire au sol ; défense SA-15 et Shilka."
+  },
+  {
+   "key": "combatZone_Jiroft",
+   "name": "Z14 OCA — base aérienne de Jiroft",
+   "training": false,
+   "menu": "Bases aériennes",
+   "x": 282608,
+   "y": 142285,
+   "radius_nm": 0.8099352051835853,
+   "be": "041°/194 nm",
+   "ddm": "N28°43.409' E057°40.874'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 212 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 208 nm",
+   "briefing": "La base aérienne de Jiroft, au nord de Minab : chasseurs-bombardiers au parking, hangars. Tout détruire au sol ; défense SA-6 et ZU-23."
+  },
+  {
+   "key": "combatZone_Flottille",
+   "name": "Z15 Antinavire — flottille devant Bandar Abbas",
+   "training": false,
+   "menu": "Antinavire",
+   "x": 95000,
+   "y": 5000,
+   "radius_nm": 2.159827213822894,
+   "be": "050°/70 nm",
+   "ddm": "N27°01.786' E056°17.200'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 114 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 102 nm",
+   "briefing": "Une flottille de la marine iranienne en patrouille dans le détroit, entre Qeshm, Larak et Bandar Abbas : deux vedettes lance-missiles et une corvette. Les couler ; elles sont sous les défenses permanentes de Bandar Abbas."
+  },
+  {
+   "key": "combatZone_AbuMusa",
+   "name": "Z16 Antinavire — vedettes et Silkworm d'Abu Musa",
+   "training": false,
+   "menu": "Antinavire",
+   "x": -28500,
+   "y": -118500,
+   "radius_nm": 2.699784017278618,
+   "be": "212°/25 nm",
+   "ddm": "N25°54.210' E055°03.646'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 75 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 64 nm",
+   "briefing": "Les Gardiens de la révolution tiennent Abu Musa : un essaim de vedettes rapides à l'est de l'île et une batterie de missiles antinavires (HY-2 Silkworm) sur l'île. Couler les vedettes, détruire les lanceurs et leur radar ; SA-15 permanent sur l'île."
+  },
+  {
+   "key": "combatZone_Mubarek",
+   "name": "Z17 Antinavire — champ pétrolier de Mubarek",
+   "training": false,
+   "menu": "Antinavire",
+   "x": 8000,
+   "y": -61000,
+   "radius_nm": 1.6198704103671706,
+   "be": "096°/18 nm",
+   "ddm": "N26°14.372' E055°37.848'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 95 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 78 nm",
+   "briefing": "Le champ pétrolier offshore de Mubarek, au sud-est des Tunb, sert de base avancée aux vedettes des Gardiens de la révolution : plates-formes et vedettes en patrouille. Détruire les plates-formes et couler les vedettes."
+  },
+  {
+   "key": "combatZone_Persepolis",
+   "name": "Z18 Tourisme — Persépolis",
+   "training": false,
+   "menu": "Tourisme",
+   "x": 423777,
+   "y": -321034,
+   "radius_nm": 1.6198704103671706,
+   "be": "331°/254 nm",
+   "ddm": "N29°56.110' E052°53.424'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 319 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 302 nm",
+   "briefing": "Persépolis, la capitale des rois achéménides, au pied du mont Rahmat : un vol touristique à basse altitude sur le plateau de Marvdasht, à 1 600 m. Les Gardiens de la révolution ont installé un détachement à 2 km au nord-est du site : blindés, camions et deux ZU-23. Le neutraliser sans toucher aux ruines. Le SA-11 de Shiraz porte jusqu'à 3 nm au sud-ouest du site : arriver par l'est. Ruines de Persépolis dans DCS : à confirmer en jeu."
+  }
+ ],
+ "qra": [
+  {
+   "name": "QRA Bandar Abbas",
+   "side": "red",
+   "x": 95000,
+   "y": 0,
+   "radius_nm": 25,
+   "airport": "Bandar Abbas Intl",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × MiG-29A",
+      "2 × F-4E"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "2 × F-14A",
+      "4 × MiG-29A"
+     ]
+    }
+   ],
+   "ddm": "N27°01.770' E056°14.176'",
+   "be": "048°/68 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Lar",
+   "side": "red",
+   "x": 168978,
+   "y": -182360,
+   "radius_nm": 25,
+   "airport": "Lar",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × F-4E",
+      "2 × MiG-29A"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "2 × F-14A",
+      "4 × F-4E"
+     ]
+    }
+   ],
+   "ddm": "N27°40.484' E054°22.988'",
+   "be": "331°/98 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Al Minhad",
+   "side": "blue",
+   "x": -115000,
+   "y": -80000,
+   "radius_nm": 25,
+   "airport": "Al Minhad AFB",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × F-16C bl.50",
+      "2 × Mirage 2000-5"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "4 × F-15C",
+      "4 × Mirage 2000-5"
+     ]
+    }
+   ],
+   "ddm": "N25°07.637' E055°27.300'",
+   "be": "174°/69 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Al Dhafra",
+   "side": "blue",
+   "x": -211028,
+   "y": -173240,
+   "radius_nm": 30,
+   "airport": "Al Dhafra AFB",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × F-15C",
+      "2 × F-16C bl.50"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "4 × F-15C",
+      "4 × F-16C bl.50"
+     ]
+    }
+   ],
+   "ddm": "N24°14.897' E054°32.862'",
+   "be": "200°/127 nm",
+   "delay": 90,
+   "helos": false
+  }
+ ],
+ "sanctuaries": [
+  {
+   "name": "Sanctuaire Al Dhafra",
+   "side": "blue",
+   "x": -245000,
+   "y": -200000,
+   "radius_nm": 43.196544276457885,
+   "radius_km": 80.0
+  },
+  {
+   "name": "Sanctuaire Lar",
+   "side": "red",
+   "x": 168978,
+   "y": -182360,
+   "radius_nm": 6.479481641468682,
+   "radius_km": 12.0
+  },
+  {
+   "name": "Sanctuaire Shiraz",
+   "side": "red",
+   "x": 381101,
+   "y": -351636,
+   "radius_nm": 10.799136069114471,
+   "radius_km": 20.0
+  }
+ ],
+ "front": [
+  [
+   {
+    "x": 20000.0,
+    "y": -340000.0
+   },
+   {
+    "x": -20000.0,
+    "y": -260000.0
+   },
+   {
+    "x": -60000.0,
+    "y": -195000.0
+   },
+   {
+    "x": -55000.0,
+    "y": -130000.0
+   },
+   {
+    "x": -40000.0,
+    "y": -80000.0
+   },
+   {
+    "x": 5000.0,
+    "y": -40000.0
+   },
+   {
+    "x": 40000.0,
+    "y": 0.0
+   },
+   {
+    "x": 25000.0,
+    "y": 35000.0
+   },
+   {
+    "x": -30000.0,
+    "y": 85000.0
+   },
+   {
+    "x": -100000.0,
+    "y": 140000.0
+   },
+   {
+    "x": -160000.0,
+    "y": 190000.0
+   }
+  ]
+ ],
+ "arena_zone": {
+  "x": 380000.0,
+  "y": -690000.0,
+  "radius_nm": 40,
+  "be": "302°/379 nm",
+  "ddm": "N29°22.217' E049°07.362'"
+ },
+ "ad": [
+  {
+   "name": "Al Dhafra Patriot",
+   "side": "blue",
+   "alias": "-patriot",
+   "x": -207269,
+   "y": -171872,
+   "ddm": "N24°16.945' E054°33.631'",
+   "be": "200°/125 nm"
+  },
+  {
+   "name": "Al Dhafra Hawk",
+   "side": "blue",
+   "alias": "-hawk",
+   "x": -215257,
+   "y": -174779,
+   "ddm": "N24°12.593' E054°31.997'",
+   "be": "200°/130 nm"
+  },
+  {
+   "name": "Al Dhafra Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -211883,
+   "y": -170891,
+   "ddm": "N24°14.456' E054°34.258'",
+   "be": "199°/127 nm"
+  },
+  {
+   "name": "Al-Bateen NASAMS",
+   "side": "blue",
+   "alias": "-nasams",
+   "x": -193296,
+   "y": -181073,
+   "ddm": "N24°24.421' E054°28.046'",
+   "be": "203°/120 nm"
+  },
+  {
+   "name": "Al-Bateen Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -189556,
+   "y": -182544,
+   "ddm": "N24°26.431' E054°27.136'",
+   "be": "204°/119 nm"
+  },
+  {
+   "name": "Liwa Hawk",
+   "side": "blue",
+   "alias": "-hawk",
+   "x": -272302,
+   "y": -246214,
+   "ddm": "N23°40.945' E053°50.595'",
+   "be": "208°/174 nm"
+  },
+  {
+   "name": "Liwa Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -277498,
+   "y": -249214,
+   "ddm": "N23°38.097' E053°48.901'",
+   "be": "208°/177 nm"
+  },
+  {
+   "name": "Al Ain Patriot",
+   "side": "blue",
+   "alias": "-patriot",
+   "x": -206058,
+   "y": -65421,
+   "ddm": "N24°18.395' E055°36.525'",
+   "be": "173°/118 nm"
+  },
+  {
+   "name": "Al Ain Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -213058,
+   "y": -65421,
+   "ddm": "N24°14.602' E055°36.567'",
+   "be": "173°/122 nm"
+  },
+  {
+   "name": "Al Minhad Patriot",
+   "side": "blue",
+   "alias": "-patriot",
+   "x": -129478,
+   "y": -87133,
+   "ddm": "N24°59.749' E055°23.159'",
+   "be": "177°/76 nm"
+  },
+  {
+   "name": "Al Minhad Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -124282,
+   "y": -90133,
+   "ddm": "N25°02.544' E055°21.339'",
+   "be": "179°/73 nm"
+  },
+  {
+   "name": "Ras Al Khaimah NASAMS",
+   "side": "blue",
+   "alias": "-nasams",
+   "x": -62875,
+   "y": -28631,
+   "ddm": "N25°36.142' E055°57.627'",
+   "be": "139°/53 nm"
+  },
+  {
+   "name": "Ras Al Khaimah Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -60875,
+   "y": -32095,
+   "ddm": "N25°37.210' E055°55.548'",
+   "be": "140°/51 nm"
+  },
+  {
+   "name": "Fujairah Hawk",
+   "side": "blue",
+   "alias": "-hawk",
+   "x": -118729,
+   "y": 4650,
+   "ddm": "N25°05.999' E056°17.687'",
+   "be": "143°/88 nm"
+  },
+  {
+   "name": "Fujairah Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -116122,
+   "y": 8452,
+   "ddm": "N25°07.422' E056°19.942'",
+   "be": "141°/88 nm"
+  },
+  {
+   "name": "Sir Abu Nuayr NASAMS",
+   "side": "blue",
+   "alias": "-nasams",
+   "x": -103155,
+   "y": -202668,
+   "ddm": "N25°12.987' E054°14.201'",
+   "be": "224°/85 nm"
+  },
+  {
+   "name": "Khasab Hawk",
+   "side": "blue",
+   "alias": "-hawk",
+   "x": -3220,
+   "y": -178,
+   "ddm": "N26°08.564' E056°14.421'",
+   "be": "099°/51 nm"
+  },
+  {
+   "name": "Khasab Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": 908,
+   "y": 232,
+   "ddm": "N26°10.802' E056°14.652'",
+   "be": "096°/51 nm"
+  },
+  {
+   "name": "EWR Jebel Jais",
+   "side": "blue",
+   "alias": "-blue_ewr",
+   "x": -24153,
+   "y": -5910,
+   "ddm": "N25°57.205' E056°11.059'",
+   "be": "112°/51 nm"
+  },
+  {
+   "name": "EWR Jebel Hafeet",
+   "side": "blue",
+   "alias": "-blue_ewr",
+   "x": -233752,
+   "y": -48194,
+   "ddm": "N24°03.478' E055°46.852'",
+   "be": "170°/135 nm"
+  },
+  {
+   "name": "Bandar Abbas SA-11",
+   "side": "red",
+   "alias": "-sa11",
+   "x": 120464,
+   "y": 15968,
+   "ddm": "N27°15.611' E056°23.760'",
+   "be": "045°/84 nm"
+  },
+  {
+   "name": "Bandar Abbas Hawk",
+   "side": "red",
+   "alias": "-hawk",
+   "x": 118766,
+   "y": 9062,
+   "ddm": "N27°14.672' E056°19.580'",
+   "be": "044°/80 nm"
+  },
+  {
+   "name": "Bandar Abbas SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": 114766,
+   "y": 15990,
+   "ddm": "N27°12.524' E056°23.790'",
+   "be": "047°/81 nm"
+  },
+  {
+   "name": "Havadarya SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": 110597,
+   "y": -7029,
+   "ddm": "N27°10.194' E056°09.862'",
+   "be": "041°/71 nm"
+  },
+  {
+   "name": "Hajiabad SA-10",
+   "side": "red",
+   "alias": "-sa10",
+   "x": 202624.0,
+   "y": 37682.0,
+   "ddm": "N28°00.159' E056°36.765'",
+   "be": "034°/125 nm"
+  },
+  {
+   "name": "Lar SA-10",
+   "side": "red",
+   "alias": "-sa10",
+   "x": 171978,
+   "y": -177164,
+   "ddm": "N27°42.167' E054°26.109'",
+   "be": "333°/98 nm"
+  },
+  {
+   "name": "Lar SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": 167978,
+   "y": -184092,
+   "ddm": "N27°39.923' E054°21.949'",
+   "be": "330°/98 nm"
+  },
+  {
+   "name": "Shiraz SA-11",
+   "side": "red",
+   "alias": "-sa11",
+   "x": 376771,
+   "y": -349136,
+   "ddm": "N29°30.168' E052°37.109'",
+   "be": "325°/241 nm"
+  },
+  {
+   "name": "Shiraz SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": 382833,
+   "y": -352636,
+   "ddm": "N29°33.369' E052°34.807'",
+   "be": "325°/245 nm"
+  },
+  {
+   "name": "Abu Musa SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": -30905,
+   "y": -120296,
+   "ddm": "N25°52.893' E055°02.592'",
+   "be": "213°/27 nm"
+  },
+  {
+   "name": "EWR Bandar Abbas",
+   "side": "red",
+   "alias": "-ewr",
+   "x": 140386,
+   "y": 9917,
+   "ddm": "N27°26.385' E056°20.028'",
+   "be": "039°/89 nm"
+  },
+  {
+   "name": "EWR Bandar Lengeh",
+   "side": "red",
+   "alias": "-ewr",
+   "x": 50740,
+   "y": -135038,
+   "ddm": "N26°36.972' E054°52.969'",
+   "be": "314°/31 nm"
+  },
+  {
+   "name": "EWR Jask",
+   "side": "red",
+   "alias": "-ewr",
+   "x": -54436,
+   "y": 153801,
+   "ddm": "N25°40.811' E057°46.664'",
+   "be": "105°/138 nm"
+  },
+  {
+   "name": "EWR Lar",
+   "side": "red",
+   "alias": "-ewr",
+   "x": 177978,
+   "y": -182360,
+   "ddm": "N27°45.354' E054°22.872'",
+   "be": "332°/102 nm"
+  },
+  {
+   "name": "EWR Shiraz",
+   "side": "red",
+   "alias": "-ewr",
+   "x": 381101,
+   "y": -343636,
+   "ddm": "N29°32.617' E052°40.405'",
+   "be": "326°/241 nm"
+  }
+ ],
+ "drones": [
+  {
+   "name": "Reaper 1",
+   "type": "MQ-9 Reaper",
+   "where": "champ de tir de Tarif",
+   "jtac": 1511,
+   "freq": "35.55",
+   "mod": "FM",
+   "be": "205°/156 nm",
+   "ddm": "N23°53.372' E054°08.675'"
+  },
+  {
+   "name": "Reaper 2",
+   "type": "MQ-9 Reaper",
+   "where": "Bandar Lengeh",
+   "jtac": 1512,
+   "freq": "35.6",
+   "mod": "FM",
+   "be": "314°/31 nm",
+   "ddm": "N26°36.972' E054°52.969'"
+  }
+ ],
+ "arena_slots": [
+  {
+   "group": "Arène bleue F-14B Fox 3",
+   "side": "blue",
+   "type": "F-14B",
+   "n": 2,
+   "fox": "Fox 3",
+   "fl": 250
+  },
+  {
+   "group": "Arène bleue F-14B Fox 1",
+   "side": "blue",
+   "type": "F-14B",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène bleue F/A-18C Fox 3",
+   "side": "blue",
+   "type": "FA-18C_hornet",
+   "n": 2,
+   "fox": "Fox 3",
+   "fl": 250
+  },
+  {
+   "group": "Arène bleue F/A-18C Fox 1",
+   "side": "blue",
+   "type": "FA-18C_hornet",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène bleue M-2000C Fox 1",
+   "side": "blue",
+   "type": "M-2000C",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge F/A-18C Fox 3",
+   "side": "red",
+   "type": "FA-18C_hornet",
+   "n": 2,
+   "fox": "Fox 3",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge F/A-18C Fox 1",
+   "side": "red",
+   "type": "FA-18C_hornet",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge M-2000C Fox 1",
+   "side": "red",
+   "type": "M-2000C",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge F-14B Fox 3",
+   "side": "red",
+   "type": "F-14B",
+   "n": 2,
+   "fox": "Fox 3",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge F-14B Fox 1",
+   "side": "red",
+   "type": "F-14B",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  }
+ ],
+ "radio": {
+  "blue": {
+   "primary_1": {
+    "1": "Guard",
+    "2": "Overlord-1",
+    "3": "Magic-1",
+    "4": "Texaco-1",
+    "5": "Arco-1",
+    "6": "Texaco-2",
+    "7": "Arco-2",
+    "8": "Stennis",
+    "9": "Roosevelt",
+    "10": "Tarawa",
+    "11": "S3B-Stennis",
+    "12": "S3B-Roosevelt",
+    "13": "Darkstar-1",
+    "14": "Base-Al Dhafra AFB",
+    "15": "Base-Al Minhad AFB",
+    "16": "Base-Khasab",
+    "17": "Base-Ras Al Khaimah Intl",
+    "18": "Base-Fujairah Intl",
+    "19": "Base-Liwa AFB",
+    "20": "Base-Al Ain Intl"
+   },
+   "primary_2": {
+    "1": "Guard",
+    "2": "FARP-Berlin",
+    "3": "FARP-London",
+    "4": "Archer",
+    "5": "Arctic",
+    "6": "Astro",
+    "7": "Nickel",
+    "8": "Nitro",
+    "9": "Ninja",
+    "10": "Pinder",
+    "11": "Bengal",
+    "12": "Base-Al Dhafra AFB",
+    "13": "Base-Al Minhad AFB",
+    "14": "Base-Khasab",
+    "15": "Base-Ras Al Khaimah Intl",
+    "16": "Base-Fujairah Intl",
+    "17": "Base-Liwa AFB",
+    "18": "Base-Al Ain Intl",
+    "19": "Base-Al-Bateen",
+    "20": "Base-Sir Abu Nuayr"
+   }
+  },
+  "red": {
+   "primary_1": {
+    "1": "Guard",
+    "2": "Wizard-1",
+    "3": "Shell-1",
+    "4": "Focus-1",
+    "5": "Base-Bandar Abbas Intl",
+    "6": "Base-Lar",
+    "7": "Base-Shiraz Intl",
+    "8": "Base-Havadarya",
+    "9": "Base-Qeshm Island",
+    "10": "Base-Kish Intl"
+   },
+   "primary_2": {
+    "1": "Guard",
+    "2": "Shahin",
+    "3": "Oghab",
+    "4": "Toufan",
+    "5": "Saeqeh",
+    "6": "Kowsar",
+    "7": "Azarakhsh",
+    "8": "Base-Bandar Abbas Intl",
+    "9": "Base-Lar",
+    "10": "Base-Shiraz Intl",
+    "11": "Base-Havadarya",
+    "12": "Base-Qeshm Island",
+    "13": "Base-Kish Intl"
+   }
+  }
+ },
+ "channels": {
+  "Guard": {
+   "uhf": 243,
+   "vhf": 121.5
+  },
+  "Overlord-1": {
+   "uhf": 282.0
+  },
+  "Magic-1": {
+   "uhf": 283.0
+  },
+  "Wizard-1": {
+   "uhf": 284.0
+  },
+  "Darkstar-1": {
+   "uhf": 285.0
+  },
+  "Focus-1": {
+   "uhf": 286.0
+  },
+  "Texaco-1": {
+   "uhf": 290.0
+  },
+  "Arco-1": {
+   "uhf": 291.0
+  },
+  "Texaco-2": {
+   "uhf": 292.0
+  },
+  "Arco-2": {
+   "uhf": 293.0
+  },
+  "Shell-1": {
+   "uhf": 294.0
+  },
+  "S3B-Stennis": {
+   "uhf": 296.0
+  },
+  "S3B-Roosevelt": {
+   "uhf": 297.0
+  },
+  "Stennis": {
+   "uhf": 305.0
+  },
+  "Roosevelt": {
+   "uhf": 306.0
+  },
+  "Tarawa": {
+   "uhf": 307.0
+  },
+  "FARP-Berlin": {
+   "vhf": 127.5
+  },
+  "FARP-London": {
+   "vhf": 128.5
+  },
+  "Archer": {
+   "vhf": 130.0,
+   "uhf": 390.0
+  },
+  "Arctic": {
+   "vhf": 130.1,
+   "uhf": 390.1
+  },
+  "Astro": {
+   "vhf": 130.2,
+   "uhf": 390.2
+  },
+  "Nickel": {
+   "vhf": 130.3,
+   "uhf": 390.3
+  },
+  "Nitro": {
+   "vhf": 130.4,
+   "uhf": 390.4
+  },
+  "Ninja": {
+   "vhf": 130.5,
+   "uhf": 390.5
+  },
+  "Pinder": {
+   "vhf": 130.6,
+   "uhf": 390.6
+  },
+  "Bengal": {
+   "vhf": 130.7,
+   "uhf": 390.7
+  },
+  "Shahin": {
+   "vhf": 130.8,
+   "uhf": 395.0
+  },
+  "Oghab": {
+   "vhf": 130.9,
+   "uhf": 395.1
+  },
+  "Toufan": {
+   "vhf": 131.0,
+   "uhf": 395.2
+  },
+  "Saeqeh": {
+   "vhf": 131.1,
+   "uhf": 395.3
+  },
+  "Kowsar": {
+   "vhf": 131.2,
+   "uhf": 395.4
+  },
+  "Azarakhsh": {
+   "vhf": 131.3,
+   "uhf": 395.5
+  },
+  "Base-Al Dhafra AFB": {
+   "uhf": 251.1,
+   "vhf": 126.5,
+   "fm": 39.5
+  },
+  "Base-Al Minhad AFB": {
+   "uhf": 250.1,
+   "vhf": 118.55,
+   "fm": 38.5
+  },
+  "Base-Khasab": {
+   "uhf": 250.0,
+   "vhf": 124.35,
+   "fm": 38.4
+  },
+  "Base-Ras Al Khaimah Intl": {
+   "uhf": 250.9,
+   "vhf": 121.6,
+   "fm": 39.3
+  },
+  "Base-Fujairah Intl": {
+   "uhf": 251.25,
+   "vhf": 124.6,
+   "fm": 39.65
+  },
+  "Base-Liwa AFB": {
+   "uhf": 250.95,
+   "vhf": 119.3,
+   "fm": 39.35
+  },
+  "Base-Al Ain Intl": {
+   "uhf": 250.7,
+   "vhf": 119.85,
+   "fm": 39.15
+  },
+  "Base-Al-Bateen": {
+   "uhf": 250.6,
+   "vhf": 119.9,
+   "fm": 39.05
+  },
+  "Base-Sir Abu Nuayr": {
+   "uhf": 250.8,
+   "vhf": 118.0,
+   "fm": 38.7
+  },
+  "Base-Bandar Abbas Intl": {
+   "uhf": 251.0,
+   "vhf": 118.1,
+   "fm": 39.4
+  },
+  "Base-Lar": {
+   "uhf": 250.05,
+   "vhf": 127.35,
+   "fm": 38.45
+  },
+  "Base-Shiraz Intl": {
+   "uhf": 250.35,
+   "vhf": 121.9,
+   "fm": 38.8
+  },
+  "Base-Havadarya": {
+   "uhf": 251.3,
+   "vhf": 123.15,
+   "fm": 39.7
+  },
+  "Base-Qeshm Island": {
+   "uhf": 250.15,
+   "vhf": 118.05,
+   "fm": 38.55
+  },
+  "Base-Kish Intl": {
+   "uhf": 250.65,
+   "vhf": 121.65,
+   "fm": 39.1
+  }
+ },
+ "titles": {
+  "Guard": "Guard",
+  "Overlord-1": "Overlord 1 AWACS ouest",
+  "Magic-1": "Magic 1 AWACS est",
+  "Wizard-1": "Wizard 1 AWACS",
+  "Darkstar-1": "Darkstar 1 Arène",
+  "Focus-1": "Focus 1 Arène",
+  "Texaco-1": "Texaco 1/BS/50Y",
+  "Arco-1": "Arco 1/BM/51Y",
+  "Texaco-2": "Texaco 2/BS/52Y",
+  "Arco-2": "Arco 2/BM/53Y",
+  "Shell-1": "Shell 1 IL-78",
+  "S3B-Stennis": "S-3B Stennis/56Y",
+  "S3B-Roosevelt": "S-3B Roosevelt/57Y",
+  "Stennis": "Stennis/74X/ICLS11",
+  "Roosevelt": "Roosevelt/71X/ICLS12",
+  "Tarawa": "Tarawa/73X/ICLS13",
+  "FARP-Berlin": "FARP Berlin",
+  "FARP-London": "FARP London",
+  "Archer": "Archer",
+  "Arctic": "Arctic",
+  "Astro": "Astro",
+  "Nickel": "Nickel",
+  "Nitro": "Nitro",
+  "Ninja": "Ninja",
+  "Pinder": "Pinder",
+  "Bengal": "Bengal",
+  "Shahin": "Shahin",
+  "Oghab": "Oghab",
+  "Toufan": "Toufan",
+  "Saeqeh": "Saeqeh",
+  "Kowsar": "Kowsar",
+  "Azarakhsh": "Azarakhsh",
+  "Base-Al Dhafra AFB": "Al Dhafra AFB / 96X",
+  "Base-Al Minhad AFB": "Al Minhad AFB / 99X",
+  "Base-Khasab": "Khasab",
+  "Base-Ras Al Khaimah Intl": "Ras Al Khaimah Intl",
+  "Base-Fujairah Intl": "Fujairah Intl",
+  "Base-Liwa AFB": "Liwa AFB / 121X",
+  "Base-Al Ain Intl": "Al Ain Intl",
+  "Base-Al-Bateen": "Al-Bateen",
+  "Base-Sir Abu Nuayr": "Sir Abu Nuayr",
+  "Base-Bandar Abbas Intl": "Bandar Abbas Intl / 78X",
+  "Base-Lar": "Lar",
+  "Base-Shiraz Intl": "Shiraz Intl / 94X",
+  "Base-Havadarya": "Havadarya / 47X",
+  "Base-Qeshm Island": "Qeshm Island",
+  "Base-Kish Intl": "Kish Intl / 112X"
+ },
+ "weather": {
+  "temperature": 28,
+  "wind_from": 320,
+  "wind_ms": 4.1,
+  "clouds": "aucun",
+  "visibility_km": 10.0
+ },
+ "combat_missions": [
+  {
+   "name": "Défense — raid iranien sur Al Minhad",
+   "briefing": "Deux Su-24M armés de missiles antiradar ouvrent la route à quatre F-4E chargés de bombes, escortés de deux F-14A, partis de Qeshm vers Al Minhad. Abattez les bombardiers avant le largage.\nÉchec si la base est bombardée (constaté par vous : la mission ne le vérifie pas)."
+  },
+  {
+   "name": "Interception — transport VIP de Bandar Abbas à Shiraz",
+   "briefing": "Un IL-76 emmène l'état-major des Gardiens de la révolution de Bandar Abbas vers Shiraz, escorté par deux MiG-29A. Interceptez-le avant Shiraz : la fin de la route est dans le sanctuaire rouge de Shiraz, sous son SA-11."
+  }
+ ]
+}

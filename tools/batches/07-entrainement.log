@@ -1,0 +1,12 @@
+[1] create_combat_zone: {"zone_name": "combatZone_Berlin_Easy", "zone_id": 1, "warnings": []}
+[2] create_combat_zone: {"zone_name": "combatZone_Berlin_Medium", "zone_id": 2, "warnings": []}
+[3] create_combat_zone: {"zone_name": "combatZone_Berlin_Hard", "zone_id": 3, "warnings": []}
+[4] create_combat_zone: {"zone_name": "combatZone_Tarif_Easy", "zone_id": 4, "warnings": []}
+[5] create_combat_zone: {"zone_name": "combatZone_Tarif_Medium", "zone_id": 5, "warnings": []}
+[6] create_combat_zone: {"zone_name": "combatZone_Tarif_Hard", "zone_id": 6, "warnings": []}
+[7] create_combat_zone: {"zone_name": "combatZone_AlQua_Easy", "zone_id": 7, "warnings": []}
+[8] create_combat_zone: {"zone_name": "combatZone_AlQua_Medium", "zone_id": 8, "warnings": []}
+[9] create_combat_zone: {"zone_name": "combatZone_AlQua_Hard", "zone_id": 9, "warnings": []}
+[10] add_group: {"group_id": 105, "name": "combatZone_Tarif_Easy-Static-Fuel-1", "durable": true, "warnings": []}
+[11] add_group: {"group_id": 106, "name": "combatZone_Tarif_Easy-Static-Fuel-2", "durable": true, "warnings": []}
+[12] add_group: {"group_id": 107, "name": "combatZone_Tarif_Easy-Static-Command-3", "durable": true, "warnings": []}

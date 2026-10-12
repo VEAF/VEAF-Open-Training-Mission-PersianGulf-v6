@@ -1,0 +1,106 @@
+[
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Persepolis",
+   "position": {
+    "x": 423777,
+    "y": -321034
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "Z18-1",
+     "position": {
+      "x": 425491,
+      "y": -319620
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #Z18-1"
+      }
+     ]
+    },
+    {
+     "name": "Z18-2",
+     "position": {
+      "x": 424891,
+      "y": -319620
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #Z18-2"
+      }
+     ]
+    },
+    {
+     "name": "Detachement",
+     "position": {
+      "x": 425191,
+      "y": -319420
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-80",
+       "count": 2
+      },
+      {
+       "type": "Ural-375",
+       "count": 2
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z18 Tourisme — Persépolis",
+    "radio_group_name": "Tourisme",
+    "training": false,
+    "briefing": "Persépolis, la capitale des rois achéménides, au pied du mont Rahmat : un vol touristique à basse altitude sur le plateau de Marvdasht, à 1 600 m. Les Gardiens de la révolution ont installé un détachement à 2 km au nord-est du site : blindés, camions et deux ZU-23. Le neutraliser sans toucher aux ruines. Le SA-11 de Shiraz porte jusqu'à 3 nm au sud-ouest du site : arriver par l'est. Ruines de Persépolis dans DCS : à confirmer en jeu.\nPosition : bullseye 331°/254 nm (N29°56.110' E052°53.424'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 319 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 302 nm."
+   }
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Persepolis",
+   "position": {
+    "x": 423777,
+    "y": -321034
+   },
+   "radius": 3000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Persepolis étiquette",
+   "position": {
+    "x": 427577,
+    "y": -321034
+   },
+   "text": "Z18 Tourisme — Persépolis",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ }
+]

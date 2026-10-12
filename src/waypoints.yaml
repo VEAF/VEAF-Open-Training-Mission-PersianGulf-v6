@@ -1,0 +1,128 @@
+# Plans de vol injectés dans les groupes joueurs (Open Training Golfe Persique) — écrit par tools/gen_13_waypoints.py.
+# TX1/AR1/TX2/AR2 = début de piste des ravitailleurs bleus ; SH1 = ravitailleur rouge ; RNG_H/A/S = champs de tir
+# hélicoptères (Berlin), attaque (Tarif), SEAD (Al Qua'a) ; FARP_BER / FARP_LON = FARP Berlin et London. Le build
+# ajoute le BULLSEYE (Grande Tunb) à chaque plan.
+waypoints:
+  TX1:
+    type: Turning Point
+    action: Turning Point
+    alt: 6706
+    alt_type: BARO
+    speed: 154.3
+    speed_type: TAS
+    x: -130000
+    y: -240000
+    name: TX1
+  AR1:
+    type: Turning Point
+    action: Turning Point
+    alt: 5486
+    alt_type: BARO
+    speed: 144.0
+    speed_type: TAS
+    x: -160000
+    y: -225000
+    name: AR1
+  TX2:
+    type: Turning Point
+    action: Turning Point
+    alt: 7315
+    alt_type: BARO
+    speed: 154.3
+    speed_type: TAS
+    x: -150000
+    y: 45000
+    name: TX2
+  AR2:
+    type: Turning Point
+    action: Turning Point
+    alt: 6096
+    alt_type: BARO
+    speed: 144.0
+    speed_type: TAS
+    x: -165000
+    y: 75000
+    name: AR2
+  SH1:
+    type: Turning Point
+    action: Turning Point
+    alt: 6096
+    alt_type: BARO
+    speed: 154.3
+    speed_type: TAS
+    x: 250000
+    y: -150000
+    name: SH1
+  RNG_A:
+    type: Turning Point
+    action: Turning Point
+    alt: 914
+    alt_type: BARO
+    speed: 128.6
+    speed_type: TAS
+    x: -250000
+    y: -215000
+    name: RNG_A
+  RNG_S:
+    type: Turning Point
+    action: Turning Point
+    alt: 4572
+    alt_type: BARO
+    speed: 180.1
+    speed_type: TAS
+    x: -285000
+    y: -150000
+    name: RNG_S
+  RNG_H:
+    type: Turning Point
+    action: Turning Point
+    alt: 152
+    alt_type: BARO
+    speed: 51.4
+    speed_type: TAS
+    x: -217391
+    y: -238497
+    name: RNG_H
+  FARP_BER:
+    type: Turning Point
+    action: Turning Point
+    alt: 152
+    alt_type: BARO
+    speed: 51.4
+    speed_type: TAS
+    x: -217391
+    y: -232497
+    name: FARP_BER
+  FARP_LON:
+    type: Turning Point
+    action: Turning Point
+    alt: 152
+    alt_type: BARO
+    speed: 51.4
+    speed_type: TAS
+    x: -66742
+    y: -17757
+    name: FARP_LON
+settings:
+  blue_planes:
+    category: plane
+    coalition: blue
+    waypoints:
+    - TX1
+    - AR1
+    - TX2
+    - AR2
+    - RNG_A
+    - RNG_S
+  blue_helicopters:
+    category: helicopter
+    coalition: blue
+    waypoints:
+    - FARP_BER
+    - RNG_H
+    - FARP_LON
+  red_planes:
+    category: plane
+    coalition: red
+    waypoints:
+    - SH1

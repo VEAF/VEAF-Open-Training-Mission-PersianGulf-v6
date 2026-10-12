@@ -1,0 +1,10 @@
+[1] create_qra: {"qra": "QRA Bandar Abbas", "trigger_zone": "QRA-BandarAbbas", "zone_id": 27, "warnings": []}
+[2] create_qra: {"qra": "QRA Lar", "trigger_zone": "QRA-Lar", "zone_id": 28, "warnings": []}
+[3] create_qra: {"qra": "QRA Al Minhad", "trigger_zone": "QRA-AlMinhad", "zone_id": 29, "warnings": []}
+[4] create_qra: {"qra": "QRA Al Dhafra", "trigger_zone": "QRA-AlDhafra", "zone_id": 30, "warnings": []}
+[5] create_cap_mission: {"cap_mission": "CAP-Qeshm-MiG29", "group": "OnDemand-CAP-Qeshm-MiG29", "warnings": []}
+[6] create_cap_mission: {"cap_mission": "CAP-Lengeh-F4", "group": "OnDemand-CAP-Lengeh-F4", "warnings": []}
+[7] create_cap_mission: {"cap_mission": "CAP-Lar-F14", "group": "OnDemand-CAP-Lar-F14", "warnings": []}
+[8] create_cap_mission: {"cap_mission": "Raid-Kish-Su24", "group": "OnDemand-Raid-Kish-Su24", "warnings": []}
+[9] create_cap_mission: {"cap_mission": "CAP-RAK-F16", "group": "OnDemand-CAP-RAK-F16", "warnings": []}
+[10] create_cap_mission: {"cap_mission": "CAP-AbuDhabi-M2000", "group": "OnDemand-CAP-AbuDhabi-M2000", "warnings": []}

@@ -1,0 +1,40 @@
+[1] add_trigger_zone: {"zone_id": 31, "name": "SANCT-AlDhafra", "durable": true}
+[2] add_trigger_zone: {"zone_id": 32, "name": "SANCT-Lar", "durable": true}
+[3] add_trigger_zone: {"zone_id": 33, "name": "SANCT-Shiraz", "durable": true}
+[4] add_trigger_zone: {"zone_id": 34, "name": "Arene", "durable": true}
+[5] add_air_group: {"group_id": 222, "name": "Arène bleue F-14B Fox 3", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[6] add_air_group: {"group_id": 223, "name": "Arène bleue F-14B Fox 1", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[7] add_air_group: {"group_id": 224, "name": "Arène bleue F/A-18C Fox 3", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[8] add_air_group: {"group_id": 225, "name": "Arène bleue F/A-18C Fox 1", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[9] add_air_group: {"group_id": 226, "name": "Arène bleue M-2000C Fox 1", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[10] add_air_group: {"group_id": 227, "name": "Arène rouge F-14B Fox 3", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[11] add_air_group: {"group_id": 228, "name": "Arène rouge F-14B Fox 1", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[12] add_air_group: {"group_id": 229, "name": "Arène rouge F/A-18C Fox 3", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[13] add_air_group: {"group_id": 230, "name": "Arène rouge F/A-18C Fox 1", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[14] add_air_group: {"group_id": 231, "name": "Arène rouge M-2000C Fox 1", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[15] add_air_group: {"group_id": 232, "name": "Stennis F/A-18C #1", "durable": true, "start": "deck-cold", "category": "plane", "airdrome_id": null, "stands": ["1", "2"]}
+[16] add_air_group: {"group_id": 233, "name": "Stennis F/A-18C #2", "durable": true, "start": "deck-hot", "category": "plane", "airdrome_id": null, "stands": ["3", "4"]}
+[17] add_air_group: {"group_id": 234, "name": "Stennis F-14B #1", "durable": true, "start": "deck-cold", "category": "plane", "airdrome_id": null, "stands": ["5", "6"]}
+[18] add_air_group: {"group_id": 235, "name": "Roosevelt F/A-18C #1", "durable": true, "start": "deck-cold", "category": "plane", "airdrome_id": null, "stands": ["1", "2"]}
+[19] add_air_group: {"group_id": 236, "name": "Roosevelt F-14B #1", "durable": true, "start": "deck-cold", "category": "plane", "airdrome_id": null, "stands": ["3", "4"]}
+[20] add_air_group: {"group_id": 237, "name": "Roosevelt F-14B #2", "durable": true, "start": "deck-hot", "category": "plane", "airdrome_id": null, "stands": ["5", "6"]}
+[21] add_air_group: {"group_id": 238, "name": "Tarawa AV-8B #1", "durable": true, "start": "deck-cold", "category": "plane", "airdrome_id": null, "stands": ["1", "2"]}
+[22] add_air_group: {"group_id": 239, "name": "Tarawa AV-8B #2", "durable": true, "start": "deck-hot", "category": "plane", "airdrome_id": null, "stands": ["3", "4"]}
+[23] add_air_group: {"group_id": 240, "name": "SC-Defense-AlMinhad-SEAD", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[24] edit_route: {"group": "SC-Defense-AlMinhad-SEAD", "operation": "add", "changed": {"added": {"index": 2, "name": "WP2"}}, "warnings": [], "durable": true}
+[25] edit_route: {"group": "SC-Defense-AlMinhad-SEAD", "operation": "add", "changed": {"added": {"index": 3, "name": "WP3"}}, "warnings": [], "durable": true}
+[26] add_air_group: {"group_id": 241, "name": "SC-Defense-AlMinhad-Bombers", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[27] edit_route: {"group": "SC-Defense-AlMinhad-Bombers", "operation": "add", "changed": {"added": {"index": 2, "name": "WP2"}}, "warnings": [], "durable": true}
+[28] edit_route: {"group": "SC-Defense-AlMinhad-Bombers", "operation": "add", "changed": {"added": {"index": 3, "name": "WP3"}}, "warnings": [], "durable": true}
+[29] add_air_group: {"group_id": 242, "name": "SC-Defense-AlMinhad-Escort", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[30] edit_route: {"group": "SC-Defense-AlMinhad-Escort", "operation": "add", "changed": {"added": {"index": 2, "name": "WP2"}}, "warnings": [], "durable": true}
+[31] edit_route: {"group": "SC-Defense-AlMinhad-Escort", "operation": "add", "changed": {"added": {"index": 3, "name": "WP3"}}, "warnings": [], "durable": true}
+[32] add_air_group: {"group_id": 243, "name": "SC-Intercept-VIP-Il76", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[33] edit_route: {"group": "SC-Intercept-VIP-Il76", "operation": "add", "changed": {"added": {"index": 2, "name": "WP2"}}, "warnings": [], "durable": true}
+[34] edit_route: {"group": "SC-Intercept-VIP-Il76", "operation": "add", "changed": {"added": {"index": 3, "name": "WP3"}}, "warnings": [], "durable": true}
+[35] add_air_group: {"group_id": 244, "name": "SC-Intercept-VIP-Escort", "durable": true, "start": "air", "category": "plane", "airdrome_id": null, "stands": []}
+[36] edit_route: {"group": "SC-Intercept-VIP-Escort", "operation": "add", "changed": {"added": {"index": 2, "name": "WP2"}}, "warnings": [], "durable": true}
+[37] edit_route: {"group": "SC-Intercept-VIP-Escort", "operation": "add", "changed": {"added": {"index": 3, "name": "WP3"}}, "warnings": [], "durable": true}
+[38] edit_route: {"group": "SC-Defense-AlMinhad-Bombers", "operation": "add_task", "changed": {"task_added": {"task": "bombing", "number": 1}}, "warnings": [], "durable": true}
+[39] edit_route: {"group": "SC-Defense-AlMinhad-Escort", "operation": "add_task", "changed": {"task_added": {"task": "escort", "number": 1}}, "warnings": [], "durable": true}
+[40] edit_route: {"group": "SC-Intercept-VIP-Escort", "operation": "add_task", "changed": {"task_added": {"task": "escort", "number": 1}}, "warnings": [], "durable": true}

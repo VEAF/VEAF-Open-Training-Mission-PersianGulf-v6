@@ -1,0 +1,42 @@
+[
+ {
+  "name": "set_mission_date",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "date": "2025-11-15",
+   "start_time": "09:00"
+  }
+ },
+ {
+  "name": "set_bullseye",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "position": {
+    "x": 11193,
+    "y": -93469
+   }
+  }
+ },
+ {
+  "name": "set_bullseye",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "position": {
+    "x": 11193,
+    "y": -93469
+   }
+  }
+ },
+ {
+  "name": "set_briefing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "sortie": "VEAF Open Training — Golfe Persique",
+   "situation": "VEAF Open Training — Golfe Persique (moderne, novembre 2025).\nL'Iran ferme le détroit d'Ormuz ; une coalition (Émirats, Oman, États-Unis) tient la rive sud du Golfe et la mer d'Oman. Le front est le Golfe lui-même, de Lavan à Jask ; l'Iran tient aussi Abu Musa, les Tunb, Sirri, Kish et Lavan. Bullseye commun : la Grande Tunb.\n\nBASES BLEUES (slots dynamiques) : Al Dhafra AFB (U251.10 / V126.50, TACAN 96X), Al Minhad AFB (U250.10 / V118.55, TACAN 99X), Liwa AFB (U250.95 / V119.30, TACAN 121X), Al-Bateen (U250.60 / V119.90), Al Ain Intl (U250.70 / V119.85), Fujairah Intl (U251.25 / V124.60), Ras Al Khaimah Intl (U250.90 / V121.60), Sir Abu Nuayr (U250.80 / V118.00), Khasab (U250.00 / V124.35). FARP Berlin (V127.5) et FARP London (V128.5).\nPORTE-AVIONS : Stennis U305.0, TACAN 74X, ICLS 11, Link 4 336.0 ; Roosevelt U306.0, TACAN 71X, ICLS 12, Link 4 337.0 ; Tarawa U307.0, TACAN 73X, ICLS 13.\nSOUTIEN : AWACS Overlord 1 U282.0 (ouest) et Magic 1 U283.0 (est). Ravitailleurs : Texaco 1 (perche) 50Y U290.0 FL220, Arco 1 (panier) 51Y U291.0 FL180, Texaco 2 (perche) 52Y U292.0 FL240, Arco 2 (panier) 53Y U293.0 FL200 ; S-3B du Stennis 56Y U296.0, du Roosevelt 57Y U297.0. Tous escortés. Drones laser : Reaper 1 (code 1511, FM 35.55) sur le champ de tir de Tarif, Reaper 2 (1512, FM 35.6) sur Bandar Lengeh.\n\nENTRAÎNEMENT (menu F10 VEAF, zones) : H Berlin (hélicoptères), A Tarif (attaque), S Al Qua'a (SEAD), trois niveaux chacun.\nCOMBAT : 18 zones (front, SEAD, convois, frappes, bases aériennes, antinavire, et un vol touristique sur Persépolis), chacune avec son briefing dans le menu. Missions à la demande : CAP rouges et bleues, raid iranien sur Al Minhad, interception d'un transport VIP.\nQRA rouges : Bandar Abbas (25 nm), Lar (25 nm) ; QRA bleues : Al Minhad (25 nm), Al Dhafra (30 nm). Décollage 90 s après l'entrée du premier intrus ; elles ignorent les hélicoptères. Couloirs sans QRA : îles de l'ouest, Bandar Lengeh, Minab, Jask, mer d'Oman.\nJOUEURS CONTRE JOUEURS : libre hors des sanctuaires. Sanctuaire bleu : Al Dhafra, Liwa et les champs d'entraînement (80 km) ; rouges : Lar (12 km) et Shiraz (20 km). Un intrus y est détruit après 60 s ; un missile tiré sur un défenseur est détruit. Arène AirQuake au fond du Golfe, au large du Koweït, slots en vol Fox 1 et Fox 3.\n\nPlan radio, cartes et détail de chaque zone : voir les images du briefing et le README de la mission.",
+   "blue_task": "Rouvrir le détroit : s'entraîner sur les champs de tir H, A et S, puis frapper les zones de combat iraniennes. Al Dhafra est la base mère ; Khasab, dans l'enclave omanaise de Musandam, est la base la plus proche du front ; le Tarawa est dans le Golfe, le Roosevelt en mer d'Oman.",
+   "red_task": "Tenir le détroit. Bases rouges avec slots : Bandar Abbas Intl (U251.00 / V118.10, TACAN 78X), Lar (U250.05 / V127.35), Shiraz Intl (U250.35 / V121.90, TACAN 94X). AWACS Wizard 1 U284.0, ravitailleur Shell 1 (IL-78) U294.0 FL200. Arène : AWACS Focus 1 U286.0."
+  }
+ }
+]

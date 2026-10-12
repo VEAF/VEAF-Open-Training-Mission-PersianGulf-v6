@@ -1,0 +1,292 @@
+[
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Al Dhafra AFB",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Al Minhad AFB",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Liwa AFB",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Al-Bateen",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Al Ain Intl",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Fujairah Intl",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Ras Al Khaimah Intl",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Sir Abu Nuayr",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Khasab",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Abu Dhabi Intl",
+   "coalition": "blue",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Dubai Intl",
+   "coalition": "blue",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Sharjah Intl",
+   "coalition": "blue",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Al Maktoum Intl",
+   "coalition": "blue",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Sas Al Nakheel",
+   "coalition": "blue",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Bandar Abbas Intl",
+   "coalition": "red"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Lar",
+   "coalition": "red"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Shiraz Intl",
+   "coalition": "red"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Havadarya",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Qeshm Island",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Bandar Lengeh",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Kish Intl",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Lavan Island",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Jiroft",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Kerman",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Bandar-e-Jask",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Abu Musa Island",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Tunb Island AFB",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Tunb Kochak",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Sirri Island",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "Quasoura_airport",
+   "coalition": "neutral",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "add_farp",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "FARP Berlin",
+   "position": {
+    "x": -217391,
+    "y": -232497
+   },
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "frequency_mhz": 127.5,
+   "callsign_id": 1
+  }
+ },
+ {
+  "name": "add_farp",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "FARP London",
+   "position": {
+    "x": -66742,
+    "y": -17757
+   },
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "frequency_mhz": 128.5,
+   "callsign_id": 2
+  }
+ }
+]

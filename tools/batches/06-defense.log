@@ -1,0 +1,35 @@
+[1] add_group: {"group_id": 32, "name": "AD Al Dhafra Patriot", "durable": true, "warnings": []}
+[2] add_group: {"group_id": 33, "name": "AD Al Dhafra Hawk", "durable": true, "warnings": []}
+[3] add_group: {"group_id": 34, "name": "AD Al Dhafra Avenger", "durable": true, "warnings": []}
+[4] add_group: {"group_id": 35, "name": "AD Al-Bateen NASAMS", "durable": true, "warnings": []}
+[5] add_group: {"group_id": 36, "name": "AD Al-Bateen Avenger", "durable": true, "warnings": []}
+[6] add_group: {"group_id": 37, "name": "AD Liwa Hawk", "durable": true, "warnings": []}
+[7] add_group: {"group_id": 38, "name": "AD Liwa Avenger", "durable": true, "warnings": []}
+[8] add_group: {"group_id": 39, "name": "AD Al Ain Patriot", "durable": true, "warnings": []}
+[9] add_group: {"group_id": 40, "name": "AD Al Ain Avenger", "durable": true, "warnings": []}
+[10] add_group: {"group_id": 41, "name": "AD Al Minhad Patriot", "durable": true, "warnings": []}
+[11] add_group: {"group_id": 42, "name": "AD Al Minhad Avenger", "durable": true, "warnings": []}
+[12] add_group: {"group_id": 43, "name": "AD Ras Al Khaimah NASAMS", "durable": true, "warnings": []}
+[13] add_group: {"group_id": 44, "name": "AD Ras Al Khaimah Avenger", "durable": true, "warnings": []}
+[14] add_group: {"group_id": 45, "name": "AD Fujairah Hawk", "durable": true, "warnings": []}
+[15] add_group: {"group_id": 46, "name": "AD Fujairah Avenger", "durable": true, "warnings": []}
+[16] add_group: {"group_id": 47, "name": "AD Sir Abu Nuayr NASAMS", "durable": true, "warnings": []}
+[17] add_group: {"group_id": 48, "name": "AD Khasab Hawk", "durable": true, "warnings": []}
+[18] add_group: {"group_id": 49, "name": "AD Khasab Avenger", "durable": true, "warnings": []}
+[19] add_group: {"group_id": 50, "name": "EWR Jebel Jais", "durable": true, "warnings": []}
+[20] add_group: {"group_id": 51, "name": "EWR Jebel Hafeet", "durable": true, "warnings": []}
+[21] add_group: {"group_id": 52, "name": "AD Bandar Abbas SA-11", "durable": true, "warnings": []}
+[22] add_group: {"group_id": 53, "name": "AD Bandar Abbas Hawk", "durable": true, "warnings": []}
+[23] add_group: {"group_id": 54, "name": "AD Bandar Abbas SA-15", "durable": true, "warnings": []}
+[24] add_group: {"group_id": 55, "name": "AD Havadarya SA-15", "durable": true, "warnings": []}
+[25] add_group: {"group_id": 56, "name": "AD Hajiabad SA-10", "durable": true, "warnings": []}
+[26] add_group: {"group_id": 57, "name": "AD Lar SA-10", "durable": true, "warnings": []}
+[27] add_group: {"group_id": 58, "name": "AD Lar SA-15", "durable": true, "warnings": []}
+[28] add_group: {"group_id": 59, "name": "AD Shiraz SA-11", "durable": true, "warnings": []}
+[29] add_group: {"group_id": 60, "name": "AD Shiraz SA-15", "durable": true, "warnings": []}
+[30] add_group: {"group_id": 61, "name": "AD Abu Musa SA-15", "durable": true, "warnings": []}
+[31] add_group: {"group_id": 62, "name": "EWR Bandar Abbas", "durable": true, "warnings": []}
+[32] add_group: {"group_id": 63, "name": "EWR Bandar Lengeh", "durable": true, "warnings": []}
+[33] add_group: {"group_id": 64, "name": "EWR Jask", "durable": true, "warnings": []}
+[34] add_group: {"group_id": 65, "name": "EWR Lar", "durable": true, "warnings": []}
+[35] add_group: {"group_id": 66, "name": "EWR Shiraz", "durable": true, "warnings": []}

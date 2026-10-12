@@ -1,0 +1,772 @@
+[
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Al Dhafra Patriot",
+   "position": {
+    "x": -207269,
+    "y": -171872
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Patriot ln",
+     "name": "#veafInterpreter[\"-patriot, hdg 0\"] #Al-Dhafra-Patriot"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Al Dhafra Hawk",
+   "position": {
+    "x": -215257,
+    "y": -174779
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Hawk ln",
+     "name": "#veafInterpreter[\"-hawk, hdg 0\"] #Al-Dhafra-Hawk"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Al Dhafra Avenger",
+   "position": {
+    "x": -211883,
+    "y": -170891
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0\"] #Al-Dhafra-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Al-Bateen NASAMS",
+   "position": {
+    "x": -193296,
+    "y": -181073
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "NASAMS_LN_C",
+     "name": "#veafInterpreter[\"-nasams, hdg 0\"] #Al-Bateen-NASAMS"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Al-Bateen Avenger",
+   "position": {
+    "x": -189556,
+    "y": -182544
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0\"] #Al-Bateen-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Liwa Hawk",
+   "position": {
+    "x": -272302,
+    "y": -246214
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Hawk ln",
+     "name": "#veafInterpreter[\"-hawk, hdg 30\"] #Liwa-Hawk"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Liwa Avenger",
+   "position": {
+    "x": -277498,
+    "y": -249214
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0\"] #Liwa-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Al Ain Patriot",
+   "position": {
+    "x": -206058,
+    "y": -65421
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Patriot ln",
+     "name": "#veafInterpreter[\"-patriot, hdg 0\"] #Al-Ain-Patriot"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Al Ain Avenger",
+   "position": {
+    "x": -213058,
+    "y": -65421
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0\"] #Al-Ain-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Al Minhad Patriot",
+   "position": {
+    "x": -129478,
+    "y": -87133
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Patriot ln",
+     "name": "#veafInterpreter[\"-patriot, hdg 0\"] #Al-Minhad-Patriot"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Al Minhad Avenger",
+   "position": {
+    "x": -124282,
+    "y": -90133
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0\"] #Al-Minhad-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Ras Al Khaimah NASAMS",
+   "position": {
+    "x": -62875,
+    "y": -28631
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "NASAMS_LN_C",
+     "name": "#veafInterpreter[\"-nasams, hdg 0\"] #Ras-Al-Khaimah-NASAMS"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Ras Al Khaimah Avenger",
+   "position": {
+    "x": -60875,
+    "y": -32095
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0\"] #Ras-Al-Khaimah-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Fujairah Hawk",
+   "position": {
+    "x": -118729,
+    "y": 4650
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Hawk ln",
+     "name": "#veafInterpreter[\"-hawk, hdg 60\"] #Fujairah-Hawk"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Fujairah Avenger",
+   "position": {
+    "x": -116122,
+    "y": 8452
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0\"] #Fujairah-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Sir Abu Nuayr NASAMS",
+   "position": {
+    "x": -103155,
+    "y": -202668
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "NASAMS_LN_C",
+     "name": "#veafInterpreter[\"-nasams, hdg 0\"] #Sir-Abu-Nuayr-NASAMS"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Khasab Hawk",
+   "position": {
+    "x": -3220,
+    "y": -178
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Hawk ln",
+     "name": "#veafInterpreter[\"-hawk, hdg 0\"] #Khasab-Hawk"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Khasab Avenger",
+   "position": {
+    "x": 908,
+    "y": 232
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0\"] #Khasab-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "EWR Jebel Jais",
+   "position": {
+    "x": -24153,
+    "y": -5910
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "FPS-117 Dome",
+     "name": "#veafInterpreter[\"-blue_ewr, hdg 0\"] #EWR-Jebel-Jais"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "EWR Jebel Hafeet",
+   "position": {
+    "x": -233752,
+    "y": -48194
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "FPS-117 Dome",
+     "name": "#veafInterpreter[\"-blue_ewr, hdg 0\"] #EWR-Jebel-Hafeet"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "AD Bandar Abbas SA-11",
+   "position": {
+    "x": 120464,
+    "y": 15968
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "SA-11 Buk LN 9A310M1",
+     "name": "#veafInterpreter[\"-sa11, hdg 200, country iran\"] #Bandar-Abbas-SA-11"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "AD Bandar Abbas Hawk",
+   "position": {
+    "x": 118766,
+    "y": 9062
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Hawk ln",
+     "name": "#veafInterpreter[\"-hawk, hdg 200, country iran\"] #Bandar-Abbas-Hawk"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "AD Bandar Abbas SA-15",
+   "position": {
+    "x": 114766,
+    "y": 15990
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0, country iran\"] #Bandar-Abbas-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "AD Havadarya SA-15",
+   "position": {
+    "x": 110597,
+    "y": -7029
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0, country iran\"] #Havadarya-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "AD Hajiabad SA-10",
+   "position": {
+    "x": 202699,
+    "y": 37552
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "S-300PS 5P85C ln",
+     "name": "#veafInterpreter[\"-sa10, hdg 200, country iran\"] #Hajiabad-SA-10"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "AD Lar SA-10",
+   "position": {
+    "x": 171978,
+    "y": -177164
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "S-300PS 5P85C ln",
+     "name": "#veafInterpreter[\"-sa10, hdg 180, country iran\"] #Lar-SA-10"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "AD Lar SA-15",
+   "position": {
+    "x": 167978,
+    "y": -184092
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0, country iran\"] #Lar-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "AD Shiraz SA-11",
+   "position": {
+    "x": 376771,
+    "y": -349136
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "SA-11 Buk LN 9A310M1",
+     "name": "#veafInterpreter[\"-sa11, hdg 180, country iran\"] #Shiraz-SA-11"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "AD Shiraz SA-15",
+   "position": {
+    "x": 382833,
+    "y": -352636
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0, country iran\"] #Shiraz-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "AD Abu Musa SA-15",
+   "position": {
+    "x": -30905,
+    "y": -120296
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0, country iran\"] #Abu-Musa-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "EWR Bandar Abbas",
+   "position": {
+    "x": 140386,
+    "y": 9917
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "55G6 EWR",
+     "name": "#veafInterpreter[\"-ewr, hdg 0, country iran\"] #EWR-Bandar-Abbas"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "EWR Bandar Lengeh",
+   "position": {
+    "x": 50740,
+    "y": -135038
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "55G6 EWR",
+     "name": "#veafInterpreter[\"-ewr, hdg 0, country iran\"] #EWR-Bandar-Lengeh"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "EWR Jask",
+   "position": {
+    "x": -54436,
+    "y": 153801
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "55G6 EWR",
+     "name": "#veafInterpreter[\"-ewr, hdg 0, country iran\"] #EWR-Jask"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "EWR Lar",
+   "position": {
+    "x": 177978,
+    "y": -182360
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "55G6 EWR",
+     "name": "#veafInterpreter[\"-ewr, hdg 0, country iran\"] #EWR-Lar"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "EWR Shiraz",
+   "position": {
+    "x": 381101,
+    "y": -343636
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "55G6 EWR",
+     "name": "#veafInterpreter[\"-ewr, hdg 0, country iran\"] #EWR-Shiraz"
+    }
+   ]
+  }
+ }
+]

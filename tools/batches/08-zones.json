@@ -1,0 +1,2225 @@
+[
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Qeshm",
+   "position": {
+    "x": 76000,
+    "y": -28000
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Z01-1",
+     "position": {
+      "x": 76800,
+      "y": -28000
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "name": "#command=\"-armor, defense 2, country iran\" #Z01-1"
+      }
+     ]
+    },
+    {
+     "name": "Z01-2",
+     "position": {
+      "x": 75550,
+      "y": -27221
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "name": "#command=\"-armor, defense 1, country iran\" #Z01-2"
+      }
+     ]
+    },
+    {
+     "name": "Z01-3",
+     "position": {
+      "x": 75700,
+      "y": -28520
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15, country iran\" #spawnchance=50 #Z01-3"
+      }
+     ]
+    },
+    {
+     "name": "Z01-4",
+     "position": {
+      "x": 76600,
+      "y": -29039
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #Z01-4"
+      }
+     ]
+    },
+    {
+     "name": "Artillerie",
+     "position": {
+      "x": 74778,
+      "y": -28445
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Grad-URAL",
+       "count": 4
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z01 Front — brigade IRGC de Qeshm",
+    "radio_group_name": "Front",
+    "training": false,
+    "briefing": "La brigade des Gardiens de la révolution qui tient l'île de Qeshm et le détroit d'Ormuz : chars, blindés et lance-roquettes multiples en position. Détruire les blindés et l'artillerie ; défense SA-15 possible et artillerie antiaérienne. Sous la couverture lointaine du SA-10 au nord de Bandar Abbas.\nPosition : bullseye 045°/50 nm (N26°51.371' E055°57.336'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 112 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 98 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Command-1",
+   "position": {
+    "x": 76750,
+    "y": -26701
+   },
+   "units": [
+    {
+     "type": ".Command Center"
+    }
+   ],
+   "for_combat_zone": "combatZone_Qeshm",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Fuel-2",
+   "position": {
+    "x": 76581,
+    "y": -26403
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Qeshm",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_BandarLengeh",
+   "position": {
+    "x": 50740,
+    "y": -135038
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Z02-1",
+     "position": {
+      "x": 51433,
+      "y": -134638
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "name": "#command=\"-armor, defense 1, country iran\" #Z02-1"
+      }
+     ]
+    },
+    {
+     "name": "Z02-2",
+     "position": {
+      "x": 49961,
+      "y": -134588
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BMP-2",
+       "name": "#command=\"-armor, defense 0, country iran\" #Z02-2"
+      }
+     ]
+    },
+    {
+     "name": "Z02-3",
+     "position": {
+      "x": 50740,
+      "y": -135738
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-10M3",
+       "name": "#command=\"-sa13, country iran\" #Z02-3"
+      }
+     ]
+    },
+    {
+     "name": "Z02-4",
+     "position": {
+      "x": 50740,
+      "y": -134538
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country iran\" #Z02-4"
+      }
+     ]
+    },
+    {
+     "name": "Artillerie",
+     "position": {
+      "x": 49701,
+      "y": -135638
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SAU Msta",
+       "count": 3
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z02 Front — défense côtière de Bandar Lengeh",
+    "radio_group_name": "Front",
+    "training": false,
+    "briefing": "La brigade de défense côtière de Bandar Lengeh, face à Abu Musa et aux Tunb : blindés et artillerie. Défense courte portée seulement (SA-13, Shilka) : le drone Reaper 2 la désigne au laser.\nPosition : bullseye 314°/31 nm (N26°36.972' E054°52.969'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 115 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 101 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Barracks-1",
+   "position": {
+    "x": 51866,
+    "y": -135688
+   },
+   "units": [
+    {
+     "type": "Barracks 2"
+    }
+   ],
+   "for_combat_zone": "combatZone_BandarLengeh",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Barracks-2",
+   "position": {
+    "x": 52150,
+    "y": -135551
+   },
+   "units": [
+    {
+     "type": "Barracks 2"
+    }
+   ],
+   "for_combat_zone": "combatZone_BandarLengeh",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Minab",
+   "position": {
+    "x": 109400,
+    "y": 86371
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z03-1",
+     "position": {
+      "x": 109800,
+      "y": 85678
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SA-11 Buk LN 9A310M1",
+       "name": "#command=\"-sa11, country iran\" #Z03-1"
+      }
+     ]
+    },
+    {
+     "name": "Z03-2",
+     "position": {
+      "x": 109150,
+      "y": 86804
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15, country iran\" #Z03-2"
+      }
+     ]
+    },
+    {
+     "name": "Z03-3",
+     "position": {
+      "x": 109800,
+      "y": 86371
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #Z03-3"
+      }
+     ]
+    },
+    {
+     "name": "Z03-4",
+     "position": {
+      "x": 109000,
+      "y": 86371
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #Z03-4"
+      }
+     ]
+    },
+    {
+     "name": "Smerch",
+     "position": {
+      "x": 109700,
+      "y": 86891
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Smerch",
+       "count": 2
+      },
+      {
+       "type": "Ural-375",
+       "count": 2
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z03 Front — base IRGC de Minab",
+    "radio_group_name": "Front",
+    "training": false,
+    "briefing": "La base des Gardiens de la révolution de Minab, à l'est de Bandar Abbas : casernes, dépôts, lance-roquettes Smerch. Défendue par une batterie SA-11, un SA-15 et des ZU-23 : traiter le SA-11 d'abord.\nPosition : bullseye 061°/111 nm (N27°09.693' E057°06.429'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 116 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 110 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Barracks-1",
+   "position": {
+    "x": 109400,
+    "y": 86671
+   },
+   "units": [
+    {
+     "type": "Barracks 2"
+    }
+   ],
+   "for_combat_zone": "combatZone_Minab",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Barracks-2",
+   "position": {
+    "x": 109334,
+    "y": 86745
+   },
+   "units": [
+    {
+     "type": "Barracks 2"
+    }
+   ],
+   "for_combat_zone": "combatZone_Minab",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Fuel-3",
+   "position": {
+    "x": 109118,
+    "y": 86268
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Minab",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Fuel-4",
+   "position": {
+    "x": 109097,
+    "y": 86196
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Minab",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Workshop-5",
+   "position": {
+    "x": 109275,
+    "y": 86154
+   },
+   "units": [
+    {
+     "type": "Workshop A"
+    }
+   ],
+   "for_combat_zone": "combatZone_Minab",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-TV-6",
+   "position": {
+    "x": 110011,
+    "y": 86593
+   },
+   "units": [
+    {
+     "type": "TV tower"
+    }
+   ],
+   "for_combat_zone": "combatZone_Minab",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Lavan",
+   "position": {
+    "x": 75496,
+    "y": -294522
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z04-1",
+     "position": {
+      "x": 75496,
+      "y": -294522
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Hawk ln",
+       "name": "#command=\"-hawk, country iran\" #Z04-1"
+      }
+     ]
+    },
+    {
+     "name": "Z04-2",
+     "position": {
+      "x": 75496,
+      "y": -293622
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "55G6 EWR",
+       "name": "#command=\"-ewr, country iran\" #Z04-2"
+      }
+     ]
+    },
+    {
+     "name": "Z04-3",
+     "position": {
+      "x": 75026,
+      "y": -294693
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #Z04-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z04 SEAD — site Hawk de Lavan",
+    "radio_group_name": "SEAD",
+    "training": false,
+    "briefing": "Le site Hawk de l'île de Lavan, à l'ouest du Golfe, couvert par un radar d'alerte avancée en réseau Skynet. Détruire le radar de poursuite et les lanceurs.\nPosition : bullseye 288°/114 nm (N26°48.386' E053°16.551'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 133 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 115 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Jask",
+   "position": {
+    "x": -51214,
+    "y": 154150
+   },
+   "radius": 2000,
+   "groups": [
+    {
+     "name": "Z05-1",
+     "position": {
+      "x": -51143,
+      "y": 154221
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "S_75M_Volhov",
+       "name": "#command=\"-sa2, country iran\" #spawngroup=\"Z05MR\" #spawncount=1 #Z05-1"
+      }
+     ]
+    },
+    {
+     "name": "Z05-2",
+     "position": {
+      "x": -51064,
+      "y": 154410
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "5p73 s-125 ln",
+       "name": "#command=\"-sa3, country iran\" #spawngroup=\"Z05MR\" #spawncount=1 #Z05-2"
+      }
+     ]
+    },
+    {
+     "name": "Z05-3",
+     "position": {
+      "x": -51780,
+      "y": 154447
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "55G6 EWR",
+       "name": "#command=\"-ewr, country iran\" #Z05-3"
+      }
+     ]
+    },
+    {
+     "name": "Z05-4",
+     "position": {
+      "x": -50734,
+      "y": 153910
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country iran\" #Z05-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z05 SEAD — site sol-air de Jask",
+    "radio_group_name": "SEAD",
+    "training": false,
+    "briefing": "Le site sol-air qui protège la base navale de Jask, sur la mer d'Oman : une batterie SA-2 ou SA-3 tirée au sort, son radar d'alerte avancée et un Shilka.\nPosition : bullseye 104°/138 nm (N25°42.556' E057°46.884'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 52 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 63 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_ConvoiMinab",
+   "position": {
+    "x": 112000,
+    "y": 32000
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": 112000,
+      "y": 32000
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-80",
+       "count": 1
+      },
+      {
+       "type": "Ural-375",
+       "count": 4
+      },
+      {
+       "type": "Ural-375 ZU-23",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": 112000,
+       "y": 32000
+      },
+      {
+       "x": 112000,
+       "y": 55000
+      },
+      {
+       "x": 108181,
+       "y": 83215
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z06 Convoi — Bandar Abbas vers Minab",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Un convoi logistique quitte Bandar Abbas par la route côtière de l'est vers la base de Minab. L'arrêter avant Minab ; il porte sa propre artillerie antiaérienne (ZU-23).\nPosition : bullseye 051°/87 nm (N27°11.062' E056°33.496'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 119 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 109 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_ConvoiLar",
+   "position": {
+    "x": 152064,
+    "y": -188516
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": 152064,
+      "y": -188516
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "count": 2
+      },
+      {
+       "type": "BMP-2",
+       "count": 2
+      },
+      {
+       "type": "Ural-375",
+       "count": 2
+      },
+      {
+       "type": "Strela-10M3",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": 152064,
+       "y": -188516
+      },
+      {
+       "x": 116152,
+       "y": -185513
+      },
+      {
+       "x": 49946,
+       "y": -129669
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z07 Convoi — Lar vers Bandar Lengeh",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Des renforts blindés descendent de Lar vers la côte par Bastak et Kong. Les arrêter avant la côte ; le convoi est escorté par un SA-13.\nPosition : bullseye 326°/92 nm (N27°31.261' E054°19.469'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 169 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 152 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_ConvoiJask",
+   "position": {
+    "x": -47012,
+    "y": 149402
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": -47012,
+      "y": 149402
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-80",
+       "count": 1
+      },
+      {
+       "type": "ATZ-10",
+       "count": 3
+      },
+      {
+       "type": "Ural-375 ZU-23",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": -47012,
+       "y": 149402
+      },
+      {
+       "x": 38093,
+       "y": 85899
+      },
+      {
+       "x": 70000,
+       "y": 86000
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z08 Convoi — Jask vers Sirik",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Un convoi de carburant remonte la côte de la mer d'Oman, de Jask vers Sirik et Minab. Le détruire avant Sirik ; il porte sa propre artillerie antiaérienne.\nPosition : bullseye 103°/135 nm (N25°44.847' E057°44.059'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 51 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 61 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_WeaponFactory",
+   "position": {
+    "x": 324196,
+    "y": -86766
+   },
+   "radius": 1200,
+   "groups": [
+    {
+     "name": "Z09-1",
+     "position": {
+      "x": 324546,
+      "y": -87372
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Kub 2P25 ln",
+       "name": "#command=\"-sa6, country iran\" #Z09-1"
+      }
+     ]
+    },
+    {
+     "name": "Z09-2",
+     "position": {
+      "x": 323996,
+      "y": -86420
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #Z09-2"
+      }
+     ]
+    },
+    {
+     "name": "Z09-3",
+     "position": {
+      "x": 323996,
+      "y": -87112
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #Z09-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z09 Frappe — usine d'armement de Sirjan",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "L'usine d'armement de la région de Sirjan, loin dans les terres : ateliers, hangars, réservoirs chimiques. Tout détruire ; défense SA-6 et ZU-23. Long trajet : prévoir le ravitaillement.\nPosition : bullseye 001°/169 nm (N29°05.411' E055°19.804'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 248 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 235 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Workshop-1",
+   "position": {
+    "x": 324346,
+    "y": -86766
+   },
+   "units": [
+    {
+     "type": "Workshop A"
+    }
+   ],
+   "for_combat_zone": "combatZone_WeaponFactory",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Workshop-2",
+   "position": {
+    "x": 324431,
+    "y": -86680
+   },
+   "units": [
+    {
+     "type": "Workshop A"
+    }
+   ],
+   "for_combat_zone": "combatZone_WeaponFactory",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Tech-3",
+   "position": {
+    "x": 324196,
+    "y": -86566
+   },
+   "units": [
+    {
+     "type": "Tech hangar A"
+    }
+   ],
+   "for_combat_zone": "combatZone_WeaponFactory",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Hangar-4",
+   "position": {
+    "x": 324004,
+    "y": -86605
+   },
+   "units": [
+    {
+     "type": "Hangar B"
+    }
+   ],
+   "for_combat_zone": "combatZone_WeaponFactory",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Chemical-5",
+   "position": {
+    "x": 324055,
+    "y": -86817
+   },
+   "units": [
+    {
+     "type": "Chemical tank A"
+    }
+   ],
+   "for_combat_zone": "combatZone_WeaponFactory",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Chemical-6",
+   "position": {
+    "x": 324023,
+    "y": -86866
+   },
+   "units": [
+    {
+     "type": "Chemical tank A"
+    }
+   ],
+   "for_combat_zone": "combatZone_WeaponFactory",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Fuel-7",
+   "position": {
+    "x": 324110,
+    "y": -87001
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_WeaponFactory",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Garage-8",
+   "position": {
+    "x": 324349,
+    "y": -86895
+   },
+   "units": [
+    {
+     "type": "Garage small B"
+    }
+   ],
+   "for_combat_zone": "combatZone_WeaponFactory",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Missiles",
+   "position": {
+    "x": 150000,
+    "y": 40000
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Lanceurs",
+     "position": {
+      "x": 150000,
+      "y": 40000
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Scud_B",
+       "count": 3
+      },
+      {
+       "type": "Ural-375",
+       "count": 2
+      }
+     ]
+    },
+    {
+     "name": "Z10-1",
+     "position": {
+      "x": 149436,
+      "y": 39795
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15, country iran\" #Z10-1"
+      }
+     ]
+    },
+    {
+     "name": "Z10-2",
+     "position": {
+      "x": 150200,
+      "y": 40346
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country iran\" #Z10-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z10 Frappe — base de missiles balistiques",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "Une base de missiles balistiques des Gardiens de la révolution dans les montagnes au nord-est de Bandar Abbas : lanceurs Scud et leurs camions. Détruire les lanceurs ; défense SA-15 et Shilka, sous la couverture du SA-10 au nord de Bandar Abbas.\nPosition : bullseye 044°/104 nm (N27°31.660' E056°38.274'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 139 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 130 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Bunker-1",
+   "position": {
+    "x": 150150,
+    "y": 39740
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_Missiles",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Military-2",
+   "position": {
+    "x": 150306,
+    "y": 39743
+   },
+   "units": [
+    {
+     "type": "Military staff"
+    }
+   ],
+   "for_combat_zone": "combatZone_Missiles",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_PortRajaee",
+   "position": {
+    "x": 103393,
+    "y": -17110
+   },
+   "radius": 1000,
+   "groups": [
+    {
+     "name": "Z11-1",
+     "position": {
+      "x": 103693,
+      "y": -17110
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #Z11-1"
+      }
+     ]
+    },
+    {
+     "name": "Z11-2",
+     "position": {
+      "x": 103093,
+      "y": -17110
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #Z11-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z11 Frappe — port Shahid Rajaee",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "Les dépôts logistiques militaires du port Shahid Rajaee, à l'ouest de Bandar Abbas : entrepôts, réservoirs, conteneurs. Tout détruire ; ZU-23 sur place, et les défenses permanentes de Bandar Abbas à moins de 15 nm.\nPosition : bullseye 040°/65 nm (N27°06.254' E056°03.789'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 123 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 110 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Warehouse-1",
+   "position": {
+    "x": 103523,
+    "y": -17035
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortRajaee",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Warehouse-2",
+   "position": {
+    "x": 103493,
+    "y": -16937
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortRajaee",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Fuel-3",
+   "position": {
+    "x": 103293,
+    "y": -16937
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortRajaee",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Fuel-4",
+   "position": {
+    "x": 103232,
+    "y": -16918
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortRajaee",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Container-5",
+   "position": {
+    "x": 103333,
+    "y": -17214
+   },
+   "units": [
+    {
+     "type": "Container red 1"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortRajaee",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Container-6",
+   "position": {
+    "x": 103342,
+    "y": -17251
+   },
+   "units": [
+    {
+     "type": "Container red 1"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortRajaee",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Tank-7",
+   "position": {
+    "x": 103493,
+    "y": -17283
+   },
+   "units": [
+    {
+     "type": "Tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortRajaee",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_CentraleLar",
+   "position": {
+    "x": 167610,
+    "y": -201530
+   },
+   "radius": 800,
+   "groups": [
+    {
+     "name": "Z12-1",
+     "position": {
+      "x": 167610,
+      "y": -201230
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #Z12-1"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z12 Frappe — centrale électrique de Lar",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "La centrale électrique au sud de Lar. Détruire les bâtiments ; ZU-23 sur place, et le SA-10 et le SA-15 de Lar à 10 nm au nord.\nPosition : bullseye 325°/103 nm (N27°39.516' E054°11.357'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 177 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 161 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Boiler-house-1",
+   "position": {
+    "x": 167610,
+    "y": -201530
+   },
+   "units": [
+    {
+     "type": "Boiler-house A"
+    }
+   ],
+   "for_combat_zone": "combatZone_CentraleLar",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Workshop-2",
+   "position": {
+    "x": 167650,
+    "y": -201461
+   },
+   "units": [
+    {
+     "type": "Workshop A"
+    }
+   ],
+   "for_combat_zone": "combatZone_CentraleLar",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Workshop-3",
+   "position": {
+    "x": 167570,
+    "y": -201461
+   },
+   "units": [
+    {
+     "type": "Workshop A"
+    }
+   ],
+   "for_combat_zone": "combatZone_CentraleLar",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Tech-4",
+   "position": {
+    "x": 167516,
+    "y": -201564
+   },
+   "units": [
+    {
+     "type": "Tech hangar A"
+    }
+   ],
+   "for_combat_zone": "combatZone_CentraleLar",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Shelter-5",
+   "position": {
+    "x": 167594,
+    "y": -201619
+   },
+   "units": [
+    {
+     "type": "Shelter B"
+    }
+   ],
+   "for_combat_zone": "combatZone_CentraleLar",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Electric-6",
+   "position": {
+    "x": 167702,
+    "y": -201607
+   },
+   "units": [
+    {
+     "type": "Electric power box"
+    }
+   ],
+   "for_combat_zone": "combatZone_CentraleLar",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Kish",
+   "position": {
+    "x": 43284,
+    "y": -225094
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z13-1",
+     "position": {
+      "x": 43284,
+      "y": -224194
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15, country iran\" #Z13-1"
+      }
+     ]
+    },
+    {
+     "name": "Z13-2",
+     "position": {
+      "x": 43284,
+      "y": -225794
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country iran\" #Z13-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z13 OCA — base aérienne de Kish",
+    "radio_group_name": "Bases aériennes",
+    "training": false,
+    "briefing": "La base aérienne de l'île de Kish : chasseurs au parking, hangars et carburant. Tout détruire au sol ; défense SA-15 et Shilka.\nPosition : bullseye 284°/73 nm (N26°31.959' E053°58.856'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 110 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 94 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-F-14A-1",
+   "position": {
+    "x": 43584,
+    "y": -225094
+   },
+   "units": [
+    {
+     "type": "F-14A"
+    }
+   ],
+   "for_combat_zone": "combatZone_Kish",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-F-14A-2",
+   "position": {
+    "x": 43619,
+    "y": -225035
+   },
+   "units": [
+    {
+     "type": "F-14A"
+    }
+   ],
+   "for_combat_zone": "combatZone_Kish",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-F-4E-3",
+   "position": {
+    "x": 43544,
+    "y": -224944
+   },
+   "units": [
+    {
+     "type": "F-4E"
+    }
+   ],
+   "for_combat_zone": "combatZone_Kish",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-F-4E-4",
+   "position": {
+    "x": 43544,
+    "y": -224875
+   },
+   "units": [
+    {
+     "type": "F-4E"
+    }
+   ],
+   "for_combat_zone": "combatZone_Kish",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Hangar-5",
+   "position": {
+    "x": 43544,
+    "y": -225244
+   },
+   "units": [
+    {
+     "type": "Hangar A"
+    }
+   ],
+   "for_combat_zone": "combatZone_Kish",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Fuel-6",
+   "position": {
+    "x": 42884,
+    "y": -225094
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Kish",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Jiroft",
+   "position": {
+    "x": 282608,
+    "y": 142285
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z14-1",
+     "position": {
+      "x": 282608,
+      "y": 143285
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Kub 2P25 ln",
+       "name": "#command=\"-sa6, country iran\" #Z14-1"
+      }
+     ]
+    },
+    {
+     "name": "Z14-2",
+     "position": {
+      "x": 282608,
+      "y": 141685
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country iran\" #Z14-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z14 OCA — base aérienne de Jiroft",
+    "radio_group_name": "Bases aériennes",
+    "training": false,
+    "briefing": "La base aérienne de Jiroft, au nord de Minab : chasseurs-bombardiers au parking, hangars. Tout détruire au sol ; défense SA-6 et ZU-23.\nPosition : bullseye 041°/194 nm (N28°43.409' E057°40.874'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 212 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 208 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Su-24M-1",
+   "position": {
+    "x": 282908,
+    "y": 142285
+   },
+   "units": [
+    {
+     "type": "Su-24M"
+    }
+   ],
+   "for_combat_zone": "combatZone_Jiroft",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Su-24M-2",
+   "position": {
+    "x": 282936,
+    "y": 142373
+   },
+   "units": [
+    {
+     "type": "Su-24M"
+    }
+   ],
+   "for_combat_zone": "combatZone_Jiroft",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-MiG-29A-3",
+   "position": {
+    "x": 282838,
+    "y": 142478
+   },
+   "units": [
+    {
+     "type": "MiG-29A"
+    }
+   ],
+   "for_combat_zone": "combatZone_Jiroft",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-MiG-29A-4",
+   "position": {
+    "x": 282827,
+    "y": 142545
+   },
+   "units": [
+    {
+     "type": "MiG-29A"
+    }
+   ],
+   "for_combat_zone": "combatZone_Jiroft",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Hangar-5",
+   "position": {
+    "x": 282868,
+    "y": 142135
+   },
+   "units": [
+    {
+     "type": "Hangar A"
+    }
+   ],
+   "for_combat_zone": "combatZone_Jiroft",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Fuel-6",
+   "position": {
+    "x": 282208,
+    "y": 142285
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Jiroft",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Flottille",
+   "position": {
+    "x": 95000,
+    "y": 5000
+   },
+   "radius": 4000,
+   "groups": [
+    {
+     "name": "Flottille",
+     "position": {
+      "x": 95000,
+      "y": 5000
+     },
+     "keep_position": true,
+     "patrol": true,
+     "units": [
+      {
+       "type": "La_Combattante_II",
+       "count": 2
+      },
+      {
+       "type": "MOLNIYA",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": 95000,
+       "y": 5000
+      },
+      {
+       "x": 90000,
+       "y": 20000
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "ship",
+   "combat_zone": {
+    "friendly_name": "Z15 Antinavire — flottille devant Bandar Abbas",
+    "radio_group_name": "Antinavire",
+    "training": false,
+    "briefing": "Une flottille de la marine iranienne en patrouille dans le détroit, entre Qeshm, Larak et Bandar Abbas : deux vedettes lance-missiles et une corvette. Les couler ; elles sont sous les défenses permanentes de Bandar Abbas.\nPosition : bullseye 050°/70 nm (N27°01.786' E056°17.200'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 114 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 102 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_AbuMusa",
+   "position": {
+    "x": -28500,
+    "y": -118500
+   },
+   "radius": 5000,
+   "groups": [
+    {
+     "name": "Vedettes",
+     "position": {
+      "x": -26000,
+      "y": -116000
+     },
+     "keep_position": true,
+     "patrol": true,
+     "units": [
+      {
+       "type": "speedboat",
+       "count": 6
+      }
+     ],
+     "route": [
+      {
+       "x": -26000,
+       "y": -116000
+      },
+      {
+       "x": -20000,
+       "y": -110000
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "ship",
+   "combat_zone": {
+    "friendly_name": "Z16 Antinavire — vedettes et Silkworm d'Abu Musa",
+    "radio_group_name": "Antinavire",
+    "training": false,
+    "briefing": "Les Gardiens de la révolution tiennent Abu Musa : un essaim de vedettes rapides à l'est de l'île et une batterie de missiles antinavires (HY-2 Silkworm) sur l'île. Couler les vedettes, détruire les lanceurs et leur radar ; SA-15 permanent sur l'île.\nPosition : bullseye 212°/25 nm (N25°54.210' E055°03.646'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 75 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 64 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "Silkworm",
+   "position": {
+    "x": -32815,
+    "y": -121848
+   },
+   "units": [
+    {
+     "type": "hy_launcher",
+     "count": 2
+    },
+    {
+     "type": "Silkworm_SR",
+     "count": 1
+    }
+   ],
+   "for_combat_zone": "combatZone_AbuMusa",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "zone_name": "combatZone_Mubarek",
+   "position": {
+    "x": 8000,
+    "y": -61000
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "Vedettes",
+     "position": {
+      "x": 7000,
+      "y": -62600
+     },
+     "keep_position": true,
+     "patrol": true,
+     "units": [
+      {
+       "type": "speedboat",
+       "count": 4
+      }
+     ],
+     "route": [
+      {
+       "x": 7000,
+       "y": -62600
+      },
+      {
+       "x": 11000,
+       "y": -58000
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "ship",
+   "combat_zone": {
+    "friendly_name": "Z17 Antinavire — champ pétrolier de Mubarek",
+    "radio_group_name": "Antinavire",
+    "training": false,
+    "briefing": "Le champ pétrolier offshore de Mubarek, au sud-est des Tunb, sert de base avancée aux vedettes des Gardiens de la révolution : plates-formes et vedettes en patrouille. Détruire les plates-formes et couler les vedettes.\nPosition : bullseye 096°/18 nm (N26°14.372' E055°37.848'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 95 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 78 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Oil-1",
+   "position": {
+    "x": 6021,
+    "y": -59790
+   },
+   "units": [
+    {
+     "type": "Oil rig"
+    }
+   ],
+   "for_combat_zone": "combatZone_Mubarek",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Oil-2",
+   "position": {
+    "x": 9350,
+    "y": -62056
+   },
+   "units": [
+    {
+     "type": "Oil rig"
+    }
+   ],
+   "for_combat_zone": "combatZone_Mubarek",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Gas-3",
+   "position": {
+    "x": 8483,
+    "y": -61357
+   },
+   "units": [
+    {
+     "type": "Gas platform"
+    }
+   ],
+   "for_combat_zone": "combatZone_Mubarek",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "static",
+   "name": "Static-Gas-4",
+   "position": {
+    "x": 9837,
+    "y": -60788
+   },
+   "units": [
+    {
+     "type": "Gas platform"
+    }
+   ],
+   "for_combat_zone": "combatZone_Mubarek",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Reaper 2",
+   "unit_type": "MQ-9 Reaper",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": 50740,
+    "y": -135038
+   },
+   "altitude_ft": 10000,
+   "speed_kt": 110,
+   "task": "AFAC",
+   "skill": "High"
+  }
+ }
+]

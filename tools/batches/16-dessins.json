@@ -1,0 +1,1332 @@
+[
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "line",
+   "name": "Front",
+   "points": [
+    {
+     "x": 20000,
+     "y": -340000
+    },
+    {
+     "x": -20000,
+     "y": -260000
+    },
+    {
+     "x": -60000,
+     "y": -195000
+    },
+    {
+     "x": -55000,
+     "y": -130000
+    },
+    {
+     "x": -40000,
+     "y": -80000
+    },
+    {
+     "x": 5000,
+     "y": -40000
+    },
+    {
+     "x": 40000,
+     "y": 0
+    },
+    {
+     "x": 25000,
+     "y": 35000
+    },
+    {
+     "x": -30000,
+     "y": 85000
+    },
+    {
+     "x": -100000,
+     "y": 140000
+    },
+    {
+     "x": -160000,
+     "y": 190000
+    }
+   ],
+   "color": "0xcc0000ff",
+   "thickness": 6
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Front étiquette",
+   "position": {
+    "x": -75000,
+    "y": -150000
+   },
+   "text": "FRONT (approximatif) : le Golfe et le détroit d'Ormuz",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 14
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Berlin",
+   "position": {
+    "x": -217391,
+    "y": -238497
+   },
+   "radius": 2500,
+   "color": "0xe07000ff",
+   "fill_color": "0xe0700018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Berlin étiquette",
+   "position": {
+    "x": -214091,
+    "y": -238497
+   },
+   "text": "H1-H3 Entraînement hélicoptères — Berlin",
+   "color": "0xe07000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Tarif",
+   "position": {
+    "x": -250000,
+    "y": -215000
+   },
+   "radius": 2500,
+   "color": "0xe07000ff",
+   "fill_color": "0xe0700018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Tarif étiquette",
+   "position": {
+    "x": -246700,
+    "y": -215000
+   },
+   "text": "A1-A3 Entraînement attaque — Tarif",
+   "color": "0xe07000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_AlQua",
+   "position": {
+    "x": -285000,
+    "y": -150000
+   },
+   "radius": 3000,
+   "color": "0xe07000ff",
+   "fill_color": "0xe0700018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_AlQua étiquette",
+   "position": {
+    "x": -281200,
+    "y": -150000
+   },
+   "text": "S1-S3 Entraînement SEAD — Al Qua'a",
+   "color": "0xe07000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Qeshm",
+   "position": {
+    "x": 76000,
+    "y": -28000
+   },
+   "radius": 2500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Qeshm étiquette",
+   "position": {
+    "x": 79300,
+    "y": -28000
+   },
+   "text": "Z01 Front — brigade IRGC de Qeshm",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_BandarLengeh",
+   "position": {
+    "x": 50740,
+    "y": -135038
+   },
+   "radius": 2500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_BandarLengeh étiquette",
+   "position": {
+    "x": 54040,
+    "y": -135038
+   },
+   "text": "Z02 Front — défense côtière de Bandar Lengeh",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Minab",
+   "position": {
+    "x": 109400,
+    "y": 86371
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Minab étiquette",
+   "position": {
+    "x": 111700,
+    "y": 86371
+   },
+   "text": "Z03 Front — base IRGC de Minab",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Lavan",
+   "position": {
+    "x": 75496,
+    "y": -294522
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Lavan étiquette",
+   "position": {
+    "x": 77796,
+    "y": -294522
+   },
+   "text": "Z04 SEAD — site Hawk de Lavan",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Jask",
+   "position": {
+    "x": -51214,
+    "y": 154150
+   },
+   "radius": 2000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Jask étiquette",
+   "position": {
+    "x": -48414,
+    "y": 154150
+   },
+   "text": "Z05 SEAD — site sol-air de Jask",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_ConvoiMinab",
+   "position": {
+    "x": 112000,
+    "y": 32000
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_ConvoiMinab étiquette",
+   "position": {
+    "x": 114300,
+    "y": 32000
+   },
+   "text": "Z06 Convoi — Bandar Abbas vers Minab",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_ConvoiLar",
+   "position": {
+    "x": 152064,
+    "y": -188516
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_ConvoiLar étiquette",
+   "position": {
+    "x": 154364,
+    "y": -188516
+   },
+   "text": "Z07 Convoi — Lar vers Bandar Lengeh",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_ConvoiJask",
+   "position": {
+    "x": -47012,
+    "y": 149402
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_ConvoiJask étiquette",
+   "position": {
+    "x": -44712,
+    "y": 149402
+   },
+   "text": "Z08 Convoi — Jask vers Sirik",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_WeaponFactory",
+   "position": {
+    "x": 324196,
+    "y": -86766
+   },
+   "radius": 1200,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_WeaponFactory étiquette",
+   "position": {
+    "x": 326196,
+    "y": -86766
+   },
+   "text": "Z09 Frappe — usine d'armement de Sirjan",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Missiles",
+   "position": {
+    "x": 150000,
+    "y": 40000
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Missiles étiquette",
+   "position": {
+    "x": 152300,
+    "y": 40000
+   },
+   "text": "Z10 Frappe — base de missiles balistiques",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_PortRajaee",
+   "position": {
+    "x": 103393,
+    "y": -17110
+   },
+   "radius": 1000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_PortRajaee étiquette",
+   "position": {
+    "x": 105193,
+    "y": -17110
+   },
+   "text": "Z11 Frappe — port Shahid Rajaee",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_CentraleLar",
+   "position": {
+    "x": 167610,
+    "y": -201530
+   },
+   "radius": 800,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_CentraleLar étiquette",
+   "position": {
+    "x": 169210,
+    "y": -201530
+   },
+   "text": "Z12 Frappe — centrale électrique de Lar",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Kish",
+   "position": {
+    "x": 43284,
+    "y": -225094
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Kish étiquette",
+   "position": {
+    "x": 45584,
+    "y": -225094
+   },
+   "text": "Z13 OCA — base aérienne de Kish",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Jiroft",
+   "position": {
+    "x": 282608,
+    "y": 142285
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Jiroft étiquette",
+   "position": {
+    "x": 284908,
+    "y": 142285
+   },
+   "text": "Z14 OCA — base aérienne de Jiroft",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Flottille",
+   "position": {
+    "x": 95000,
+    "y": 5000
+   },
+   "radius": 4000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Flottille étiquette",
+   "position": {
+    "x": 99800,
+    "y": 5000
+   },
+   "text": "Z15 Antinavire — flottille devant Bandar Abbas",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_AbuMusa",
+   "position": {
+    "x": -28500,
+    "y": -118500
+   },
+   "radius": 5000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_AbuMusa étiquette",
+   "position": {
+    "x": -22700,
+    "y": -118500
+   },
+   "text": "Z16 Antinavire — vedettes et Silkworm d'Abu Musa",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Mubarek",
+   "position": {
+    "x": 8000,
+    "y": -61000
+   },
+   "radius": 3000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Mubarek étiquette",
+   "position": {
+    "x": 11800,
+    "y": -61000
+   },
+   "text": "Z17 Antinavire — champ pétrolier de Mubarek",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Bandar Abbas",
+   "position": {
+    "x": 95000,
+    "y": 0
+   },
+   "radius": 46300,
+   "color": "0xb000b0ff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Bandar Abbas étiquette",
+   "position": {
+    "x": 135300,
+    "y": 0
+   },
+   "text": "QRA Bandar Abbas (25 nm)",
+   "color": "0xb000b0ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Lar",
+   "position": {
+    "x": 168978,
+    "y": -182360
+   },
+   "radius": 46300,
+   "color": "0xb000b0ff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Lar étiquette",
+   "position": {
+    "x": 209278,
+    "y": -182360
+   },
+   "text": "QRA Lar (25 nm)",
+   "color": "0xb000b0ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Al Minhad",
+   "position": {
+    "x": -115000,
+    "y": -80000
+   },
+   "radius": 46300,
+   "color": "0x0040ccff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Al Minhad étiquette",
+   "position": {
+    "x": -74700,
+    "y": -80000
+   },
+   "text": "QRA Al Minhad (25 nm)",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Al Dhafra",
+   "position": {
+    "x": -211028,
+    "y": -173240
+   },
+   "radius": 55560,
+   "color": "0x0040ccff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Al Dhafra étiquette",
+   "position": {
+    "x": -161468,
+    "y": -173240
+   },
+   "text": "QRA Al Dhafra (30 nm)",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Sanctuaire Al Dhafra",
+   "position": {
+    "x": -245000,
+    "y": -200000
+   },
+   "radius": 80000,
+   "color": "0x008000ff",
+   "fill_color": "0x00800018",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Sanctuaire Al Dhafra étiquette",
+   "position": {
+    "x": -326500,
+    "y": -200000
+   },
+   "text": "Sanctuaire Al Dhafra",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Sanctuaire Lar",
+   "position": {
+    "x": 168978,
+    "y": -182360
+   },
+   "radius": 12000,
+   "color": "0x008000ff",
+   "fill_color": "0x00800018",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Sanctuaire Lar étiquette",
+   "position": {
+    "x": 155478,
+    "y": -182360
+   },
+   "text": "Sanctuaire Lar",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Sanctuaire Shiraz",
+   "position": {
+    "x": 381101,
+    "y": -351636
+   },
+   "radius": 20000,
+   "color": "0x008000ff",
+   "fill_color": "0x00800018",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Sanctuaire Shiraz étiquette",
+   "position": {
+    "x": 359601,
+    "y": -351636
+   },
+   "text": "Sanctuaire Shiraz",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Arène cercle",
+   "position": {
+    "x": 380000,
+    "y": -690000
+   },
+   "radius": 74000,
+   "color": "0x008000ff",
+   "fill_color": "0x00000000",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Arène étiquette",
+   "position": {
+    "x": 457000,
+    "y": -690000
+   },
+   "text": "ARÈNE joueurs contre joueurs (slots en vol)",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 14
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Texaco 1",
+   "points": [
+    {
+     "x": -130000,
+     "y": -240000
+    },
+    {
+     "x": -130000,
+     "y": -180000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Texaco 1 étiquette",
+   "position": {
+    "x": -130000,
+    "y": -204000
+   },
+   "text": "Texaco 1 — 50Y — U290.0 — FL220",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Arco 1",
+   "points": [
+    {
+     "x": -160000,
+     "y": -225000
+    },
+    {
+     "x": -160000,
+     "y": -165000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Arco 1 étiquette",
+   "position": {
+    "x": -160000,
+    "y": -189000
+   },
+   "text": "Arco 1 — 51Y — U291.0 — FL180",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Texaco 2",
+   "points": [
+    {
+     "x": -150000,
+     "y": 45000
+    },
+    {
+     "x": -90000,
+     "y": 45000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Texaco 2 étiquette",
+   "position": {
+    "x": -120000,
+    "y": 51000
+   },
+   "text": "Texaco 2 — 52Y — U292.0 — FL240",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Arco 2",
+   "points": [
+    {
+     "x": -165000,
+     "y": 75000
+    },
+    {
+     "x": -105000,
+     "y": 75000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Arco 2 étiquette",
+   "position": {
+    "x": -135000,
+    "y": 81000
+   },
+   "text": "Arco 2 — 53Y — U293.0 — FL200",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Overlord 1",
+   "points": [
+    {
+     "x": -200000,
+     "y": -140000
+    },
+    {
+     "x": -200000,
+     "y": -60000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Overlord 1 étiquette",
+   "position": {
+    "x": -200000,
+    "y": -94000
+   },
+   "text": "Overlord 1 AWACS — U282.0",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Magic 1",
+   "points": [
+    {
+     "x": -210000,
+     "y": 50000
+    },
+    {
+     "x": -160000,
+     "y": 110000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Magic 1 étiquette",
+   "position": {
+    "x": -185000,
+    "y": 86000
+   },
+   "text": "Magic 1 AWACS — U283.0",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Red",
+   "shape": "line",
+   "name": "Piste Shell 1",
+   "points": [
+    {
+     "x": 250000,
+     "y": -150000
+    },
+    {
+     "x": 250000,
+     "y": -60000
+    }
+   ],
+   "color": "0xcc0000ff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Red",
+   "shape": "textbox",
+   "name": "Piste Shell 1 étiquette",
+   "position": {
+    "x": 250000,
+    "y": -99000
+   },
+   "text": "Shell 1 IL-78 — U294.0 — FL200",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Red",
+   "shape": "line",
+   "name": "Piste Wizard 1",
+   "points": [
+    {
+     "x": 320000,
+     "y": -120000
+    },
+    {
+     "x": 320000,
+     "y": -20000
+    }
+   ],
+   "color": "0xcc0000ff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "layer": "Red",
+   "shape": "textbox",
+   "name": "Piste Wizard 1 étiquette",
+   "position": {
+    "x": 320000,
+    "y": -64000
+   },
+   "text": "Wizard 1 AWACS — U284.0",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ }
+]

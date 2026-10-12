@@ -1,0 +1,626 @@
+[
+ {
+  "name": "create_qra",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "QRA Bandar Abbas",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "trigger_zone": "QRA-BandarAbbas",
+   "position": {
+    "x": 95000,
+    "y": 0
+   },
+   "radius": 46300,
+   "groups": [
+    {
+     "name": "QRA-BandarAbbas-MiG29",
+     "units": [
+      {
+       "type": "MiG-29A",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 95000,
+      "y": 0
+     },
+     "airfield": "Bandar Abbas Intl",
+     "payload": "R-73*4,R-27R*2,Fuel-1500"
+    },
+    {
+     "name": "QRA-BandarAbbas-F4",
+     "units": [
+      {
+       "type": "F-4E",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 95000,
+      "y": 0
+     },
+     "airfield": "Bandar Abbas Intl",
+     "payload": "AIM-9*4,AIM-7*4,Fuel*2"
+    },
+    {
+     "name": "QRA-BandarAbbas-F14",
+     "units": [
+      {
+       "type": "F-14A",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 95000,
+      "y": 0
+     },
+     "airfield": "Bandar Abbas Intl",
+     "payload": "AIM-54C*4,AIM-9*2,AIM-7*2"
+    },
+    {
+     "name": "QRA-BandarAbbas-MiG29x4",
+     "units": [
+      {
+       "type": "MiG-29A",
+       "count": 4
+      }
+     ],
+     "position": {
+      "x": 95000,
+      "y": 0
+     },
+     "airfield": "Bandar Abbas Intl",
+     "payload": "R-73*4,R-27R*2,Fuel-1500"
+    }
+   ],
+   "enemy_coalitions": [
+    "BLUE"
+   ],
+   "qra": {
+    "groups_by_enemy_count": [
+     {
+      "enemy_count": 1,
+      "groups": [
+       "QRA-BandarAbbas-MiG29",
+       "QRA-BandarAbbas-F4"
+      ],
+      "random_pick": 1
+     },
+     {
+      "enemy_count": 3,
+      "groups": [
+       "QRA-BandarAbbas-F14",
+       "QRA-BandarAbbas-MiG29x4"
+      ],
+      "random_pick": 1
+     }
+    ],
+    "delay_before_activating": 90,
+    "delay_before_rearming": 600,
+    "react_on_helicopters": false,
+    "airport_link": "Bandar Abbas Intl"
+   }
+  }
+ },
+ {
+  "name": "create_qra",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "QRA Lar",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "trigger_zone": "QRA-Lar",
+   "position": {
+    "x": 168978,
+    "y": -182360
+   },
+   "radius": 46300,
+   "groups": [
+    {
+     "name": "QRA-Lar-F4",
+     "units": [
+      {
+       "type": "F-4E",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 168978,
+      "y": -182360
+     },
+     "airfield": "Lar",
+     "payload": "AIM-9*4,AIM-7*4,Fuel*2"
+    },
+    {
+     "name": "QRA-Lar-MiG29",
+     "units": [
+      {
+       "type": "MiG-29A",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 168978,
+      "y": -182360
+     },
+     "airfield": "Lar",
+     "payload": "R-73*4,R-27R*2,Fuel-1500"
+    },
+    {
+     "name": "QRA-Lar-F14",
+     "units": [
+      {
+       "type": "F-14A",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 168978,
+      "y": -182360
+     },
+     "airfield": "Lar",
+     "payload": "AIM-54C*4,AIM-9*2,AIM-7*2"
+    },
+    {
+     "name": "QRA-Lar-F4x4",
+     "units": [
+      {
+       "type": "F-4E",
+       "count": 4
+      }
+     ],
+     "position": {
+      "x": 168978,
+      "y": -182360
+     },
+     "airfield": "Lar",
+     "payload": "AIM-9*4,AIM-7*4,Fuel*2"
+    }
+   ],
+   "enemy_coalitions": [
+    "BLUE"
+   ],
+   "qra": {
+    "groups_by_enemy_count": [
+     {
+      "enemy_count": 1,
+      "groups": [
+       "QRA-Lar-F4",
+       "QRA-Lar-MiG29"
+      ],
+      "random_pick": 1
+     },
+     {
+      "enemy_count": 3,
+      "groups": [
+       "QRA-Lar-F14",
+       "QRA-Lar-F4x4"
+      ],
+      "random_pick": 1
+     }
+    ],
+    "delay_before_activating": 90,
+    "delay_before_rearming": 600,
+    "react_on_helicopters": false,
+    "airport_link": "Lar"
+   }
+  }
+ },
+ {
+  "name": "create_qra",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "QRA Al Minhad",
+   "coalition": "blue",
+   "country_id": 74,
+   "country_name": "United Arab Emirates",
+   "trigger_zone": "QRA-AlMinhad",
+   "position": {
+    "x": -115000,
+    "y": -80000
+   },
+   "radius": 46300,
+   "groups": [
+    {
+     "name": "QRA-AlMinhad-F16",
+     "units": [
+      {
+       "type": "F-16C bl.50",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": -115000,
+      "y": -80000
+     },
+     "airfield": "Al Minhad AFB",
+     "payload": "AIM-120C*4, AIM-9M*2, Fuel"
+    },
+    {
+     "name": "QRA-AlMinhad-M2000",
+     "units": [
+      {
+       "type": "Mirage 2000-5",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": -115000,
+      "y": -80000
+     },
+     "airfield": "Al Minhad AFB",
+     "payload": "R 550*2,MICA AR*4,Fuel*3"
+    },
+    {
+     "name": "QRA-AlMinhad-F15",
+     "units": [
+      {
+       "type": "F-15C",
+       "count": 4
+      }
+     ],
+     "position": {
+      "x": -115000,
+      "y": -80000
+     },
+     "airfield": "Al Minhad AFB",
+     "payload": "AIM-9*4,AIM-120*4,Fuel"
+    },
+    {
+     "name": "QRA-AlMinhad-M2000x4",
+     "units": [
+      {
+       "type": "Mirage 2000-5",
+       "count": 4
+      }
+     ],
+     "position": {
+      "x": -115000,
+      "y": -80000
+     },
+     "airfield": "Al Minhad AFB",
+     "payload": "R 550*2,MICA AR*4,Fuel*3"
+    }
+   ],
+   "enemy_coalitions": [
+    "RED"
+   ],
+   "qra": {
+    "groups_by_enemy_count": [
+     {
+      "enemy_count": 1,
+      "groups": [
+       "QRA-AlMinhad-F16",
+       "QRA-AlMinhad-M2000"
+      ],
+      "random_pick": 1
+     },
+     {
+      "enemy_count": 3,
+      "groups": [
+       "QRA-AlMinhad-F15",
+       "QRA-AlMinhad-M2000x4"
+      ],
+      "random_pick": 1
+     }
+    ],
+    "delay_before_activating": 90,
+    "delay_before_rearming": 600,
+    "react_on_helicopters": false,
+    "airport_link": "Al Minhad AFB"
+   }
+  }
+ },
+ {
+  "name": "create_qra",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "name": "QRA Al Dhafra",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "trigger_zone": "QRA-AlDhafra",
+   "position": {
+    "x": -211028,
+    "y": -173240
+   },
+   "radius": 55560,
+   "groups": [
+    {
+     "name": "QRA-AlDhafra-F15",
+     "units": [
+      {
+       "type": "F-15C",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": -211028,
+      "y": -173240
+     },
+     "airfield": "Al Dhafra AFB",
+     "payload": "AIM-9*4,AIM-120*4,Fuel"
+    },
+    {
+     "name": "QRA-AlDhafra-F16",
+     "units": [
+      {
+       "type": "F-16C bl.50",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": -211028,
+      "y": -173240
+     },
+     "airfield": "Al Dhafra AFB",
+     "payload": "AIM-120C*4, AIM-9M*2, Fuel"
+    },
+    {
+     "name": "QRA-AlDhafra-F15x4",
+     "units": [
+      {
+       "type": "F-15C",
+       "count": 4
+      }
+     ],
+     "position": {
+      "x": -211028,
+      "y": -173240
+     },
+     "airfield": "Al Dhafra AFB",
+     "payload": "AIM-9*4,AIM-120*4,Fuel"
+    },
+    {
+     "name": "QRA-AlDhafra-F16x4",
+     "units": [
+      {
+       "type": "F-16C bl.50",
+       "count": 4
+      }
+     ],
+     "position": {
+      "x": -211028,
+      "y": -173240
+     },
+     "airfield": "Al Dhafra AFB",
+     "payload": "AIM-120C*4, AIM-9M*2, Fuel"
+    }
+   ],
+   "enemy_coalitions": [
+    "RED"
+   ],
+   "qra": {
+    "groups_by_enemy_count": [
+     {
+      "enemy_count": 1,
+      "groups": [
+       "QRA-AlDhafra-F15",
+       "QRA-AlDhafra-F16"
+      ],
+      "random_pick": 1
+     },
+     {
+      "enemy_count": 3,
+      "groups": [
+       "QRA-AlDhafra-F15x4",
+       "QRA-AlDhafra-F16x4"
+      ],
+      "random_pick": 1
+     }
+    ],
+    "delay_before_activating": 90,
+    "delay_before_rearming": 600,
+    "react_on_helicopters": false,
+    "airport_link": "Al Dhafra AFB"
+   }
+  }
+ },
+ {
+  "name": "create_cap_mission",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "mission_name": "CAP-Qeshm-MiG29",
+   "units": [
+    {
+     "type": "MiG-29A",
+     "count": 2
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "position": {
+    "x": 70000,
+    "y": -60000
+   },
+   "route": [
+    {
+     "x": 90000,
+     "y": -20000,
+     "altitude_ft": 22000
+    }
+   ],
+   "altitude_ft": 22000,
+   "speed_kt": 420,
+   "cap": {
+    "menu_name": "CAP rouge MiG-29 (Fox 1) — Qeshm — FL220",
+    "briefing": "Deux MiG-29A armés de R-27R et R-73 patrouillent au-dessus de l'île de Qeshm, au FL220. Emport : R-73*4,R-27R*2,Fuel-1500."
+   },
+   "payload": "R-73*4,R-27R*2,Fuel-1500"
+  }
+ },
+ {
+  "name": "create_cap_mission",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "mission_name": "CAP-Lengeh-F4",
+   "units": [
+    {
+     "type": "F-4E",
+     "count": 2
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "position": {
+    "x": 60000,
+    "y": -165000
+   },
+   "route": [
+    {
+     "x": 75000,
+     "y": -110000,
+     "altitude_ft": 20000
+    }
+   ],
+   "altitude_ft": 20000,
+   "speed_kt": 420,
+   "cap": {
+    "menu_name": "CAP rouge F-4E (Fox 1) — Bandar Lengeh — FL200",
+    "briefing": "Deux F-4E armés d'AIM-7 et d'AIM-9 patrouillent au-dessus de Bandar Lengeh et de Kong, au FL200. Emport : AIM-9*4,AIM-7*4,Fuel*2."
+   },
+   "payload": "AIM-9*4,AIM-7*4,Fuel*2"
+  }
+ },
+ {
+  "name": "create_cap_mission",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "mission_name": "CAP-Lar-F14",
+   "units": [
+    {
+     "type": "F-14A",
+     "count": 2
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "position": {
+    "x": 150000,
+    "y": -230000
+   },
+   "route": [
+    {
+     "x": 190000,
+     "y": -150000,
+     "altitude_ft": 35000
+    }
+   ],
+   "altitude_ft": 35000,
+   "speed_kt": 500,
+   "cap": {
+    "menu_name": "CAP rouge F-14A (intercepteur haut et rapide, AIM-54) — Lar — FL350",
+    "briefing": "Deux F-14A armés de Phoenix patrouillent haut et vite au-dessus de Lar, au FL350. Emport : AIM-54C*4,AIM-9*2,AIM-7*2."
+   },
+   "payload": "AIM-54C*4,AIM-9*2,AIM-7*2"
+  }
+ },
+ {
+  "name": "create_cap_mission",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "mission_name": "Raid-Kish-Su24",
+   "units": [
+    {
+     "type": "Su-24M",
+     "count": 2
+    }
+   ],
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "position": {
+    "x": 70000,
+    "y": -250000
+   },
+   "route": [
+    {
+     "x": 40000,
+     "y": -195000,
+     "altitude_ft": 15000
+    }
+   ],
+   "altitude_ft": 15000,
+   "speed_kt": 420,
+   "cap": {
+    "menu_name": "Raid rouge Su-24M à intercepter — Kish — FL150",
+    "briefing": "Deux Su-24M chargés de bombes tournent au-dessus de Kish, au FL150, prêts à frapper Sir Abu Nuayr : les intercepter. Emport : FAB-500*4,R-60M*2."
+   },
+   "payload": "FAB-500*4,R-60M*2"
+  }
+ },
+ {
+  "name": "create_cap_mission",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "mission_name": "CAP-RAK-F16",
+   "units": [
+    {
+     "type": "F-16C bl.50",
+     "count": 2
+    }
+   ],
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "position": {
+    "x": -75000,
+    "y": -45000
+   },
+   "route": [
+    {
+     "x": -50000,
+     "y": -20000,
+     "altitude_ft": 22000
+    }
+   ],
+   "altitude_ft": 22000,
+   "speed_kt": 420,
+   "cap": {
+    "menu_name": "CAP bleue F-16 (Fox 3) — Ras Al Khaimah — FL220",
+    "briefing": "Deux F-16C patrouillent au-dessus de Ras Al Khaimah et de la base de Musandam, au FL220. Emport : AIM-120C*4, AIM-9M*2, Fuel."
+   },
+   "payload": "AIM-120C*4, AIM-9M*2, Fuel"
+  }
+ },
+ {
+  "name": "create_cap_mission",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "mission_name": "CAP-AbuDhabi-M2000",
+   "units": [
+    {
+     "type": "Mirage 2000-5",
+     "count": 2
+    }
+   ],
+   "coalition": "blue",
+   "country_id": 74,
+   "country_name": "United Arab Emirates",
+   "position": {
+    "x": -175000,
+    "y": -205000
+   },
+   "route": [
+    {
+     "x": -150000,
+     "y": -150000,
+     "altitude_ft": 25000
+    }
+   ],
+   "altitude_ft": 25000,
+   "speed_kt": 440,
+   "cap": {
+    "menu_name": "CAP bleue Mirage 2000-5 (Fox 3) — Abu Dhabi — FL250",
+    "briefing": "Deux Mirage 2000-5 émiriens couvrent la côte d'Abu Dhabi, au FL250. Emport : R 550*2,MICA AR*4,Fuel*3."
+   },
+   "payload": "R 550*2,MICA AR*4,Fuel*3"
+  }
+ }
+]
