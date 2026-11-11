@@ -318,74 +318,55 @@ Défense permanente des deux camps : courte et moyenne portée sur chaque base a
 
 | Radio | Canal | Nom | MHz |
 |---|---|---|---|
-| Radio 1 (UHF) | `1` | Guard | `243` |
-| Radio 1 (UHF) | `2` | Overlord 1 AWACS ouest | `282.0` |
-| Radio 1 (UHF) | `3` | Magic 1 AWACS est | `283.0` |
-| Radio 1 (UHF) | `4` | Texaco 1/BS/50Y | `290.0` |
-| Radio 1 (UHF) | `5` | Arco 1/BM/51Y | `291.0` |
-| Radio 1 (UHF) | `6` | Texaco 2/BS/52Y | `292.0` |
-| Radio 1 (UHF) | `7` | Arco 2/BM/53Y | `293.0` |
-| Radio 1 (UHF) | `8` | Stennis/74X/ICLS11 | `305.0` |
-| Radio 1 (UHF) | `9` | Roosevelt/71X/ICLS12 | `306.0` |
-| Radio 1 (UHF) | `10` | Tarawa/73X/ICLS13 | `307.0` |
-| Radio 1 (UHF) | `11` | S-3B Stennis/56Y | `296.0` |
-| Radio 1 (UHF) | `12` | S-3B Roosevelt/57Y | `297.0` |
-| Radio 1 (UHF) | `13` | Darkstar 1 Arène | `285.0` |
-| Radio 1 (UHF) | `14` | Al Dhafra AFB / 96X | `251.1` |
-| Radio 1 (UHF) | `15` | Al Minhad AFB / 99X | `250.1` |
-| Radio 1 (UHF) | `16` | Khasab | `250.0` |
-| Radio 1 (UHF) | `17` | Ras Al Khaimah Intl | `250.9` |
-| Radio 1 (UHF) | `18` | Fujairah Intl | `251.25` |
-| Radio 1 (UHF) | `19` | Liwa AFB / 121X | `250.95` |
-| Radio 1 (UHF) | `20` | Al Ain Intl | `250.7` |
-| Radio 2 (V/UHF) | `1` | Guard | `121.5` |
-| Radio 2 (V/UHF) | `2` | FARP Berlin | `127.5` |
-| Radio 2 (V/UHF) | `3` | FARP London | `128.5` |
-| Radio 2 (V/UHF) | `4` | Archer | `130.0` |
-| Radio 2 (V/UHF) | `5` | Arctic | `130.1` |
-| Radio 2 (V/UHF) | `6` | Astro | `130.2` |
-| Radio 2 (V/UHF) | `7` | Nickel | `130.3` |
-| Radio 2 (V/UHF) | `8` | Nitro | `130.4` |
-| Radio 2 (V/UHF) | `9` | Ninja | `130.5` |
-| Radio 2 (V/UHF) | `10` | Pinder | `130.6` |
-| Radio 2 (V/UHF) | `11` | Bengal | `130.7` |
-| Radio 2 (V/UHF) | `12` | Al Dhafra AFB / 96X | `126.5` |
-| Radio 2 (V/UHF) | `13` | Al Minhad AFB / 99X | `118.55` |
-| Radio 2 (V/UHF) | `14` | Khasab | `124.35` |
-| Radio 2 (V/UHF) | `15` | Ras Al Khaimah Intl | `121.6` |
-| Radio 2 (V/UHF) | `16` | Fujairah Intl | `124.6` |
-| Radio 2 (V/UHF) | `17` | Liwa AFB / 121X | `119.3` |
-| Radio 2 (V/UHF) | `18` | Al Ain Intl | `119.85` |
-| Radio 2 (V/UHF) | `19` | Al-Bateen | `119.9` |
-| Radio 2 (V/UHF) | `20` | Sir Abu Nuayr | `118.0` |
+| Radio 1 (UHF) | `1` | Overlord 1 AWACS ouest | `282.0` |
+| Radio 1 (UHF) | `2` | Magic 1 AWACS est | `283.0` |
+| Radio 1 (UHF) | `3` | Texaco 1/BS/50Y | `290.0` |
+| Radio 1 (UHF) | `4` | Arco 1/BM/51Y | `291.0` |
+| Radio 1 (UHF) | `5` | Texaco 2/BS/52Y | `292.0` |
+| Radio 1 (UHF) | `6` | Arco 2/BM/53Y | `293.0` |
+| Radio 1 (UHF) | `7` | S-3B Stennis/56Y | `296.0` |
+| Radio 1 (UHF) | `8` | S-3B Roosevelt/57Y | `297.0` |
+| Radio 1 (UHF) | `9` | Stennis/74X/ICLS11 | `305.0` |
+| Radio 1 (UHF) | `10` | Roosevelt/71X/ICLS12 | `306.0` |
+| Radio 1 (UHF) | `11` | Tarawa/73X/ICLS13 | `307.0` |
+| Radio 1 (UHF) | `12` | Archer | `390.0` |
+| Radio 1 (UHF) | `13` | Arctic | `390.1` |
+| Radio 1 (UHF) | `14` | Astro | `390.2` |
+| Radio 1 (UHF) | `15` | Nickel | `390.3` |
+| Radio 1 (UHF) | `16` | Nitro | `390.4` |
+| Radio 1 (UHF) | `17` | Ninja | `390.5` |
+| Radio 1 (UHF) | `18` | Pinder | `390.6` |
+| Radio 1 (UHF) | `19` | Bengal | `390.7` |
+| Radio 2 (V/UHF) | `1` | Al Dhafra AFB / 96X | `126.5` |
+| Radio 2 (V/UHF) | `2` | Al Minhad AFB / 99X | `118.55` |
+| Radio 2 (V/UHF) | `3` | Khasab | `124.35` |
+| Radio 2 (V/UHF) | `4` | Ras Al Khaimah Intl | `121.6` |
+| Radio 2 (V/UHF) | `5` | Fujairah Intl | `124.6` |
+| Radio 2 (V/UHF) | `6` | Liwa AFB / 121X | `119.3` |
+| Radio 2 (V/UHF) | `7` | Al Ain Intl | `119.85` |
+| Radio 2 (V/UHF) | `8` | Al-Bateen | `119.9` |
+| Radio 2 (V/UHF) | `9` | Sir Abu Nuayr | `118.0` |
+| Radio 2 (V/UHF) | `10` | FARP Berlin | `127.5` |
+| Radio 2 (V/UHF) | `11` | FARP London | `128.5` |
 
 ### Rouge
 
 | Radio | Canal | Nom | MHz |
 |---|---|---|---|
-| Radio 1 (UHF) | `1` | Guard | `243` |
-| Radio 1 (UHF) | `2` | Wizard 1 AWACS | `284.0` |
-| Radio 1 (UHF) | `3` | Shell 1 IL-78 | `294.0` |
-| Radio 1 (UHF) | `4` | Focus 1 Arène | `286.0` |
-| Radio 1 (UHF) | `5` | Bandar Abbas Intl / 78X | `251.0` |
-| Radio 1 (UHF) | `6` | Lar | `250.05` |
-| Radio 1 (UHF) | `7` | Shiraz Intl / 94X | `250.35` |
-| Radio 1 (UHF) | `8` | Havadarya / 47X | `251.3` |
-| Radio 1 (UHF) | `9` | Qeshm Island | `250.15` |
-| Radio 1 (UHF) | `10` | Kish Intl / 112X | `250.65` |
-| Radio 2 (V/UHF) | `1` | Guard | `121.5` |
-| Radio 2 (V/UHF) | `2` | Shahin | `130.8` |
-| Radio 2 (V/UHF) | `3` | Oghab | `130.9` |
-| Radio 2 (V/UHF) | `4` | Toufan | `131.0` |
-| Radio 2 (V/UHF) | `5` | Saeqeh | `131.1` |
-| Radio 2 (V/UHF) | `6` | Kowsar | `131.2` |
-| Radio 2 (V/UHF) | `7` | Azarakhsh | `131.3` |
-| Radio 2 (V/UHF) | `8` | Bandar Abbas Intl / 78X | `118.1` |
-| Radio 2 (V/UHF) | `9` | Lar | `127.35` |
-| Radio 2 (V/UHF) | `10` | Shiraz Intl / 94X | `121.9` |
-| Radio 2 (V/UHF) | `11` | Havadarya / 47X | `123.15` |
-| Radio 2 (V/UHF) | `12` | Qeshm Island | `118.05` |
-| Radio 2 (V/UHF) | `13` | Kish Intl / 112X | `121.65` |
+| Radio 1 (UHF) | `1` | Wizard 1 AWACS | `284.0` |
+| Radio 1 (UHF) | `2` | Shell 1 IL-78 | `294.0` |
+| Radio 1 (UHF) | `3` | Shahin | `395.0` |
+| Radio 1 (UHF) | `4` | Oghab | `395.1` |
+| Radio 1 (UHF) | `5` | Toufan | `395.2` |
+| Radio 1 (UHF) | `6` | Saeqeh | `395.3` |
+| Radio 1 (UHF) | `7` | Kowsar | `395.4` |
+| Radio 1 (UHF) | `8` | Azarakhsh | `395.5` |
+| Radio 2 (V/UHF) | `1` | Bandar Abbas Intl / 78X | `118.1` |
+| Radio 2 (V/UHF) | `2` | Lar | `127.35` |
+| Radio 2 (V/UHF) | `3` | Shiraz Intl / 94X | `121.9` |
+| Radio 2 (V/UHF) | `4` | Havadarya / 47X | `123.15` |
+| Radio 2 (V/UHF) | `5` | Qeshm Island | `118.05` |
+| Radio 2 (V/UHF) | `6` | Kish Intl / 112X | `121.65` |
 
 Préréglages injectés dans les appareils à radio programmable. FM : canaux 1 à 20 = 30 à 49 MHz. Les canaux VEAF sont hors de la bande des tours du Golfe (UHF 250.0-251.3, une partie de la VHF 118.0-136.0) ; patrouilles en VHF 130.0-131.3 et UHF 390-395.5. Les FARP Berlin (127.5) et London (128.5) sont sur la radio 2.
 

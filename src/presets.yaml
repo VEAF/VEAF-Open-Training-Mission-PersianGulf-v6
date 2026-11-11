@@ -6,51 +6,37 @@
 channel_lists:
   blue:
     primary_1: &id003
-      1: &id001
-        title: Guard/UHF
-        channel: Guard
-      2: Overlord-1
-      3: Magic-1
-      4: Texaco-1
-      5: Arco-1
-      6: Texaco-2
-      7: Arco-2
-      8: Stennis
-      9: Roosevelt
-      10: Tarawa
-      11: S3B-Stennis
-      12: S3B-Roosevelt
-      13: Darkstar-1
-      14: Base-Al Dhafra AFB
-      15: Base-Al Minhad AFB
-      16: Base-Khasab
-      17: Base-Ras Al Khaimah Intl
-      18: Base-Fujairah Intl
-      19: Base-Liwa AFB
-      20: Base-Al Ain Intl
+      1: Overlord-1
+      2: Magic-1
+      3: Texaco-1
+      4: Arco-1
+      5: Texaco-2
+      6: Arco-2
+      7: S3B-Stennis
+      8: S3B-Roosevelt
+      9: Stennis
+      10: Roosevelt
+      11: Tarawa
+      12: Archer
+      13: Arctic
+      14: Astro
+      15: Nickel
+      16: Nitro
+      17: Ninja
+      18: Pinder
+      19: Bengal
     primary_2:
-      1: &id002
-        title: Guard/VHF
-        channel: Guard
-      2: FARP-Berlin
-      3: FARP-London
-      4: Archer
-      5: Arctic
-      6: Astro
-      7: Nickel
-      8: Nitro
-      9: Ninja
-      10: Pinder
-      11: Bengal
-      12: Base-Al Dhafra AFB
-      13: Base-Al Minhad AFB
-      14: Base-Khasab
-      15: Base-Ras Al Khaimah Intl
-      16: Base-Fujairah Intl
-      17: Base-Liwa AFB
-      18: Base-Al Ain Intl
-      19: Base-Al-Bateen
-      20: Base-Sir Abu Nuayr
+      1: Base-Al Dhafra AFB
+      2: Base-Al Minhad AFB
+      3: Base-Khasab
+      4: Base-Ras Al Khaimah Intl
+      5: Base-Fujairah Intl
+      6: Base-Liwa AFB
+      7: Base-Al Ain Intl
+      8: Base-Al-Bateen
+      9: Base-Sir Abu Nuayr
+      10: FARP-Berlin
+      11: FARP-London
     fm_supplement:
       1: 30
       2: 31
@@ -74,30 +60,21 @@ channel_lists:
       20: 49
   red:
     primary_1:
-      1: *id001
-      2: Wizard-1
-      3: Shell-1
-      4: Focus-1
-      5: Base-Bandar Abbas Intl
-      6: Base-Lar
-      7: Base-Shiraz Intl
-      8: Base-Havadarya
-      9: Base-Qeshm Island
-      10: Base-Kish Intl
+      1: Wizard-1
+      2: Shell-1
+      3: Shahin
+      4: Oghab
+      5: Toufan
+      6: Saeqeh
+      7: Kowsar
+      8: Azarakhsh
     primary_2:
-      1: *id002
-      2: Shahin
-      3: Oghab
-      4: Toufan
-      5: Saeqeh
-      6: Kowsar
-      7: Azarakhsh
-      8: Base-Bandar Abbas Intl
-      9: Base-Lar
-      10: Base-Shiraz Intl
-      11: Base-Havadarya
-      12: Base-Qeshm Island
-      13: Base-Kish Intl
+      1: Base-Bandar Abbas Intl
+      2: Base-Lar
+      3: Base-Shiraz Intl
+      4: Base-Havadarya
+      5: Base-Qeshm Island
+      6: Base-Kish Intl
     fm_supplement:
       1: 30
       2: 31
