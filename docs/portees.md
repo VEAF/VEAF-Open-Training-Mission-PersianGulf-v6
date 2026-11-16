@@ -47,8 +47,10 @@ Portée = `threat_range_m` du lanceur dans la base d'unités DCS (cercles de l'�
 | zone | combatZone_AlQua_Medium | Tor 9A331 | 12.0 | zone d'entraînement Tarif | 69.9 | ✅ |
 | zone | combatZone_BandarLengeh | Strela-10M3 | 5.0 | Khasab | 143.5 | ✅ |
 | zone | combatZone_BandarLengeh | ZSU-23-4 Shilka | 2.5 | Khasab | 143.7 | ✅ |
-| zone | combatZone_Berlin_Hard | SA-18 Igla manpad | 5.2 | FARP Berlin | 6.6 | ✅ |
-| zone | combatZone_Berlin_Hard | Strela-10M3 | 5.0 | FARP Berlin | 6.8 | ✅ |
+| zone | combatZone_Berlin_Hard | 2S6 Tunguska | 8.0 | FARP Berlin | 9.1 | ✅ |
+| zone | combatZone_Berlin_Hard | Osa 9A33 ln | 10.3 | FARP Berlin | 11.5 | ✅ |
+| zone | combatZone_Berlin_Medium | SA-18 Igla manpad | 5.2 | FARP Berlin | 6.6 | ✅ |
+| zone | combatZone_Berlin_Medium | Strela-10M3 | 5.0 | FARP Berlin | 6.8 | ✅ |
 | zone | combatZone_Berlin_Medium | Ural-375 ZU-23 | 2.5 | FARP Berlin | 5.5 | ✅ |
 | zone | combatZone_Berlin_Medium | ZSU-23-4 Shilka | 2.5 | FARP Berlin | 6.5 | ✅ |
 | zone | combatZone_CentraleLar | Ural-375 ZU-23 | 2.5 | ARG-1 Tarawa (route) | 253.7 | ✅ |

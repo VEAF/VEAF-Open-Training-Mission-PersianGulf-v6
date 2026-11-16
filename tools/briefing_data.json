@@ -7,8 +7,8 @@
  },
  "start": 32400,
  "bullseye": {
-  "x": 11193.0,
-  "y": -93469.0,
+  "x": 11193,
+  "y": -93469,
   "ddm": "N26°15.893' E055°18.324'"
  },
  "bases": [
@@ -148,16 +148,16 @@
  "farps": [
   {
    "name": "Berlin",
-   "x": -217391.0,
-   "y": -232497.0,
+   "x": -217391,
+   "y": -232497,
    "freq": "127.5",
    "be": "211°/144 nm",
    "ddm": "N24°10.823' E053°57.962'"
   },
   {
    "name": "London",
-   "x": -66742.0,
-   "y": -17757.0,
+   "x": -66742,
+   "y": -17757,
    "freq": "128.5",
    "be": "136°/59 nm",
    "ddm": "N25°34.090' E056°04.140'"
@@ -170,7 +170,7 @@
    "type": "KC-135",
    "kind": "tanker",
    "tacan": "50Y",
-   "freq": 290.0,
+   "freq": 290,
    "alt_ft": 22000.0,
    "a": {
     "x": -130000,
@@ -178,8 +178,8 @@
     "ddm": "N24°58.020' E053°52.365'"
    },
    "b": {
-    "x": -130000.0,
-    "y": -180000.0,
+    "x": -130000,
+    "y": -180000,
     "ddm": "N24°58.698' E054°27.989'"
    },
    "mid_be": "220°/99 nm",
@@ -191,7 +191,7 @@
    "type": "KC135MPRS",
    "kind": "tanker",
    "tacan": "51Y",
-   "freq": 291.0,
+   "freq": 291,
    "alt_ft": 18000.0,
    "a": {
     "x": -160000,
@@ -199,8 +199,8 @@
     "ddm": "N24°41.968' E054°01.657'"
    },
    "b": {
-    "x": -160000.0,
-    "y": -165000.0,
+    "x": -160000,
+    "y": -165000,
     "ddm": "N24°42.603' E054°37.209'"
    },
    "mid_be": "211°/107 nm",
@@ -212,7 +212,7 @@
    "type": "E-3A",
    "kind": "awacs",
    "tacan": null,
-   "freq": 282.0,
+   "freq": 282,
    "alt_ft": 30000.0,
    "a": {
     "x": -200000,
@@ -220,8 +220,8 @@
     "ddm": "N24°21.165' E054°52.393'"
    },
    "b": {
-    "x": -200000.0,
-    "y": -60000.0,
+    "x": -200000,
+    "y": -60000,
     "ddm": "N24°21.705' E055°39.695'"
    },
    "mid_be": "182°/114 nm",
@@ -233,7 +233,7 @@
    "type": "KC-135",
    "kind": "tanker",
    "tacan": "52Y",
-   "freq": 292.0,
+   "freq": 292,
    "alt_ft": 24000.0,
    "a": {
     "x": -150000,
@@ -241,8 +241,8 @@
     "ddm": "N24°49.136' E056°41.739'"
    },
    "b": {
-    "x": -90000.0,
-    "y": 45000.0,
+    "x": -90000,
+    "y": 45000,
     "ddm": "N25°21.647' E056°41.659'"
    },
    "mid_be": "133°/103 nm",
@@ -254,7 +254,7 @@
    "type": "KC135MPRS",
    "kind": "tanker",
    "tacan": "53Y",
-   "freq": 293.0,
+   "freq": 293,
    "alt_ft": 20000.0,
    "a": {
     "x": -165000,
@@ -262,8 +262,8 @@
     "ddm": "N24°41.026' E056°59.552'"
    },
    "b": {
-    "x": -105000.0,
-    "y": 75000.0,
+    "x": -105000,
+    "y": 75000,
     "ddm": "N25°13.538' E056°59.550'"
    },
    "mid_be": "131°/120 nm",
@@ -275,7 +275,7 @@
    "type": "E-2C",
    "kind": "awacs",
    "tacan": null,
-   "freq": 283.0,
+   "freq": 283,
    "alt_ft": 28000.0,
    "a": {
     "x": -210000,
@@ -283,8 +283,8 @@
     "ddm": "N24°16.628' E056°44.774'"
    },
    "b": {
-    "x": -160000.0,
-    "y": 110000.0,
+    "x": -160000,
+    "y": 110000,
     "ddm": "N24°43.713' E057°20.317'"
    },
    "mid_be": "139°/141 nm",
@@ -296,7 +296,7 @@
    "type": "E-3A",
    "kind": "awacs",
    "tacan": null,
-   "freq": 285.0,
+   "freq": 285,
    "alt_ft": 30000.0,
    "a": {
     "x": 300000,
@@ -304,8 +304,8 @@
     "ddm": "N28°40.341' E049°28.883'"
    },
    "b": {
-    "x": 300000.0,
-    "y": -720000.0,
+    "x": 300000,
+    "y": -720000,
     "ddm": "N28°38.220' E048°52.388'"
    },
    "mid_be": "296°/358 nm",
@@ -317,7 +317,7 @@
    "type": "A-50",
    "kind": "awacs",
    "tacan": null,
-   "freq": 284.0,
+   "freq": 284,
    "alt_ft": 30000.0,
    "a": {
     "x": 320000,
@@ -325,8 +325,8 @@
     "ddm": "N29°02.859' E054°59.369'"
    },
    "b": {
-    "x": 320000.0,
-    "y": -20000.0,
+    "x": 320000,
+    "y": -20000,
     "ddm": "N29°03.546' E056°00.981'"
    },
    "mid_be": "004°/167 nm",
@@ -338,7 +338,7 @@
    "type": "A-50",
    "kind": "awacs",
    "tacan": null,
-   "freq": 286.0,
+   "freq": 286,
    "alt_ft": 30000.0,
    "a": {
     "x": 470000,
@@ -346,8 +346,8 @@
     "ddm": "N30°11.593' E049°22.070'"
    },
    "b": {
-    "x": 470000.0,
-    "y": -720000.0,
+    "x": 470000,
+    "y": -720000,
     "ddm": "N30°09.337' E048°45.038'"
    },
    "mid_be": "308°/406 nm",
@@ -359,7 +359,7 @@
    "type": "IL-78M",
    "kind": "tanker",
    "tacan": null,
-   "freq": 294.0,
+   "freq": 294,
    "alt_ft": 20000.0,
    "a": {
     "x": 250000,
@@ -367,8 +367,8 @@
     "ddm": "N28°24.682' E054°41.727'"
    },
    "b": {
-    "x": 250000.0,
-    "y": -60000.0,
+    "x": 250000,
+    "y": -60000,
     "ddm": "N28°25.429' E055°36.834'"
    },
    "mid_be": "357°/129 nm",
@@ -386,8 +386,8 @@
     "ddm": "N25°29.498' E055°47.913'"
    },
    "b": {
-    "x": -50000.0,
-    "y": -20000.0,
+    "x": -50000,
+    "y": -20000,
     "ddm": "N25°43.152' E056°02.728'"
    },
    "mid_be": "140°/52 nm",
@@ -406,8 +406,8 @@
     "ddm": "N24°34.076' E054°13.685'"
    },
    "b": {
-    "x": -150000.0,
-    "y": -150000.0,
+    "x": -150000,
+    "y": -150000,
     "ddm": "N24°48.154' E054°46.003'"
    },
    "mid_be": "206°/104 nm",
@@ -426,8 +426,8 @@
     "ddm": "N26°47.956' E055°38.052'"
    },
    "b": {
-    "x": 90000.0,
-    "y": -20000.0,
+    "x": 90000,
+    "y": -20000,
     "ddm": "N26°58.988' E056°02.102'"
    },
    "mid_be": "038°/47 nm",
@@ -446,8 +446,8 @@
     "ddm": "N26°41.697' E054°34.819'"
    },
    "b": {
-    "x": 75000.0,
-    "y": -110000.0,
+    "x": 75000,
+    "y": -110000,
     "ddm": "N26°50.319' E055°07.836'"
    },
    "mid_be": "322°/39 nm",
@@ -466,8 +466,8 @@
     "ddm": "N27°29.622' E053°54.329'"
    },
    "b": {
-    "x": 190000.0,
-    "y": -150000.0,
+    "x": 190000,
+    "y": -150000,
     "ddm": "N27°52.210' E054°42.421'"
    },
    "mid_be": "329°/100 nm",
@@ -486,8 +486,8 @@
     "ddm": "N26°46.078' E053°43.466'"
    },
    "b": {
-    "x": 40000.0,
-    "y": -195000.0,
+    "x": 40000,
+    "y": -195000,
     "ddm": "N26°30.547' E054°17.000'"
    },
    "mid_be": "289°/74 nm",
@@ -500,8 +500,8 @@
  "carriers": [
   {
    "name": "CSG-74 Stennis",
-   "x": -89300.0,
-   "y": -253900.0,
+   "x": -89300,
+   "y": -253900,
    "tacan": "74X STN",
    "icls": 11,
    "link4": 336.0,
@@ -530,8 +530,8 @@
   },
   {
    "name": "CSG-71 Roosevelt",
-   "x": -185000.0,
-   "y": 80000.0,
+   "x": -185000,
+   "y": 80000,
    "tacan": "71X RSV",
    "icls": 12,
    "link4": 337.0,
@@ -560,8 +560,8 @@
   },
   {
    "name": "ARG-1 Tarawa",
-   "x": -85000.0,
-   "y": -225000.0,
+   "x": -85000,
+   "y": -225000,
    "tacan": "73X TRW",
    "icls": 13,
    "tower": 307.0,
@@ -608,7 +608,7 @@
    "be": "212°/146 nm",
    "ddm": "N24°10.751' E053°54.423'",
    "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm",
-   "briefing": "Champ de tir hélicoptères de Berlin : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile."
+   "briefing": "Champ de tir hélicoptères de Berlin : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) et une défense courte portée à guidage infrarouge (un SA-13 et une équipe de lance-missiles portatifs SA-18) en plus des cibles du niveau facile."
   },
   {
    "key": "combatZone_Berlin_Hard",
@@ -621,7 +621,7 @@
    "be": "212°/146 nm",
    "ddm": "N24°10.751' E053°54.423'",
    "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm",
-   "briefing": "Champ de tir hélicoptères de Berlin, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge."
+   "briefing": "Champ de tir hélicoptères de Berlin, avec une défense courte portée à guidage radar en plus du niveau moyen : deux systèmes tirés au sort entre SA-19 Tunguska et SA-8 Osa, au-delà des cibles. Approchez au ras du relief."
   },
   {
    "key": "combatZone_Tarif_Easy",
@@ -1087,54 +1087,54 @@
  "front": [
   [
    {
-    "x": 20000.0,
-    "y": -340000.0
+    "x": 20000,
+    "y": -340000
    },
    {
-    "x": -20000.0,
-    "y": -260000.0
+    "x": -20000,
+    "y": -260000
    },
    {
-    "x": -60000.0,
-    "y": -195000.0
+    "x": -60000,
+    "y": -195000
    },
    {
-    "x": -55000.0,
-    "y": -130000.0
+    "x": -55000,
+    "y": -130000
    },
    {
-    "x": -40000.0,
-    "y": -80000.0
+    "x": -40000,
+    "y": -80000
    },
    {
-    "x": 5000.0,
-    "y": -40000.0
+    "x": 5000,
+    "y": -40000
    },
    {
-    "x": 40000.0,
-    "y": 0.0
+    "x": 40000,
+    "y": 0
    },
    {
-    "x": 25000.0,
-    "y": 35000.0
+    "x": 25000,
+    "y": 35000
    },
    {
-    "x": -30000.0,
-    "y": 85000.0
+    "x": -30000,
+    "y": 85000
    },
    {
-    "x": -100000.0,
-    "y": 140000.0
+    "x": -100000,
+    "y": 140000
    },
    {
-    "x": -160000.0,
-    "y": 190000.0
+    "x": -160000,
+    "y": 190000
    }
   ]
  ],
  "arena_zone": {
-  "x": 380000.0,
-  "y": -690000.0,
+  "x": 380000,
+  "y": -690000,
   "radius_nm": 40,
   "be": "302°/379 nm",
   "ddm": "N29°22.217' E049°07.362'"
@@ -1360,8 +1360,8 @@
    "name": "Hajiabad SA-10",
    "side": "red",
    "alias": "-sa10",
-   "x": 202624.0,
-   "y": 37682.0,
+   "x": 202624,
+   "y": 37682,
    "ddm": "N28°00.159' E056°36.765'",
    "be": "034°/125 nm"
   },
@@ -1563,77 +1563,58 @@
  "radio": {
   "blue": {
    "primary_1": {
-    "1": "Guard",
-    "2": "Overlord-1",
-    "3": "Magic-1",
-    "4": "Texaco-1",
-    "5": "Arco-1",
-    "6": "Texaco-2",
-    "7": "Arco-2",
-    "8": "Stennis",
-    "9": "Roosevelt",
-    "10": "Tarawa",
-    "11": "S3B-Stennis",
-    "12": "S3B-Roosevelt",
-    "13": "Darkstar-1",
-    "14": "Base-Al Dhafra AFB",
-    "15": "Base-Al Minhad AFB",
-    "16": "Base-Khasab",
-    "17": "Base-Ras Al Khaimah Intl",
-    "18": "Base-Fujairah Intl",
-    "19": "Base-Liwa AFB",
-    "20": "Base-Al Ain Intl"
+    "1": "Overlord-1",
+    "2": "Magic-1",
+    "3": "Texaco-1",
+    "4": "Arco-1",
+    "5": "Texaco-2",
+    "6": "Arco-2",
+    "7": "S3B-Stennis",
+    "8": "S3B-Roosevelt",
+    "9": "Stennis",
+    "10": "Roosevelt",
+    "11": "Tarawa",
+    "12": "Archer",
+    "13": "Arctic",
+    "14": "Astro",
+    "15": "Nickel",
+    "16": "Nitro",
+    "17": "Ninja",
+    "18": "Pinder",
+    "19": "Bengal"
    },
    "primary_2": {
-    "1": "Guard",
-    "2": "FARP-Berlin",
-    "3": "FARP-London",
-    "4": "Archer",
-    "5": "Arctic",
-    "6": "Astro",
-    "7": "Nickel",
-    "8": "Nitro",
-    "9": "Ninja",
-    "10": "Pinder",
-    "11": "Bengal",
-    "12": "Base-Al Dhafra AFB",
-    "13": "Base-Al Minhad AFB",
-    "14": "Base-Khasab",
-    "15": "Base-Ras Al Khaimah Intl",
-    "16": "Base-Fujairah Intl",
-    "17": "Base-Liwa AFB",
-    "18": "Base-Al Ain Intl",
-    "19": "Base-Al-Bateen",
-    "20": "Base-Sir Abu Nuayr"
+    "1": "Base-Al Dhafra AFB",
+    "2": "Base-Al Minhad AFB",
+    "3": "Base-Khasab",
+    "4": "Base-Ras Al Khaimah Intl",
+    "5": "Base-Fujairah Intl",
+    "6": "Base-Liwa AFB",
+    "7": "Base-Al Ain Intl",
+    "8": "Base-Al-Bateen",
+    "9": "Base-Sir Abu Nuayr",
+    "10": "FARP-Berlin",
+    "11": "FARP-London"
    }
   },
   "red": {
    "primary_1": {
-    "1": "Guard",
-    "2": "Wizard-1",
-    "3": "Shell-1",
-    "4": "Focus-1",
-    "5": "Base-Bandar Abbas Intl",
-    "6": "Base-Lar",
-    "7": "Base-Shiraz Intl",
-    "8": "Base-Havadarya",
-    "9": "Base-Qeshm Island",
-    "10": "Base-Kish Intl"
+    "1": "Wizard-1",
+    "2": "Shell-1",
+    "3": "Shahin",
+    "4": "Oghab",
+    "5": "Toufan",
+    "6": "Saeqeh",
+    "7": "Kowsar",
+    "8": "Azarakhsh"
    },
    "primary_2": {
-    "1": "Guard",
-    "2": "Shahin",
-    "3": "Oghab",
-    "4": "Toufan",
-    "5": "Saeqeh",
-    "6": "Kowsar",
-    "7": "Azarakhsh",
-    "8": "Base-Bandar Abbas Intl",
-    "9": "Base-Lar",
-    "10": "Base-Shiraz Intl",
-    "11": "Base-Havadarya",
-    "12": "Base-Qeshm Island",
-    "13": "Base-Kish Intl"
+    "1": "Base-Bandar Abbas Intl",
+    "2": "Base-Lar",
+    "3": "Base-Shiraz Intl",
+    "4": "Base-Havadarya",
+    "5": "Base-Qeshm Island",
+    "6": "Base-Kish Intl"
    }
   }
  },

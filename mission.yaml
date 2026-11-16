@@ -162,7 +162,7 @@ modules:
         training: true
         includes:
           - combatZone_Berlin_Easy
-        briefing: "Champ de tir hélicoptères de Berlin : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile.\nPosition : bullseye 212°/146 nm (N24°10.751' E053°54.423'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm."
+        briefing: "Champ de tir hélicoptères de Berlin : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) et une défense courte portée à guidage infrarouge (un SA-13 et une équipe de lance-missiles portatifs SA-18) en plus des cibles du niveau facile.\nPosition : bullseye 212°/146 nm (N24°10.751' E053°54.423'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm."
       - type: zone
         zone_name: combatZone_Berlin_Hard
         friendly_name: H3 Hélico Berlin — difficile
@@ -170,7 +170,7 @@ modules:
         training: true
         includes:
           - combatZone_Berlin_Medium
-        briefing: "Champ de tir hélicoptères de Berlin, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge.\nPosition : bullseye 212°/146 nm (N24°10.751' E053°54.423'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm."
+        briefing: "Champ de tir hélicoptères de Berlin, avec une défense courte portée à guidage radar en plus du niveau moyen : deux systèmes tirés au sort entre SA-19 Tunguska et SA-8 Osa, au-delà des cibles. Approchez au ras du relief.\nPosition : bullseye 212°/146 nm (N24°10.751' E053°54.423'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm."
       - type: zone
         zone_name: combatZone_Tarif_Easy
         friendly_name: A1 Attaque Tarif — facile

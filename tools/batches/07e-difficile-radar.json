@@ -1,0 +1,107 @@
+[
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "group_name": "combatZone_Berlin_Hard-H3-1",
+   "new_name": "combatZone_Berlin_Medium-H3-1",
+   "acknowledge_conventions": true
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "group_name": "combatZone_Berlin_Hard-H3-2",
+   "new_name": "combatZone_Berlin_Medium-H3-2",
+   "acknowledge_conventions": true
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "group_name": "combatZone_Berlin_Hard-H3-3",
+   "new_name": "combatZone_Berlin_Medium-H3-3",
+   "acknowledge_conventions": true
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "group_name": "combatZone_Berlin_Hard-H3-4",
+   "new_name": "combatZone_Berlin_Medium-H3-4",
+   "acknowledge_conventions": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "H4-1",
+   "position": {
+    "x": -218765,
+    "y": -241443
+   },
+   "keep_position": true,
+   "for_combat_zone": "combatZone_Berlin_Hard",
+   "units": [
+    {
+     "type": "2S6 Tunguska",
+     "name": "#command=\"-sa19, country iran\" #spawngroup=\"H4RAD\" #spawncount=2 #H4-1"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "H4-2",
+   "position": {
+    "x": -217391,
+    "y": -243997
+   },
+   "keep_position": true,
+   "for_combat_zone": "combatZone_Berlin_Hard",
+   "units": [
+    {
+     "type": "Osa 9A33 ln",
+     "name": "#command=\"-sa8, country iran\" #spawngroup=\"H4RAD\" #spawncount=2 #H4-2"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-PersianGulf-v6",
+   "coalition": "red",
+   "country_id": 34,
+   "country_name": "Iran",
+   "category": "vehicle",
+   "name": "H4-3",
+   "position": {
+    "x": -216017,
+    "y": -241443
+   },
+   "keep_position": true,
+   "for_combat_zone": "combatZone_Berlin_Hard",
+   "units": [
+    {
+     "type": "2S6 Tunguska",
+     "name": "#command=\"-sa19, country iran\" #spawngroup=\"H4RAD\" #spawncount=2 #H4-3"
+    }
+   ]
+  }
+ }
+]

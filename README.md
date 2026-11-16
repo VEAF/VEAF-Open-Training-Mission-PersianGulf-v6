@@ -94,8 +94,8 @@ Loin du front, à quelques minutes d'une base. Trois niveaux par famille, chacun
 `N24°10.751' E053°54.423'` · bullseye `212°/146 nm` · rayon 1.3 nm · menu F10 « Entraînement hélicoptères » · Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm
 
 - **H1 Hélico Berlin — facile** — Champ de tir hélicoptères à 3 nm à l'ouest du FARP Berlin : cibles inertes (chars, blindés et camions immobiles, tir interdit).
-- **H2 Hélico Berlin — moyen** — Champ de tir hélicoptères de Berlin : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile.
-- **H3 Hélico Berlin — difficile** — Champ de tir hélicoptères de Berlin, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge.
+- **H2 Hélico Berlin — moyen** — Champ de tir hélicoptères de Berlin : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) et une défense courte portée à guidage infrarouge (un SA-13 et une équipe de lance-missiles portatifs SA-18) en plus des cibles du niveau facile.
+- **H3 Hélico Berlin — difficile** — Champ de tir hélicoptères de Berlin, avec une défense courte portée à guidage radar en plus du niveau moyen : deux systèmes tirés au sort entre SA-19 Tunguska et SA-8 Osa, au-delà des cibles. Approchez au ras du relief.
 
 ### Attaque — Tarif (désert au nord de Liwa)
 
