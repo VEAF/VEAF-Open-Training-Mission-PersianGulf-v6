@@ -1,0 +1,130 @@
+{
+  "name": "portrajaee",
+  "title": "Z11 Frappe — port Shahid Rajaee",
+  "heading_deg": 27.0,
+  "pitch_deg": 30.0,
+  "slant_m": 850.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_PortRajaee",
+  "camera": {
+    "position": [
+      102735.31085784793,
+      428.3666666666666,
+      -17434.225543306886
+    ],
+    "forward": [
+      0.7716342848848006,
+      -0.49999999999999994,
+      0.3931673058512401
+    ],
+    "up": [
+      0.4455032620941839,
+      0.8660254037844387,
+      0.22699524986977335
+    ],
+    "right": [
+      -0.45399049973954675,
+      0.0,
+      0.8910065241883679
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 103391.20000000001,
+    "z": -17100.033333333333,
+    "alt_m": 3.3666666666666667,
+    "lat": 27.10421720006606,
+    "lon": 56.063254035155154,
+    "dms": "N27°06'15.18\" E056°03'47.71\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:41",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_PortRajaee [r] Ural-375 ZU-23#10836",
+      "type": "Ural-375 ZU-23",
+      "x": 103159.6,
+      "z": -17125.9,
+      "alt": 2.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortRajaee [r] Ural-375 ZU-23#10834",
+      "type": "Ural-375 ZU-23",
+      "x": 103652.2,
+      "z": -17199.4,
+      "alt": 2.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortRajaee [r] combatZone_PortRajaee-Static-Container-5#10827 #205",
+      "type": "Container red 1",
+      "x": 103333.0,
+      "z": -17214.0,
+      "alt": 2.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortRajaee [r] combatZone_PortRajaee-Static-Fuel-3#10828 #203",
+      "type": "Fuel tank",
+      "x": 103293.0,
+      "z": -16937.0,
+      "alt": 12.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortRajaee [r] combatZone_PortRajaee-Static-Fuel-4#10829 #204",
+      "type": "Fuel tank",
+      "x": 103232.0,
+      "z": -16918.0,
+      "alt": 2.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortRajaee [r] combatZone_PortRajaee-Static-Warehouse-1#10830 #201",
+      "type": "Warehouse",
+      "x": 103523.0,
+      "z": -17035.0,
+      "alt": 2.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortRajaee [r] combatZone_PortRajaee-Static-Container-6#10831 #206",
+      "type": "Container red 1",
+      "x": 103342.0,
+      "z": -17251.0,
+      "alt": 2.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortRajaee [r] combatZone_PortRajaee-Static-Warehouse-2#10832 #202",
+      "type": "Warehouse",
+      "x": 103493.0,
+      "z": -16937.0,
+      "alt": 2.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortRajaee [r] combatZone_PortRajaee-Static-Tank-7#10833 #207",
+      "type": "Tank",
+      "x": 103493.0,
+      "z": -17283.0,
+      "alt": 2.2
+    }
+  ],
+  "image": "portrajaee.jpg",
+  "heading": 27,
+  "pitch": -30.0,
+  "x": 102735.31085784793,
+  "y": -17434.225543306886,
+  "altitude_m": 428,
+  "order": 20
+}

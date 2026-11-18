@@ -1,0 +1,161 @@
+{
+  "operation": "Open Training Golfe Persique",
+  "shots": [
+    {
+      "name": "berlin-easy",
+      "title": "H1 Hélico Berlin — facile",
+      "image": "berlin-easy.jpg",
+      "metadata": "berlin-easy.json"
+    },
+    {
+      "name": "berlin-medium",
+      "title": "H2 Hélico Berlin — moyen",
+      "image": "berlin-medium.jpg",
+      "metadata": "berlin-medium.json"
+    },
+    {
+      "name": "berlin-hard",
+      "title": "H3 Hélico Berlin — difficile",
+      "image": "berlin-hard.jpg",
+      "metadata": "berlin-hard.json"
+    },
+    {
+      "name": "tarif-easy",
+      "title": "A1 Attaque Tarif — facile",
+      "image": "tarif-easy.jpg",
+      "metadata": "tarif-easy.json"
+    },
+    {
+      "name": "tarif-medium",
+      "title": "A2 Attaque Tarif — moyen",
+      "image": "tarif-medium.jpg",
+      "metadata": "tarif-medium.json"
+    },
+    {
+      "name": "tarif-hard",
+      "title": "A3 Attaque Tarif — difficile",
+      "image": "tarif-hard.jpg",
+      "metadata": "tarif-hard.json"
+    },
+    {
+      "name": "alqua-easy",
+      "title": "S1 SEAD Al Qua'a — facile",
+      "image": "alqua-easy.jpg",
+      "metadata": "alqua-easy.json"
+    },
+    {
+      "name": "alqua-medium",
+      "title": "S2 SEAD Al Qua'a — moyen",
+      "image": "alqua-medium.jpg",
+      "metadata": "alqua-medium.json"
+    },
+    {
+      "name": "alqua-hard",
+      "title": "S3 SEAD Al Qua'a — difficile",
+      "image": "alqua-hard.jpg",
+      "metadata": "alqua-hard.json"
+    },
+    {
+      "name": "qeshm",
+      "title": "Z01 Front — brigade IRGC de Qeshm",
+      "image": "qeshm.jpg",
+      "metadata": "qeshm.json"
+    },
+    {
+      "name": "bandarlengeh",
+      "title": "Z02 Front — défense côtière de Bandar Lengeh",
+      "image": "bandarlengeh.jpg",
+      "metadata": "bandarlengeh.json"
+    },
+    {
+      "name": "minab",
+      "title": "Z03 Front — base IRGC de Minab",
+      "image": "minab.jpg",
+      "metadata": "minab.json"
+    },
+    {
+      "name": "lavan",
+      "title": "Z04 SEAD — site Hawk de Lavan",
+      "image": "lavan.jpg",
+      "metadata": "lavan.json"
+    },
+    {
+      "name": "jask",
+      "title": "Z05 SEAD — site sol-air de Jask",
+      "image": "jask.jpg",
+      "metadata": "jask.json"
+    },
+    {
+      "name": "convoiminab",
+      "title": "Z06 Convoi — Bandar Abbas vers Minab",
+      "image": "convoiminab.jpg",
+      "metadata": "convoiminab.json"
+    },
+    {
+      "name": "convoilar",
+      "title": "Z07 Convoi — Lar vers Bandar Lengeh",
+      "image": "convoilar.jpg",
+      "metadata": "convoilar.json"
+    },
+    {
+      "name": "convoijask",
+      "title": "Z08 Convoi — Jask vers Sirik",
+      "image": "convoijask.jpg",
+      "metadata": "convoijask.json"
+    },
+    {
+      "name": "weaponfactory",
+      "title": "Z09 Frappe — usine d'armement de Sirjan",
+      "image": "weaponfactory.jpg",
+      "metadata": "weaponfactory.json"
+    },
+    {
+      "name": "missiles",
+      "title": "Z10 Frappe — base de missiles balistiques",
+      "image": "missiles.jpg",
+      "metadata": "missiles.json"
+    },
+    {
+      "name": "portrajaee",
+      "title": "Z11 Frappe — port Shahid Rajaee",
+      "image": "portrajaee.jpg",
+      "metadata": "portrajaee.json"
+    },
+    {
+      "name": "centralelar",
+      "title": "Z12 Frappe — centrale électrique de Lar",
+      "image": "centralelar.jpg",
+      "metadata": "centralelar.json"
+    },
+    {
+      "name": "kish",
+      "title": "Z13 OCA — base aérienne de Kish",
+      "image": "kish.jpg",
+      "metadata": "kish.json"
+    },
+    {
+      "name": "jiroft",
+      "title": "Z14 OCA — base aérienne de Jiroft",
+      "image": "jiroft.jpg",
+      "metadata": "jiroft.json"
+    },
+    {
+      "name": "flottille",
+      "title": "Z15 Antinavire — flottille devant Bandar Abbas",
+      "image": "flottille.jpg",
+      "metadata": "flottille.json"
+    },
+    {
+      "name": "mubarek",
+      "title": "Z17 Antinavire — champ pétrolier de Mubarek",
+      "image": "mubarek.jpg",
+      "metadata": "mubarek.json"
+    },
+    {
+      "name": "persepolis",
+      "title": "Z18 Tourisme — Persépolis",
+      "image": "persepolis.jpg",
+      "metadata": "persepolis.json"
+    }
+  ]
+}

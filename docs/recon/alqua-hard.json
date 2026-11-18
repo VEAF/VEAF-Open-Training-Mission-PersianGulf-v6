@@ -1,0 +1,186 @@
+{
+  "name": "alqua-hard",
+  "title": "S3 SEAD Al Qua'a — difficile",
+  "heading_deg": 172.0,
+  "pitch_deg": 30.0,
+  "slant_m": 5600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_AlQua_Hard",
+  "camera": {
+    "position": [
+      -280533.3300971142,
+      2910.4124999999995,
+      -150445.82866934728
+    ],
+    "forward": [
+      -0.8575973040867548,
+      -0.49999999999999994,
+      0.12052744095487303
+    ],
+    "up": [
+      -0.4951340343707851,
+      0.8660254037844387,
+      0.06958655048003265
+    ],
+    "right": [
+      -0.13917310096006533,
+      0.0,
+      -0.9902680687415704
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -285335.875,
+    "z": -149770.875,
+    "alt_m": 110.4125,
+    "lat": 23.58116240174936,
+    "lon": 54.79014092244725,
+    "dms": "N23°34'52.18\" E054°47'24.51\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:35",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] SA6#10767",
+      "type": "Kub 1S91 str",
+      "x": -285014.0,
+      "z": -149992.0,
+      "alt": 109.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] SA6#10767",
+      "type": "Kub 2P25 ln",
+      "x": -284942.0,
+      "z": -149997.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] SA6#10767",
+      "type": "Kub 2P25 ln",
+      "x": -285002.0,
+      "z": -150045.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] SA6#10767",
+      "type": "Kub 2P25 ln",
+      "x": -285009.0,
+      "z": -149966.0,
+      "alt": 109.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] SA6#10767",
+      "type": "Kub 2P25 ln",
+      "x": -285043.0,
+      "z": -150006.0,
+      "alt": 109.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] SA6#10767",
+      "type": "ZSU-23-4 Shilka",
+      "x": -285030.0,
+      "z": -149972.0,
+      "alt": 109.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] SA6#10767",
+      "type": "ATZ-5",
+      "x": -284986.0,
+      "z": -149985.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] SA6#10767",
+      "type": "ZIL-135",
+      "x": -284962.0,
+      "z": -149962.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] SA6#10767",
+      "type": "Ural-375 PBU",
+      "x": -285005.0,
+      "z": -150013.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] SA8#10766",
+      "type": "Osa 9A33 ln",
+      "x": -286445.0,
+      "z": -149614.0,
+      "alt": 112.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] SA8#10766",
+      "type": "GAZ-66",
+      "x": -286441.0,
+      "z": -149604.0,
+      "alt": 112.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] SA15#10765",
+      "type": "Tor 9A331",
+      "x": -284617.0,
+      "z": -151442.0,
+      "alt": 109.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] SA15#10765",
+      "type": "GAZ-66",
+      "x": -284594.0,
+      "z": -151466.0,
+      "alt": 109.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] Red EWR#10764",
+      "type": "55G6 EWR",
+      "x": -286094.0,
+      "z": -148088.0,
+      "alt": 111.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] Red EWR#10764",
+      "type": "SA-18 Igla manpad",
+      "x": -286075.0,
+      "z": -148112.0,
+      "alt": 111.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Hard [r] Red EWR#10764",
+      "type": "Ural-375 PBU",
+      "x": -286115.0,
+      "z": -148070.0,
+      "alt": 111.9
+    }
+  ],
+  "image": "alqua-hard.jpg",
+  "heading": 172,
+  "pitch": -30.0,
+  "x": -280533.3300971142,
+  "y": -150445.82866934728,
+  "altitude_m": 2910,
+  "order": 9
+}

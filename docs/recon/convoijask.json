@@ -1,0 +1,98 @@
+{
+  "name": "convoijask",
+  "title": "Z08 Convoi — Jask vers Sirik",
+  "heading_deg": 66.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ConvoiJask",
+  "camera": {
+    "position": [
+      -47330.02655933219,
+      311.69999999999993,
+      151896.6478557018
+    ],
+    "forward": [
+      0.352244265553647,
+      -0.49999999999999994,
+      0.7911535738303732
+    ],
+    "up": [
+      0.20336832153790008,
+      0.8660254037844387,
+      0.4567727288213004
+    ],
+    "right": [
+      -0.9135454576426009,
+      0.0,
+      0.4067366430758002
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -47118.68,
+    "z": 152371.34000000003,
+    "alt_m": 11.7,
+    "lat": 25.746334219116378,
+    "lon": 57.7639114541258,
+    "dms": "N25°44'46.80\" E057°45'50.08\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:39",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiJask [r] combatZone_ConvoiJask-Convoi#10807",
+      "type": "BTR-80",
+      "x": -47166.6,
+      "z": 152361.9,
+      "alt": 11.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiJask [r] combatZone_ConvoiJask-Convoi#10807",
+      "type": "ATZ-10",
+      "x": -47136.7,
+      "z": 152373.7,
+      "alt": 11.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiJask [r] combatZone_ConvoiJask-Convoi#10807",
+      "type": "ATZ-10",
+      "x": -47116.7,
+      "z": 152373.7,
+      "alt": 11.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiJask [r] combatZone_ConvoiJask-Convoi#10807",
+      "type": "ATZ-10",
+      "x": -47096.7,
+      "z": 152373.7,
+      "alt": 11.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiJask [r] combatZone_ConvoiJask-Convoi#10807",
+      "type": "Ural-375 ZU-23",
+      "x": -47076.7,
+      "z": 152373.7,
+      "alt": 11.7
+    }
+  ],
+  "image": "convoijask.jpg",
+  "heading": 66,
+  "pitch": -30.0,
+  "x": -47330.02655933219,
+  "y": 151896.6478557018,
+  "altitude_m": 312,
+  "order": 17
+}

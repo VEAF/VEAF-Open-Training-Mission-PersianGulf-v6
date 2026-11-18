@@ -1,0 +1,178 @@
+{
+  "name": "berlin-medium",
+  "title": "H2 Hélico Berlin — moyen",
+  "heading_deg": 248.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Berlin_Medium",
+  "camera": {
+    "position": [
+      -216711.70555856935,
+      1814.6466666666665,
+      -235895.27348734566
+    ],
+    "forward": [
+      -0.3244188263233285,
+      -0.49999999999999994,
+      -0.8029647720336143
+    ],
+    "up": [
+      -0.18730329670795612,
+      0.8660254037844387,
+      -0.4635919272833936
+    ],
+    "right": [
+      0.9271838545667873,
+      0.0,
+      -0.3746065934159123
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -217879.61333333334,
+    "z": -238785.94666666668,
+    "alt_m": 14.646666666666667,
+    "lat": 24.174725109683795,
+    "lon": 53.90430846388548,
+    "dms": "N24°10'29.01\" E053°54'15.51\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:31",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] combatZone_Berlin_Easy-Inert-BMP-2-3#10693",
+      "type": "BMP-2",
+      "x": -217596.9,
+      "z": -238071.0,
+      "alt": 10.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] combatZone_Berlin_Easy-Inert-T-72B-1#10692",
+      "type": "T-72B",
+      "x": -216764.7,
+      "z": -238491.7,
+      "alt": 13.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] combatZone_Berlin_Easy-Inert-Ural-375-7#10691",
+      "type": "Ural-375",
+      "x": -217063.6,
+      "z": -238698.3,
+      "alt": 14.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] combatZone_Berlin_Easy-Inert-BMP-2-4#10690",
+      "type": "BMP-2",
+      "x": -218148.5,
+      "z": -238485.1,
+      "alt": 13.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] Red Manpad Squad#10689",
+      "type": "SA-18 Igla manpad",
+      "x": -218629.6,
+      "z": -238993.2,
+      "alt": 19.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] Red Manpad Squad#10689",
+      "type": "Infantry AK",
+      "x": -218604.6,
+      "z": -239064.2,
+      "alt": 18.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] Red Manpad Squad#10689",
+      "type": "Infantry AK",
+      "x": -218559.6,
+      "z": -238960.2,
+      "alt": 19.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] Red Manpad Squad#10689",
+      "type": "Infantry AK",
+      "x": -218646.6,
+      "z": -239049.2,
+      "alt": 18.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] Red Manpad Squad#10689",
+      "type": "UAZ-469",
+      "x": -218563.6,
+      "z": -238984.2,
+      "alt": 19.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] combatZone_Berlin_Easy-Inert-T-72B-2#10688",
+      "type": "T-72B",
+      "x": -217066.7,
+      "z": -237894.0,
+      "alt": 11.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] combatZone_Berlin_Easy-Inert-BRDM-2-5#10687",
+      "type": "BRDM-2",
+      "x": -217710.8,
+      "z": -239017.6,
+      "alt": 11.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] Ural-375 ZU-23#10685",
+      "type": "Ural-375 ZU-23",
+      "x": -217388.9,
+      "z": -239881.0,
+      "alt": 12.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] Ural-375 ZU-23#10683",
+      "type": "Ural-375 ZU-23",
+      "x": -218385.1,
+      "z": -237842.7,
+      "alt": 13.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] Strela-10M3#10681",
+      "type": "Strela-10M3",
+      "x": -218070.9,
+      "z": -239265.5,
+      "alt": 12.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Medium [r] combatZone_Berlin_Easy-Inert-Ural-375-6#10680",
+      "type": "Ural-375",
+      "x": -216994.1,
+      "z": -239091.3,
+      "alt": 12.6
+    }
+  ],
+  "image": "berlin-medium.jpg",
+  "heading": 248,
+  "pitch": -30.0,
+  "x": -216711.70555856935,
+  "y": -235895.27348734566,
+  "altitude_m": 1815,
+  "order": 2
+}

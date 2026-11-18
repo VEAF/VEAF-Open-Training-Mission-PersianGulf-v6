@@ -1,0 +1,130 @@
+{
+  "name": "alqua-easy",
+  "title": "S1 SEAD Al Qua'a — facile",
+  "heading_deg": 172.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_AlQua_Easy",
+  "camera": {
+    "position": [
+      -284484.2193953257,
+      409.6444444444444,
+      -150068.98313123957
+    ],
+    "forward": [
+      -0.8575973040867548,
+      -0.49999999999999994,
+      0.12052744095487303
+    ],
+    "up": [
+      -0.4951340343707851,
+      0.8660254037844387,
+      0.06958655048003265
+    ],
+    "right": [
+      -0.13917310096006533,
+      0.0,
+      -0.9902680687415704
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -284998.77777777775,
+    "z": -149996.66666666666,
+    "alt_m": 109.64444444444445,
+    "lat": 23.584173568694236,
+    "lon": 54.78787873184404,
+    "dms": "N23°35'03.02\" E054°47'16.36\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:33",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Easy [r] SA6#10760",
+      "type": "Kub 1S91 str",
+      "x": -285014.0,
+      "z": -150013.0,
+      "alt": 109.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Easy [r] SA6#10760",
+      "type": "Kub 2P25 ln",
+      "x": -284972.0,
+      "z": -150017.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Easy [r] SA6#10760",
+      "type": "Kub 2P25 ln",
+      "x": -285008.0,
+      "z": -150051.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Easy [r] SA6#10760",
+      "type": "Kub 2P25 ln",
+      "x": -285015.0,
+      "z": -149947.0,
+      "alt": 109.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Easy [r] SA6#10760",
+      "type": "Kub 2P25 ln",
+      "x": -285033.0,
+      "z": -150011.0,
+      "alt": 109.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Easy [r] SA6#10760",
+      "type": "ZSU-23-4 Shilka",
+      "x": -284970.0,
+      "z": -149993.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Easy [r] SA6#10760",
+      "type": "ATZ-5",
+      "x": -284974.0,
+      "z": -149962.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Easy [r] SA6#10760",
+      "type": "ZIL-135",
+      "x": -285010.0,
+      "z": -150032.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Easy [r] SA6#10760",
+      "type": "Ural-375 PBU",
+      "x": -284993.0,
+      "z": -149944.0,
+      "alt": 109.7
+    }
+  ],
+  "image": "alqua-easy.jpg",
+  "heading": 172,
+  "pitch": -30.0,
+  "x": -284484.2193953257,
+  "y": -150068.98313123957,
+  "altitude_m": 410,
+  "order": 7
+}

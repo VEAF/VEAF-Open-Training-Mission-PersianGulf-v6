@@ -1,0 +1,106 @@
+{
+  "name": "persepolis",
+  "title": "Z18 Tourisme — Persépolis",
+  "heading_deg": 346.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1000.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Persepolis",
+  "camera": {
+    "position": [
+      424403.26591852814,
+      2445.583333333333,
+      -319261.939492679
+    ],
+    "forward": [
+      0.8403007481384851,
+      -0.49999999999999994,
+      -0.20951050732099918
+    ],
+    "up": [
+      0.4851478631379982,
+      0.8660254037844387,
+      -0.12096094779983392
+    ],
+    "right": [
+      0.24192189559966787,
+      0.0,
+      0.9702957262759965
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 425243.56666666665,
+    "z": -319471.45,
+    "alt_m": 1945.5833333333333,
+    "lat": 29.948870321434875,
+    "lon": 52.90601522370105,
+    "dms": "N29°56'55.93\" E052°54'21.65\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:33",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Persepolis [r] Ural-375 ZU-23#10563",
+      "type": "Ural-375 ZU-23",
+      "x": 425482.2,
+      "z": -319544.7,
+      "alt": 1900.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Persepolis [r] combatZone_Persepolis-Detachement#10562",
+      "type": "BTR-80",
+      "x": 425228.0,
+      "z": -319419.2,
+      "alt": 1955.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Persepolis [r] combatZone_Persepolis-Detachement#10562",
+      "type": "BTR-80",
+      "x": 425248.0,
+      "z": -319419.2,
+      "alt": 1953.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Persepolis [r] combatZone_Persepolis-Detachement#10562",
+      "type": "Ural-375",
+      "x": 425268.0,
+      "z": -319419.2,
+      "alt": 1952.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Persepolis [r] combatZone_Persepolis-Detachement#10562",
+      "type": "Ural-375",
+      "x": 425288.0,
+      "z": -319419.2,
+      "alt": 1948.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Persepolis [r] Ural-375 ZU-23#10560",
+      "type": "Ural-375 ZU-23",
+      "x": 424947.2,
+      "z": -319607.2,
+      "alt": 1963.3
+    }
+  ],
+  "image": "persepolis.jpg",
+  "heading": 346,
+  "pitch": -30.0,
+  "x": 424403.26591852814,
+  "y": -319261.939492679,
+  "altitude_m": 2446,
+  "order": 26
+}

@@ -1,0 +1,186 @@
+{
+  "name": "bandarlengeh",
+  "title": "Z02 Front — défense côtière de Bandar Lengeh",
+  "heading_deg": 7.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4450.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_BandarLengeh",
+  "camera": {
+    "position": [
+      46959.42519121309,
+      2260.7687499999997,
+      -135444.83666562467
+    ],
+    "forward": [
+      0.8595701817498667,
+      -0.49999999999999994,
+      0.10554194733138726
+    ],
+    "up": [
+      0.49627307582066094,
+      0.8660254037844387,
+      0.06093467170257373
+    ],
+    "right": [
+      -0.12186934340514748,
+      0.0,
+      0.992546151641322
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 50784.5125,
+    "z": -134975.175,
+    "alt_m": 35.76875,
+    "lat": 26.61661670386159,
+    "lon": 54.88344058942928,
+    "dms": "N26°36'59.82\" E054°53'00.39\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:36",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] Strela-10M3#10782",
+      "type": "Strela-10M3",
+      "x": 50689.3,
+      "z": -135627.2,
+      "alt": 28.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] combatZone_BandarLengeh-Artillerie#10781",
+      "type": "SAU Msta",
+      "x": 49740.4,
+      "z": -135634.7,
+      "alt": 25.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] combatZone_BandarLengeh-Artillerie#10781",
+      "type": "SAU Msta",
+      "x": 49760.4,
+      "z": -135634.7,
+      "alt": 25.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] combatZone_BandarLengeh-Artillerie#10781",
+      "type": "SAU Msta",
+      "x": 49780.4,
+      "z": -135634.7,
+      "alt": 25.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] Armored Platoon#10780",
+      "type": "BMP-3",
+      "x": 50042.1,
+      "z": -134520.0,
+      "alt": 23.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] Armored Platoon#10780",
+      "type": "Chieftain_mk3",
+      "x": 50078.1,
+      "z": -134562.0,
+      "alt": 23.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] Armored Platoon#10780",
+      "type": "CHAP_T64BV",
+      "x": 50002.1,
+      "z": -134603.0,
+      "alt": 24.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] Armored Platoon#10780",
+      "type": "CHAP_T64BV",
+      "x": 49987.1,
+      "z": -134562.0,
+      "alt": 24.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] ZSU-23-4 Shilka#10777",
+      "type": "ZSU-23-4 Shilka",
+      "x": 50842.8,
+      "z": -134484.5,
+      "alt": 24.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] Armored Platoon#10776",
+      "type": "ZSU_57_2",
+      "x": 51466.9,
+      "z": -134675.0,
+      "alt": 47.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] Armored Platoon#10776",
+      "type": "BMP-3",
+      "x": 51457.9,
+      "z": -134592.0,
+      "alt": 45.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] Armored Platoon#10776",
+      "type": "CHAP_T64BV",
+      "x": 51622.9,
+      "z": -134530.0,
+      "alt": 46.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] Armored Platoon#10776",
+      "type": "Chieftain_mk3",
+      "x": 51536.9,
+      "z": -134618.0,
+      "alt": 47.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BandarLengeh [r] Armored Platoon#10776",
+      "type": "Chieftain_mk3",
+      "x": 51528.9,
+      "z": -134686.0,
+      "alt": 49.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BandarLengeh [r] combatZone_BandarLengeh-Static-Barracks-2#10775 #139",
+      "type": "Barracks 2",
+      "x": 52150.0,
+      "z": -135551.0,
+      "alt": 52.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BandarLengeh [r] combatZone_BandarLengeh-Static-Barracks-1#10779 #138",
+      "type": "Barracks 2",
+      "x": 51866.0,
+      "z": -135688.0,
+      "alt": 58.5
+    }
+  ],
+  "image": "bandarlengeh.jpg",
+  "heading": 7,
+  "pitch": -30.0,
+  "x": 46959.42519121309,
+  "y": -135444.83666562467,
+  "altitude_m": 2261,
+  "order": 11
+}

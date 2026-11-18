@@ -1,0 +1,218 @@
+{
+  "name": "weaponfactory",
+  "title": "Z09 Frappe — usine d'armement de Sirjan",
+  "heading_deg": 9.0,
+  "pitch_deg": 30.0,
+  "slant_m": 2050.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_WeaponFactory",
+  "camera": {
+    "position": [
+      322591.30045234703,
+      2772.1049999999996,
+      -87355.33125254216
+    ],
+    "forward": [
+      0.8553631939770864,
+      -0.49999999999999994,
+      0.1354762207522686
+    ],
+    "up": [
+      0.49384417029756883,
+      0.8660254037844387,
+      0.07821723252011542
+    ],
+    "right": [
+      -0.15643446504023087,
+      0.0,
+      0.9876883405951378
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 324344.79500000004,
+    "z": -87077.60500000001,
+    "alt_m": 1747.105,
+    "lat": 29.091486575324456,
+    "lon": 55.32684668323791,
+    "dms": "N29°05'29.35\" E055°19'36.65\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:40",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_WeaponFactory [r] SA6#10820",
+      "type": "Kub 1S91 str",
+      "x": 324564.0,
+      "z": -87344.0,
+      "alt": 1746.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_WeaponFactory [r] SA6#10820",
+      "type": "Kub 2P25 ln",
+      "x": 324593.0,
+      "z": -87350.0,
+      "alt": 1746.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_WeaponFactory [r] SA6#10820",
+      "type": "Kub 2P25 ln",
+      "x": 324563.0,
+      "z": -87410.0,
+      "alt": 1746.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_WeaponFactory [r] SA6#10820",
+      "type": "Kub 2P25 ln",
+      "x": 324551.0,
+      "z": -87329.0,
+      "alt": 1746.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_WeaponFactory [r] SA6#10820",
+      "type": "Kub 2P25 ln",
+      "x": 324495.0,
+      "z": -87350.0,
+      "alt": 1746.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_WeaponFactory [r] SA6#10820",
+      "type": "ZSU-23-4 Shilka",
+      "x": 324569.0,
+      "z": -87373.0,
+      "alt": 1746.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_WeaponFactory [r] SA6#10820",
+      "type": "ZSU-23-4 Shilka",
+      "x": 324531.0,
+      "z": -87331.0,
+      "alt": 1746.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_WeaponFactory [r] SA6#10820",
+      "type": "ATZ-5",
+      "x": 324600.0,
+      "z": -87388.0,
+      "alt": 1746.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_WeaponFactory [r] SA6#10820",
+      "type": "ZIL-135",
+      "x": 324520.0,
+      "z": -87358.0,
+      "alt": 1746.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_WeaponFactory [r] SA6#10820",
+      "type": "Ural-375 PBU",
+      "x": 324494.0,
+      "z": -87398.0,
+      "alt": 1746.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_WeaponFactory [r] Ural-375 ZU-23#10817",
+      "type": "Ural-375 ZU-23",
+      "x": 323942.9,
+      "z": -87210.5,
+      "alt": 1739.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_WeaponFactory [r] Ural-375 ZU-23#10808",
+      "type": "Ural-375 ZU-23",
+      "x": 323959.0,
+      "z": -86514.6,
+      "alt": 1750.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_WeaponFactory [r] combatZone_WeaponFactory-Static-Workshop-1#10810 #182",
+      "type": "Workshop A",
+      "x": 324346.0,
+      "z": -86766.0,
+      "alt": 1748.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_WeaponFactory [r] combatZone_WeaponFactory-Static-Chemical-6#10811 #187",
+      "type": "Chemical tank A",
+      "x": 324023.0,
+      "z": -86866.0,
+      "alt": 1747.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_WeaponFactory [r] combatZone_WeaponFactory-Static-Chemical-5#10812 #186",
+      "type": "Chemical tank A",
+      "x": 324055.0,
+      "z": -86817.0,
+      "alt": 1747.8
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_WeaponFactory [r] combatZone_WeaponFactory-Static-Tech-3#10813 #184",
+      "type": "Tech hangar A",
+      "x": 324196.0,
+      "z": -86566.0,
+      "alt": 1749.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_WeaponFactory [r] combatZone_WeaponFactory-Static-Hangar-4#10814 #185",
+      "type": "Hangar B",
+      "x": 324004.0,
+      "z": -86605.0,
+      "alt": 1749.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_WeaponFactory [r] combatZone_WeaponFactory-Static-Workshop-2#10815 #183",
+      "type": "Workshop A",
+      "x": 324431.0,
+      "z": -86680.0,
+      "alt": 1748.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_WeaponFactory [r] combatZone_WeaponFactory-Static-Fuel-7#10816 #188",
+      "type": "Fuel tank",
+      "x": 324110.0,
+      "z": -87001.0,
+      "alt": 1746.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_WeaponFactory [r] combatZone_WeaponFactory-Static-Garage-8#10819 #189",
+      "type": "Garage small B",
+      "x": 324349.0,
+      "z": -86895.0,
+      "alt": 1747.8
+    }
+  ],
+  "image": "weaponfactory.jpg",
+  "heading": 9,
+  "pitch": -30.0,
+  "x": 322591.30045234703,
+  "y": -87355.33125254216,
+  "altitude_m": 2772,
+  "order": 18
+}

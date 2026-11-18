@@ -1,0 +1,114 @@
+{
+  "name": "berlin-easy",
+  "title": "H1 Hélico Berlin — facile",
+  "heading_deg": 248.0,
+  "pitch_deg": 30.0,
+  "slant_m": 2500.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Berlin_Easy",
+  "camera": {
+    "position": [
+      -216504.08150562024,
+      1262.4428571428568,
+      -236528.23092705884
+    ],
+    "forward": [
+      -0.3244188263233285,
+      -0.49999999999999994,
+      -0.8029647720336143
+    ],
+    "up": [
+      -0.18730329670795612,
+      0.8660254037844387,
+      -0.4635919272833936
+    ],
+    "right": [
+      0.9271838545667873,
+      0.0,
+      -0.3746065934159123
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -217315.12857142856,
+    "z": -238535.64285714287,
+    "alt_m": 12.442857142857141,
+    "lat": 24.179866096162172,
+    "lon": 53.90664629639709,
+    "dms": "N24°10'47.52\" E053°54'23.93\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:30",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Easy [r] combatZone_Berlin_Easy-Inert-BMP-2-3#10679",
+      "type": "BMP-2",
+      "x": -217605.5,
+      "z": -238056.6,
+      "alt": 10.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Easy [r] combatZone_Berlin_Easy-Inert-T-72B-1#10678",
+      "type": "T-72B",
+      "x": -216754.5,
+      "z": -238506.2,
+      "alt": 13.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Easy [r] combatZone_Berlin_Easy-Inert-Ural-375-7#10677",
+      "type": "Ural-375",
+      "x": -216999.3,
+      "z": -238699.1,
+      "alt": 14.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Easy [r] combatZone_Berlin_Easy-Inert-BRDM-2-5#10676",
+      "type": "BRDM-2",
+      "x": -217641.2,
+      "z": -239020.0,
+      "alt": 10.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Easy [r] combatZone_Berlin_Easy-Inert-BMP-2-4#10675",
+      "type": "BMP-2",
+      "x": -218141.7,
+      "z": -238490.0,
+      "alt": 13.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Easy [r] combatZone_Berlin_Easy-Inert-T-72B-2#10674",
+      "type": "T-72B",
+      "x": -217059.5,
+      "z": -237869.1,
+      "alt": 11.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Easy [r] combatZone_Berlin_Easy-Inert-Ural-375-6#10673",
+      "type": "Ural-375",
+      "x": -217004.2,
+      "z": -239108.5,
+      "alt": 12.8
+    }
+  ],
+  "image": "berlin-easy.jpg",
+  "heading": 248,
+  "pitch": -30.0,
+  "x": -216504.08150562024,
+  "y": -236528.23092705884,
+  "altitude_m": 1262,
+  "order": 1
+}

@@ -1,0 +1,234 @@
+{
+  "name": "tarif-medium",
+  "title": "A2 Attaque Tarif — moyen",
+  "heading_deg": 219.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4850.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Tarif_Medium",
+  "camera": {
+    "position": [
+      -246990.26349640946,
+      2478.7590909090904,
+      -212559.78661529446
+    ],
+    "forward": [
+      -0.673028145070219,
+      -0.49999999999999994,
+      -0.5450074457687165
+    ],
+    "up": [
+      -0.38857298072848534,
+      0.8660254037844387,
+      -0.31466019552491875
+    ],
+    "right": [
+      0.6293203910498376,
+      0.0,
+      -0.7771459614569708
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -250254.45,
+    "z": -215203.07272727272,
+    "alt_m": 53.75909090909091,
+    "lat": 23.887208474038836,
+    "lon": 54.142644258254435,
+    "dms": "N23°53'13.95\" E054°08'33.52\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:32",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] Armored Platoon#10738",
+      "type": "T-72B",
+      "x": -250760.3,
+      "z": -215597.4,
+      "alt": 57.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] Armored Platoon#10738",
+      "type": "Chieftain_mk3",
+      "x": -250816.3,
+      "z": -215643.4,
+      "alt": 57.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] Armored Platoon#10738",
+      "type": "BMP-3",
+      "x": -251057.3,
+      "z": -215918.4,
+      "alt": 59.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] Armored Platoon#10738",
+      "type": "CHAP_T64BV",
+      "x": -250998.3,
+      "z": -215685.4,
+      "alt": 58.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] Armored Platoon#10738",
+      "type": "CHAP_T64BV",
+      "x": -250942.3,
+      "z": -215825.4,
+      "alt": 59.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] Armored Platoon#10738",
+      "type": "BMP-3",
+      "x": -251095.3,
+      "z": -215826.4,
+      "alt": 59.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] Armored Platoon#10738",
+      "type": "T-72B",
+      "x": -250883.3,
+      "z": -215766.4,
+      "alt": 58.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] Armored Platoon#10738",
+      "type": "BMP-3",
+      "x": -251056.3,
+      "z": -215658.4,
+      "alt": 59.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] combatZone_Tarif_Easy-Inert-BMP-2-5#10737",
+      "type": "BMP-2",
+      "x": -250472.5,
+      "z": -214803.6,
+      "alt": 53.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] combatZone_Tarif_Easy-Inert-BTR-80-7#10736",
+      "type": "BTR-80",
+      "x": -250411.2,
+      "z": -215784.5,
+      "alt": 56.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] combatZone_Tarif_Easy-Inert-Ural-375-8#10735",
+      "type": "Ural-375",
+      "x": -249859.2,
+      "z": -215604.2,
+      "alt": 52.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] combatZone_Tarif_Easy-Inert-BMP-2-4#10734",
+      "type": "BMP-2",
+      "x": -250406.2,
+      "z": -214285.7,
+      "alt": 53.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] combatZone_Tarif_Easy-Inert-T-72B-2#10733",
+      "type": "T-72B",
+      "x": -249316.6,
+      "z": -214402.5,
+      "alt": 47.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] combatZone_Tarif_Easy-Inert-T-72B-1#10732",
+      "type": "T-72B",
+      "x": -249297.2,
+      "z": -214976.8,
+      "alt": 47.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] combatZone_Tarif_Easy-Inert-T-72B-3#10731",
+      "type": "T-72B",
+      "x": -249895.1,
+      "z": -214385.0,
+      "alt": 50.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] Ural-375 ZU-23#10726",
+      "type": "Ural-375 ZU-23",
+      "x": -249352.6,
+      "z": -216165.5,
+      "alt": 49.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] combatZone_Tarif_Easy-Inert-Ural-375-9#10725",
+      "type": "Ural-375",
+      "x": -249367.9,
+      "z": -215520.7,
+      "alt": 49.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] combatZone_Tarif_Easy-Inert-BTR-80-6#10724",
+      "type": "BTR-80",
+      "x": -250663.0,
+      "z": -215209.7,
+      "alt": 55.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Medium [r] combatZone_Tarif_Easy-Inert-KAMAZ-10#10723",
+      "type": "KAMAZ Truck",
+      "x": -249568.0,
+      "z": -215064.2,
+      "alt": 49.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Tarif_Medium [r] combatZone_Tarif_Easy-Static-Command-3#10728 #120",
+      "type": ".Command Center",
+      "x": -248778.0,
+      "z": -214555.0,
+      "alt": 44.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Tarif_Medium [r] combatZone_Tarif_Easy-Static-Fuel-2#10729 #119",
+      "type": "Fuel tank",
+      "x": -250410.0,
+      "z": -213872.0,
+      "alt": 53.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Tarif_Medium [r] combatZone_Tarif_Easy-Static-Fuel-1#10730 #118",
+      "type": "Fuel tank",
+      "x": -250191.0,
+      "z": -213917.0,
+      "alt": 51.9
+    }
+  ],
+  "image": "tarif-medium.jpg",
+  "heading": 219,
+  "pitch": -30.0,
+  "x": -246990.26349640946,
+  "y": -212559.78661529446,
+  "altitude_m": 2479,
+  "order": 5
+}

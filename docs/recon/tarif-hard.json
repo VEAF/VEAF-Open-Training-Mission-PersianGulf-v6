@@ -1,0 +1,274 @@
+{
+  "name": "tarif-hard",
+  "title": "A3 Attaque Tarif — difficile",
+  "heading_deg": 219.0,
+  "pitch_deg": 30.0,
+  "slant_m": 5900.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Tarif_Hard",
+  "camera": {
+    "position": [
+      -246257.2154255672,
+      3003.6962962962957,
+      -212131.25606996455
+    ],
+    "forward": [
+      -0.673028145070219,
+      -0.49999999999999994,
+      -0.5450074457687165
+    ],
+    "up": [
+      -0.38857298072848534,
+      0.8660254037844387,
+      -0.31466019552491875
+    ],
+    "right": [
+      0.6293203910498376,
+      0.0,
+      -0.7771459614569708
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -250228.0814814815,
+    "z": -215346.8,
+    "alt_m": 53.696296296296296,
+    "lat": 23.8874201356599,
+    "lon": 54.14122892573281,
+    "dms": "N23°53'14.71\" E054°08'28.42\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:33",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] Strela-10M3#10758",
+      "type": "Strela-10M3",
+      "x": -251213.2,
+      "z": -215468.0,
+      "alt": 58.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] combatZone_Tarif_Easy-Inert-T-72B-3#10757",
+      "type": "T-72B",
+      "x": -249914.8,
+      "z": -214407.3,
+      "alt": 50.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] Armored Platoon#10756",
+      "type": "T-55",
+      "x": -250903.4,
+      "z": -215780.2,
+      "alt": 58.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] Armored Platoon#10756",
+      "type": "T-55",
+      "x": -250741.4,
+      "z": -215818.2,
+      "alt": 58.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] Armored Platoon#10756",
+      "type": "BMP-2",
+      "x": -250904.4,
+      "z": -215873.2,
+      "alt": 59.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] Armored Platoon#10756",
+      "type": "VAB_Mephisto",
+      "x": -250956.4,
+      "z": -215870.2,
+      "alt": 59.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] Armored Platoon#10756",
+      "type": "BMP-2",
+      "x": -250849.4,
+      "z": -215802.2,
+      "alt": 58.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] Armored Platoon#10756",
+      "type": "BTR-82A",
+      "x": -250963.4,
+      "z": -215755.2,
+      "alt": 59.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] Armored Platoon#10756",
+      "type": "T-55",
+      "x": -250739.4,
+      "z": -215743.2,
+      "alt": 58.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] Armored Platoon#10755",
+      "type": "CHAP_T64BV",
+      "x": -250242.2,
+      "z": -216648.8,
+      "alt": 53.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] Armored Platoon#10755",
+      "type": "BMP-3",
+      "x": -250226.2,
+      "z": -216529.8,
+      "alt": 53.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] Armored Platoon#10755",
+      "type": "BMP-3",
+      "x": -250139.2,
+      "z": -216561.8,
+      "alt": 52.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] Armored Platoon#10755",
+      "type": "BMP-3",
+      "x": -250140.2,
+      "z": -216547.8,
+      "alt": 52.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] combatZone_Tarif_Easy-Inert-BMP-2-5#10751",
+      "type": "BMP-2",
+      "x": -250490.2,
+      "z": -214835.0,
+      "alt": 53.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] combatZone_Tarif_Easy-Inert-Ural-375-9#10750",
+      "type": "Ural-375",
+      "x": -249340.2,
+      "z": -215515.7,
+      "alt": 49.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] combatZone_Tarif_Easy-Inert-BMP-2-4#10749",
+      "type": "BMP-2",
+      "x": -250375.4,
+      "z": -214306.2,
+      "alt": 53.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] combatZone_Tarif_Easy-Inert-KAMAZ-10#10748",
+      "type": "KAMAZ Truck",
+      "x": -249565.2,
+      "z": -215079.3,
+      "alt": 49.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] combatZone_Tarif_Easy-Inert-BTR-80-7#10747",
+      "type": "BTR-80",
+      "x": -250430.5,
+      "z": -215783.0,
+      "alt": 56.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] combatZone_Tarif_Easy-Inert-Ural-375-8#10746",
+      "type": "Ural-375",
+      "x": -249919.4,
+      "z": -215591.0,
+      "alt": 52.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] combatZone_Tarif_Easy-Inert-T-72B-2#10745",
+      "type": "T-72B",
+      "x": -249273.1,
+      "z": -214414.3,
+      "alt": 47.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] ZSU-23-4 Shilka#10743",
+      "type": "ZSU-23-4 Shilka",
+      "x": -250243.6,
+      "z": -215826.7,
+      "alt": 55.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] Ural-375 ZU-23#10741",
+      "type": "Ural-375 ZU-23",
+      "x": -249330.3,
+      "z": -213598.5,
+      "alt": 48.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] combatZone_Tarif_Easy-Inert-BTR-80-6#10740",
+      "type": "BTR-80",
+      "x": -250618.3,
+      "z": -215250.4,
+      "alt": 55.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Hard [r] combatZone_Tarif_Easy-Inert-T-72B-1#10739",
+      "type": "T-72B",
+      "x": -249259.4,
+      "z": -215013.6,
+      "alt": 47.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Tarif_Hard [r] combatZone_Tarif_Easy-Static-Command-3#10752 #120",
+      "type": ".Command Center",
+      "x": -248778.0,
+      "z": -214555.0,
+      "alt": 44.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Tarif_Hard [r] combatZone_Tarif_Easy-Static-Fuel-2#10753 #119",
+      "type": "Fuel tank",
+      "x": -250410.0,
+      "z": -213872.0,
+      "alt": 53.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Tarif_Hard [r] combatZone_Tarif_Easy-Static-Fuel-1#10754 #118",
+      "type": "Fuel tank",
+      "x": -250191.0,
+      "z": -213917.0,
+      "alt": 51.9
+    }
+  ],
+  "image": "tarif-hard.jpg",
+  "heading": 219,
+  "pitch": -30.0,
+  "x": -246257.2154255672,
+  "y": -212131.25606996455,
+  "altitude_m": 3004,
+  "order": 6
+}

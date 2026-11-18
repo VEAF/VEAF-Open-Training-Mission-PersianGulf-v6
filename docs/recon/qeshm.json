@@ -1,0 +1,202 @@
+{
+  "name": "qeshm",
+  "title": "Z01 Front — brigade IRGC de Qeshm",
+  "heading_deg": 27.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4450.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Qeshm",
+  "camera": {
+    "position": [
+      72590.52743226262,
+      2260.2666666666664,
+      -29524.750066593573
+    ],
+    "forward": [
+      0.7716342848848006,
+      -0.49999999999999994,
+      0.3931673058512401
+    ],
+    "up": [
+      0.4455032620941839,
+      0.8660254037844387,
+      0.22699524986977335
+    ],
+    "right": [
+      -0.45399049973954675,
+      0.0,
+      0.8910065241883679
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 76024.29999999999,
+    "z": -27775.155555555553,
+    "alt_m": 35.266666666666666,
+    "lat": 26.85641382277293,
+    "lon": 55.957853584918766,
+    "dms": "N26°51'23.09\" E055°57'28.27\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:35",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] Ural-375 ZU-23#10773",
+      "type": "Ural-375 ZU-23",
+      "x": 76508.3,
+      "z": -29052.6,
+      "alt": 25.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] combatZone_Qeshm-Artillerie#10772",
+      "type": "Grad-URAL",
+      "x": 74752.8,
+      "z": -28438.5,
+      "alt": 56.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] combatZone_Qeshm-Artillerie#10772",
+      "type": "Grad-URAL",
+      "x": 74772.8,
+      "z": -28438.5,
+      "alt": 56.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] combatZone_Qeshm-Artillerie#10772",
+      "type": "Grad-URAL",
+      "x": 74792.8,
+      "z": -28438.5,
+      "alt": 56.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] combatZone_Qeshm-Artillerie#10772",
+      "type": "Grad-URAL",
+      "x": 74812.8,
+      "z": -28438.5,
+      "alt": 56.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] Armored Platoon#10771",
+      "type": "BMP-3",
+      "x": 76862.9,
+      "z": -27948.2,
+      "alt": 36.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] Armored Platoon#10771",
+      "type": "ZSU-23-4 Shilka",
+      "x": 76884.9,
+      "z": -28020.2,
+      "alt": 36.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] Armored Platoon#10771",
+      "type": "T-72B",
+      "x": 76866.9,
+      "z": -27975.2,
+      "alt": 35.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] Armored Platoon#10771",
+      "type": "Strela-10M3",
+      "x": 76959.9,
+      "z": -28079.2,
+      "alt": 38.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] Armored Platoon#10771",
+      "type": "CHAP_T64BV",
+      "x": 76813.9,
+      "z": -27912.2,
+      "alt": 32.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] Armored Platoon#10771",
+      "type": "BMP-3",
+      "x": 76841.9,
+      "z": -28135.2,
+      "alt": 24.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] Armored Platoon#10770",
+      "type": "Ural-375 ZU-23",
+      "x": 75545.1,
+      "z": -27102.8,
+      "alt": 23.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] Armored Platoon#10770",
+      "type": "BMP-2",
+      "x": 75673.1,
+      "z": -27140.8,
+      "alt": 24.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] Armored Platoon#10770",
+      "type": "BMP-2",
+      "x": 75645.1,
+      "z": -27316.8,
+      "alt": 39.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] Armored Platoon#10770",
+      "type": "VAB_Mephisto",
+      "x": 75653.1,
+      "z": -27181.8,
+      "alt": 28.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Qeshm [r] Armored Platoon#10770",
+      "type": "VAB_Mephisto",
+      "x": 75720.1,
+      "z": -27229.8,
+      "alt": 31.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Qeshm [r] combatZone_Qeshm-Static-Fuel-2#10768 #130",
+      "type": "Fuel tank",
+      "x": 76581.0,
+      "z": -26403.0,
+      "alt": 17.8
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Qeshm [r] combatZone_Qeshm-Static-Command-1#10769 #129",
+      "type": ".Command Center",
+      "x": 76750.0,
+      "z": -26701.0,
+      "alt": 15.2
+    }
+  ],
+  "image": "qeshm.jpg",
+  "heading": 27,
+  "pitch": -30.0,
+  "x": 72590.52743226262,
+  "y": -29524.750066593573,
+  "altitude_m": 2260,
+  "order": 10
+}

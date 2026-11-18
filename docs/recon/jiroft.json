@@ -1,0 +1,186 @@
+{
+  "name": "jiroft",
+  "title": "Z14 OCA — base aérienne de Jiroft",
+  "heading_deg": 33.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3500.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Jiroft",
+  "camera": {
+    "position": [
+      280128.8399396353,
+      2547.6875,
+      141188.3881592452
+    ],
+    "forward": [
+      0.7263100172470603,
+      -0.49999999999999994,
+      0.4716712402156559
+    ],
+    "up": [
+      0.41933528397271197,
+      0.8660254037844387,
+      0.2723195175075135
+    ],
+    "right": [
+      -0.5446390350150271,
+      0.0,
+      0.838670567945424
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 282670.925,
+    "z": 142839.2375,
+    "alt_m": 797.6875,
+    "lat": 28.724025740058956,
+    "lon": 57.68691451055059,
+    "dms": "N28°43'26.49\" E057°41'12.89\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:31",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Jiroft [r] SA6#10554",
+      "type": "Kub 1S91 str",
+      "x": 282616.0,
+      "z": 143298.0,
+      "alt": 789.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jiroft [r] SA6#10554",
+      "type": "Kub 2P25 ln",
+      "x": 282647.0,
+      "z": 143300.0,
+      "alt": 789.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jiroft [r] SA6#10554",
+      "type": "Kub 2P25 ln",
+      "x": 282605.0,
+      "z": 143239.0,
+      "alt": 790.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jiroft [r] SA6#10554",
+      "type": "Kub 2P25 ln",
+      "x": 282606.0,
+      "z": 143325.0,
+      "alt": 789.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jiroft [r] SA6#10554",
+      "type": "Kub 2P25 ln",
+      "x": 282576.0,
+      "z": 143299.0,
+      "alt": 790.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jiroft [r] SA6#10554",
+      "type": "ZSU-23-4 Shilka",
+      "x": 282591.0,
+      "z": 143260.0,
+      "alt": 790.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jiroft [r] SA6#10554",
+      "type": "ATZ-5",
+      "x": 282649.0,
+      "z": 143317.0,
+      "alt": 789.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jiroft [r] SA6#10554",
+      "type": "ZIL-135",
+      "x": 282644.0,
+      "z": 143286.0,
+      "alt": 790.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jiroft [r] SA6#10554",
+      "type": "Ural-375 PBU",
+      "x": 282632.0,
+      "z": 143332.0,
+      "alt": 789.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jiroft [r] Ural-375 ZU-23#10551",
+      "type": "Ural-375 ZU-23",
+      "x": 282583.6,
+      "z": 141670.4,
+      "alt": 812.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Jiroft [r] combatZone_Jiroft-Static-MiG-29A-3#10548 #227",
+      "type": "MiG-29A",
+      "x": 282838.1,
+      "z": 142478.1,
+      "alt": 804.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Jiroft [r] combatZone_Jiroft-Static-Fuel-6#10549 #230",
+      "type": "Fuel tank",
+      "x": 282208.0,
+      "z": 142285.0,
+      "alt": 812.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Jiroft [r] combatZone_Jiroft-Static-Su-24M-1#10550 #225",
+      "type": "Su-24M",
+      "x": 282908.0,
+      "z": 142285.1,
+      "alt": 807.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Jiroft [r] combatZone_Jiroft-Static-Su-24M-2#10553 #226",
+      "type": "Su-24M",
+      "x": 282936.0,
+      "z": 142373.1,
+      "alt": 806.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Jiroft [r] combatZone_Jiroft-Static-MiG-29A-4#10555 #228",
+      "type": "MiG-29A",
+      "x": 282827.1,
+      "z": 142545.1,
+      "alt": 803.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Jiroft [r] combatZone_Jiroft-Static-Hangar-5#10556 #229",
+      "type": "Hangar A",
+      "x": 282868.0,
+      "z": 142135.0,
+      "alt": 808.3
+    }
+  ],
+  "image": "jiroft.jpg",
+  "heading": 33,
+  "pitch": -30.0,
+  "x": 280128.8399396353,
+  "y": 141188.3881592452,
+  "altitude_m": 2548,
+  "order": 23
+}

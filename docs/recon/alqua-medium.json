@@ -1,0 +1,170 @@
+{
+  "name": "alqua-medium",
+  "title": "S2 SEAD Al Qua'a — moyen",
+  "heading_deg": 172.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4250.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_AlQua_Medium",
+  "camera": {
+    "position": [
+      -281504.99717191706,
+      2235.0428571428565,
+      -150660.09876691535
+    ],
+    "forward": [
+      -0.8575973040867548,
+      -0.49999999999999994,
+      0.12052744095487303
+    ],
+    "up": [
+      -0.4951340343707851,
+      0.8660254037844387,
+      0.06958655048003265
+    ],
+    "right": [
+      -0.13917310096006533,
+      0.0,
+      -0.9902680687415704
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -285149.78571428574,
+    "z": -150147.85714285713,
+    "alt_m": 110.04285714285713,
+    "lat": 23.582789472910555,
+    "lon": 54.78642096427448,
+    "dms": "N23°34'58.04\" E054°47'11.12\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:34",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA6#10763",
+      "type": "Kub 1S91 str",
+      "x": -284996.0,
+      "z": -149990.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA6#10763",
+      "type": "Kub 2P25 ln",
+      "x": -284948.0,
+      "z": -149996.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA6#10763",
+      "type": "Kub 2P25 ln",
+      "x": -284991.0,
+      "z": -150022.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA6#10763",
+      "type": "Kub 2P25 ln",
+      "x": -284995.0,
+      "z": -149972.0,
+      "alt": 109.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA6#10763",
+      "type": "Kub 2P25 ln",
+      "x": -285044.0,
+      "z": -149985.0,
+      "alt": 109.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA6#10763",
+      "type": "ZSU-23-4 Shilka",
+      "x": -285051.0,
+      "z": -150031.0,
+      "alt": 109.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA6#10763",
+      "type": "ATZ-5",
+      "x": -284970.0,
+      "z": -149963.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA6#10763",
+      "type": "ZIL-135",
+      "x": -285004.0,
+      "z": -150010.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA6#10763",
+      "type": "ZIL-135",
+      "x": -284950.0,
+      "z": -149974.0,
+      "alt": 109.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA6#10763",
+      "type": "Ural-375 PBU",
+      "x": -285033.0,
+      "z": -149995.0,
+      "alt": 109.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA8#10762",
+      "type": "Osa 9A33 ln",
+      "x": -286439.0,
+      "z": -149611.0,
+      "alt": 112.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA8#10762",
+      "type": "GAZ-66",
+      "x": -286453.0,
+      "z": -149616.0,
+      "alt": 112.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA15#10761",
+      "type": "Tor 9A331",
+      "x": -284604.0,
+      "z": -151446.0,
+      "alt": 109.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_AlQua_Medium [r] SA15#10761",
+      "type": "GAZ-66",
+      "x": -284619.0,
+      "z": -151459.0,
+      "alt": 109.5
+    }
+  ],
+  "image": "alqua-medium.jpg",
+  "heading": 172,
+  "pitch": -30.0,
+  "x": -281504.99717191706,
+  "y": -150660.09876691535,
+  "altitude_m": 2235,
+  "order": 8
+}

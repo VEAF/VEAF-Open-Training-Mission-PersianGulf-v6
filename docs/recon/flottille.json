@@ -1,0 +1,82 @@
+{
+  "name": "flottille",
+  "title": "Z15 Antinavire — flottille devant Bandar Abbas",
+  "heading_deg": 31.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Flottille",
+  "camera": {
+    "position": [
+      94239.14174947087,
+      899.9999999999999,
+      4271.101764447656
+    ],
+    "forward": [
+      0.7423286577013642,
+      -0.49999999999999994,
+      0.44603605678833963
+    ],
+    "up": [
+      0.4285836503510561,
+      0.8660254037844387,
+      0.257519037455027
+    ],
+    "right": [
+      -0.5150380749100542,
+      0.0,
+      0.8571673007021123
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 95575.33333333333,
+    "z": 5073.966666666667,
+    "alt_m": 0.0,
+    "lat": 27.03497028491086,
+    "lon": 56.28737886492481,
+    "dms": "N27°02'05.89\" E056°17'14.56\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:32",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Flottille [r] combatZone_Flottille-Flottille#10557",
+      "type": "La_Combattante_II",
+      "x": 94975.4,
+      "z": 5073.8,
+      "alt": -0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Flottille [r] combatZone_Flottille-Flottille#10557",
+      "type": "La_Combattante_II",
+      "x": 95575.3,
+      "z": 5074.1,
+      "alt": -0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Flottille [r] combatZone_Flottille-Flottille#10557",
+      "type": "MOLNIYA",
+      "x": 96175.3,
+      "z": 5074.0,
+      "alt": 0.0
+    }
+  ],
+  "image": "flottille.jpg",
+  "heading": 31,
+  "pitch": -30.0,
+  "x": 94239.14174947087,
+  "y": 4271.101764447656,
+  "altitude_m": 900,
+  "order": 24
+}

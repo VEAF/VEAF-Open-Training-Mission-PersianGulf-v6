@@ -1,0 +1,290 @@
+{
+  "name": "lavan",
+  "title": "Z04 SEAD — site Hawk de Lavan",
+  "heading_deg": 333.0,
+  "pitch_deg": 30.0,
+  "slant_m": 2500.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Lavan",
+  "camera": {
+    "position": [
+      73545.60739123628,
+      1251.9999999999998,
+      -293451.7713905443
+    ],
+    "forward": [
+      0.7716342848848005,
+      -0.49999999999999994,
+      -0.39316730585124027
+    ],
+    "up": [
+      0.44550326209418384,
+      0.8660254037844387,
+      -0.22699524986977346
+    ],
+    "right": [
+      0.45399049973954697,
+      0.0,
+      0.8910065241883678
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 75474.69310344828,
+    "z": -294434.6896551724,
+    "alt_m": 2.0,
+    "lat": 26.806271391922884,
+    "lon": 53.27673795182623,
+    "dms": "N26°48'22.58\" E053°16'36.26\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:37",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Red EWR#10800",
+      "type": "55G6 EWR",
+      "x": 75482.0,
+      "z": -293644.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Red EWR#10800",
+      "type": "SA-18 Igla manpad",
+      "x": 75503.0,
+      "z": -293623.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Red EWR#10800",
+      "type": "Ural-375 PBU",
+      "x": 75489.0,
+      "z": -293603.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk sr",
+      "x": 75521.0,
+      "z": -294558.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk cwar",
+      "x": 75533.0,
+      "z": -294425.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk cwar",
+      "x": 75463.0,
+      "z": -294519.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk tr",
+      "x": 75585.0,
+      "z": -294498.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk tr",
+      "x": 75405.0,
+      "z": -294613.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk tr",
+      "x": 75406.0,
+      "z": -294400.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk pcp",
+      "x": 75503.0,
+      "z": -294485.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk ln",
+      "x": 75666.0,
+      "z": -294473.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk ln",
+      "x": 75601.0,
+      "z": -294539.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk ln",
+      "x": 75601.0,
+      "z": -294424.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk ln",
+      "x": 75488.0,
+      "z": -294673.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk ln",
+      "x": 75363.0,
+      "z": -294686.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk ln",
+      "x": 75331.0,
+      "z": -294608.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk ln",
+      "x": 75490.0,
+      "z": -294349.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk ln",
+      "x": 75363.0,
+      "z": -294347.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Hawk ln",
+      "x": 75329.0,
+      "z": -294409.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "M 818",
+      "x": 75563.0,
+      "z": -294488.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "M 818",
+      "x": 75622.0,
+      "z": -294639.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "M 818",
+      "x": 75384.0,
+      "z": -294652.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "M 818",
+      "x": 75540.0,
+      "z": -294377.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "M 818",
+      "x": 75440.0,
+      "z": -294611.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Vulcan",
+      "x": 75666.0,
+      "z": -294580.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Vulcan",
+      "x": 75427.0,
+      "z": -294589.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "Vulcan",
+      "x": 75351.0,
+      "z": -294516.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Hawk#10799",
+      "type": "M1097 Avenger",
+      "x": 75644.0,
+      "z": -294444.0,
+      "alt": 2.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Lavan [r] Ural-375 ZU-23#10797",
+      "type": "Ural-375 ZU-23",
+      "x": 75007.1,
+      "z": -294834.0,
+      "alt": 2.0
+    }
+  ],
+  "image": "lavan.jpg",
+  "heading": 333,
+  "pitch": -30.0,
+  "x": 73545.60739123628,
+  "y": -293451.7713905443,
+  "altitude_m": 1252,
+  "order": 13
+}

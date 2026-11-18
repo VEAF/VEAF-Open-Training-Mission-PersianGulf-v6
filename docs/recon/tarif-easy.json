@@ -1,0 +1,162 @@
+{
+  "name": "tarif-easy",
+  "title": "A1 Attaque Tarif — facile",
+  "heading_deg": 219.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3400.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Tarif_Easy",
+  "camera": {
+    "position": [
+      -247595.80430676125,
+      1750.976923076923,
+      -212952.66699207868
+    ],
+    "forward": [
+      -0.673028145070219,
+      -0.49999999999999994,
+      -0.5450074457687165
+    ],
+    "up": [
+      -0.38857298072848534,
+      0.8660254037844387,
+      -0.31466019552491875
+    ],
+    "right": [
+      0.6293203910498376,
+      0.0,
+      -0.7771459614569708
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -249884.09999999998,
+    "z": -214805.6923076923,
+    "alt_m": 50.97692307692308,
+    "lat": 23.890621867905313,
+    "lon": 54.14646960413307,
+    "dms": "N23°53'26.24\" E054°08'47.29\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:32",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Easy [r] combatZone_Tarif_Easy-Inert-BTR-80-6#10722",
+      "type": "BTR-80",
+      "x": -250614.7,
+      "z": -215243.3,
+      "alt": 55.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Easy [r] combatZone_Tarif_Easy-Inert-T-72B-1#10721",
+      "type": "T-72B",
+      "x": -249279.4,
+      "z": -215007.3,
+      "alt": 47.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Easy [r] combatZone_Tarif_Easy-Inert-BTR-80-7#10720",
+      "type": "BTR-80",
+      "x": -250410.7,
+      "z": -215770.5,
+      "alt": 56.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Easy [r] combatZone_Tarif_Easy-Inert-Ural-375-8#10719",
+      "type": "Ural-375",
+      "x": -249855.3,
+      "z": -215582.7,
+      "alt": 52.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Easy [r] combatZone_Tarif_Easy-Inert-T-72B-2#10717",
+      "type": "T-72B",
+      "x": -249329.7,
+      "z": -214421.7,
+      "alt": 47.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Easy [r] combatZone_Tarif_Easy-Inert-T-72B-3#10715",
+      "type": "T-72B",
+      "x": -249851.0,
+      "z": -214409.7,
+      "alt": 49.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Easy [r] combatZone_Tarif_Easy-Inert-BMP-2-5#10713",
+      "type": "BMP-2",
+      "x": -250425.0,
+      "z": -214824.9,
+      "alt": 53.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Easy [r] combatZone_Tarif_Easy-Inert-Ural-375-9#10712",
+      "type": "Ural-375",
+      "x": -249348.2,
+      "z": -215500.6,
+      "alt": 49.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Easy [r] combatZone_Tarif_Easy-Inert-BMP-2-4#10711",
+      "type": "BMP-2",
+      "x": -250376.2,
+      "z": -214301.7,
+      "alt": 53.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Tarif_Easy [r] combatZone_Tarif_Easy-Inert-KAMAZ-10#10710",
+      "type": "KAMAZ Truck",
+      "x": -249624.1,
+      "z": -215067.6,
+      "alt": 49.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Tarif_Easy [r] combatZone_Tarif_Easy-Static-Command-3#10714 #120",
+      "type": ".Command Center",
+      "x": -248778.0,
+      "z": -214555.0,
+      "alt": 44.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Tarif_Easy [r] combatZone_Tarif_Easy-Static-Fuel-2#10716 #119",
+      "type": "Fuel tank",
+      "x": -250410.0,
+      "z": -213872.0,
+      "alt": 53.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Tarif_Easy [r] combatZone_Tarif_Easy-Static-Fuel-1#10718 #118",
+      "type": "Fuel tank",
+      "x": -250191.0,
+      "z": -213917.0,
+      "alt": 51.9
+    }
+  ],
+  "image": "tarif-easy.jpg",
+  "heading": 219,
+  "pitch": -30.0,
+  "x": -247595.80430676125,
+  "y": -212952.66699207868,
+  "altitude_m": 1751,
+  "order": 4
+}

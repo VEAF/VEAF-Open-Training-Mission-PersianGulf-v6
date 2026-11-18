@@ -1,0 +1,210 @@
+{
+  "name": "berlin-hard",
+  "title": "H3 Hélico Berlin — difficile",
+  "heading_deg": 248.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4700.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Berlin_Hard",
+  "camera": {
+    "position": [
+      -216193.6841478593,
+      2364.578947368421,
+      -235481.97609775778
+    ],
+    "forward": [
+      -0.3244188263233285,
+      -0.49999999999999994,
+      -0.8029647720336143
+    ],
+    "up": [
+      -0.18730329670795612,
+      0.8660254037844387,
+      -0.4635919272833936
+    ],
+    "right": [
+      0.9271838545667873,
+      0.0,
+      -0.3746065934159123
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -217718.45263157896,
+    "z": -239255.91052631577,
+    "alt_m": 14.578947368421053,
+    "lat": 24.176084639907753,
+    "lon": 53.89965327011837,
+    "dms": "N24°10'33.90\" E053°53'58.75\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:31",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] combatZone_Berlin_Easy-Inert-BMP-2-3#10709",
+      "type": "BMP-2",
+      "x": -217639.4,
+      "z": -238043.2,
+      "alt": 10.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] combatZone_Berlin_Easy-Inert-T-72B-1#10708",
+      "type": "T-72B",
+      "x": -216752.2,
+      "z": -238498.7,
+      "alt": 13.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] combatZone_Berlin_Easy-Inert-Ural-375-7#10707",
+      "type": "Ural-375",
+      "x": -217069.3,
+      "z": -238702.7,
+      "alt": 14.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] combatZone_Berlin_Easy-Inert-BMP-2-4#10706",
+      "type": "BMP-2",
+      "x": -218184.0,
+      "z": -238476.5,
+      "alt": 12.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] Red Manpad Squad#10705",
+      "type": "SA-18 Igla manpad",
+      "x": -218660.6,
+      "z": -238926.4,
+      "alt": 19.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] Red Manpad Squad#10705",
+      "type": "Infantry AK",
+      "x": -218698.6,
+      "z": -239048.4,
+      "alt": 18.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] Red Manpad Squad#10705",
+      "type": "Infantry AK",
+      "x": -218569.6,
+      "z": -239070.4,
+      "alt": 18.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] Red Manpad Squad#10705",
+      "type": "Infantry AK",
+      "x": -218654.6,
+      "z": -238998.4,
+      "alt": 18.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] Red Manpad Squad#10705",
+      "type": "UAZ-469",
+      "x": -218681.6,
+      "z": -238945.4,
+      "alt": 19.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] combatZone_Berlin_Easy-Inert-T-72B-2#10704",
+      "type": "T-72B",
+      "x": -217000.7,
+      "z": -237892.8,
+      "alt": 11.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] ZSU-23-4 Shilka#10702",
+      "type": "ZSU-23-4 Shilka",
+      "x": -218116.2,
+      "z": -238884.8,
+      "alt": 12.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] combatZone_Berlin_Easy-Inert-BRDM-2-5#10701",
+      "type": "BRDM-2",
+      "x": -217653.1,
+      "z": -239021.0,
+      "alt": 10.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] Ural-375 ZU-23#10699",
+      "type": "Ural-375 ZU-23",
+      "x": -216467.8,
+      "z": -237839.8,
+      "alt": 16.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] Ural-375 ZU-23#10697",
+      "type": "Ural-375 ZU-23",
+      "x": -218352.4,
+      "z": -238050.9,
+      "alt": 13.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] Strela-10M3#10695",
+      "type": "Strela-10M3",
+      "x": -216937.1,
+      "z": -239500.5,
+      "alt": 13.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard [r] combatZone_Berlin_Easy-Inert-Ural-375-6#10694",
+      "type": "Ural-375",
+      "x": -217040.4,
+      "z": -239079.4,
+      "alt": 13.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard-H4-3",
+      "type": "2S6 Tunguska",
+      "x": -216017.0,
+      "z": -241443.0,
+      "alt": 14.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard-H4-2",
+      "type": "Osa 9A33 ln",
+      "x": -217391.0,
+      "z": -243997.0,
+      "alt": 11.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Berlin_Hard-H4-1",
+      "type": "2S6 Tunguska",
+      "x": -218765.0,
+      "z": -241443.0,
+      "alt": 15.1
+    }
+  ],
+  "image": "berlin-hard.jpg",
+  "heading": 248,
+  "pitch": -30.0,
+  "x": -216193.6841478593,
+  "y": -235481.97609775778,
+  "altitude_m": 2365,
+  "order": 3
+}

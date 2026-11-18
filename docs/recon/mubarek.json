@@ -1,0 +1,90 @@
+{
+  "name": "mubarek",
+  "title": "Z17 Antinavire — champ pétrolier de Mubarek",
+  "heading_deg": 28.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1200.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Mubarek",
+  "camera": {
+    "position": [
+      7035.61394524862,
+      599.9999999999999,
+      -63026.68915967236
+    ],
+    "forward": [
+      0.7646550456261504,
+      -0.49999999999999994,
+      0.4065742997269626
+    ],
+    "up": [
+      0.44147379642946344,
+      0.8660254037844387,
+      0.23473578139294538
+    ],
+    "right": [
+      -0.4694715627858908,
+      0.0,
+      0.882947592858927
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 7953.200000000001,
+    "z": -62538.8,
+    "alt_m": 0.0,
+    "lat": 26.23895763989274,
+    "lon": 55.61539453215552,
+    "dms": "N26°14'20.25\" E055°36'55.42\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:36",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Mubarek [r] combatZone_Mubarek-Vedettes#10567",
+      "type": "speedboat",
+      "x": 7053.2,
+      "z": -62538.8,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mubarek [r] combatZone_Mubarek-Vedettes#10567",
+      "type": "speedboat",
+      "x": 7653.2,
+      "z": -62538.8,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mubarek [r] combatZone_Mubarek-Vedettes#10567",
+      "type": "speedboat",
+      "x": 8253.2,
+      "z": -62538.8,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Mubarek [r] combatZone_Mubarek-Vedettes#10567",
+      "type": "speedboat",
+      "x": 8853.2,
+      "z": -62538.8,
+      "alt": 0.0
+    }
+  ],
+  "image": "mubarek.jpg",
+  "heading": 28,
+  "pitch": -30.0,
+  "x": 7035.61394524862,
+  "y": -63026.68915967236,
+  "altitude_m": 600,
+  "order": 25
+}

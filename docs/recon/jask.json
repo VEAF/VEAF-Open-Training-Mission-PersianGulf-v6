@@ -1,0 +1,186 @@
+{
+  "name": "jask",
+  "title": "Z05 SEAD — site sol-air de Jask",
+  "heading_deg": 67.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Jask",
+  "camera": {
+    "position": [
+      -51810.84579997793,
+      905.1749999999998,
+      152817.54369268595
+    ],
+    "forward": [
+      0.3383830833210727,
+      -0.49999999999999994,
+      0.7971805873966853
+    ],
+    "up": [
+      0.19536556424463683,
+      0.8660254037844387,
+      0.46025242672622013
+    ],
+    "right": [
+      -0.9205048534524404,
+      0.0,
+      0.3907311284892737
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -51201.75625,
+    "z": 154252.46875,
+    "alt_m": 5.175,
+    "lat": 25.70936709433778,
+    "lon": 57.782424987888014,
+    "dms": "N25°42'33.72\" E057°46'56.73\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:37",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] SA2#10804",
+      "type": "SNR_75V",
+      "x": -51144.0,
+      "z": 154218.0,
+      "alt": 5.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] SA2#10804",
+      "type": "p-19 s-125 sr",
+      "x": -51189.0,
+      "z": 154282.0,
+      "alt": 5.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] SA2#10804",
+      "type": "S_75M_Volhov",
+      "x": -51102.0,
+      "z": 154184.0,
+      "alt": 4.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] SA2#10804",
+      "type": "S_75M_Volhov",
+      "x": -51107.0,
+      "z": 154242.0,
+      "alt": 6.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] SA2#10804",
+      "type": "S_75M_Volhov",
+      "x": -51146.0,
+      "z": 154164.0,
+      "alt": 3.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] SA2#10804",
+      "type": "S_75M_Volhov",
+      "x": -51135.0,
+      "z": 154283.0,
+      "alt": 6.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] SA2#10804",
+      "type": "S_75M_Volhov",
+      "x": -51157.0,
+      "z": 154188.0,
+      "alt": 4.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] SA2#10804",
+      "type": "S_75M_Volhov",
+      "x": -51161.0,
+      "z": 154246.0,
+      "alt": 5.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] SA2#10804",
+      "type": "ZSU_57_2",
+      "x": -51155.0,
+      "z": 154203.0,
+      "alt": 4.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] SA2#10804",
+      "type": "S-60_Type59_Artillery",
+      "x": -51101.0,
+      "z": 154285.0,
+      "alt": 7.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] SA2#10804",
+      "type": "S-60_Type59_Artillery",
+      "x": -51121.0,
+      "z": 154219.0,
+      "alt": 5.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] SA2#10804",
+      "type": "ZIL-135",
+      "x": -51117.0,
+      "z": 154260.0,
+      "alt": 6.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] ZSU-23-4 Shilka#10802",
+      "type": "ZSU-23-4 Shilka",
+      "x": -50710.1,
+      "z": 153920.5,
+      "alt": 4.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] Red EWR#10801",
+      "type": "55G6 EWR",
+      "x": -51626.0,
+      "z": 154452.0,
+      "alt": 4.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] Red EWR#10801",
+      "type": "SA-18 Igla manpad",
+      "x": -51603.0,
+      "z": 154442.0,
+      "alt": 4.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Jask [r] Red EWR#10801",
+      "type": "Ural-375 PBU",
+      "x": -51654.0,
+      "z": 154451.0,
+      "alt": 3.9
+    }
+  ],
+  "image": "jask.jpg",
+  "heading": 67,
+  "pitch": -30.0,
+  "x": -51810.84579997793,
+  "y": 152817.54369268595,
+  "altitude_m": 905,
+  "order": 14
+}
