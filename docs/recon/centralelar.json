@@ -1,0 +1,114 @@
+{
+  "name": "centralelar",
+  "title": "Z12 Frappe — centrale électrique de Lar",
+  "heading_deg": 354.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1100.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_CentraleLar",
+  "camera": {
+    "position": [
+      166672.7477942475,
+      1455.985714285714,
+      -201379.72326493086
+    ],
+    "forward": [
+      0.8612812260087742,
+      -0.49999999999999994,
+      -0.09052430460833642
+    ],
+    "up": [
+      0.4972609476841366,
+      0.8660254037844387,
+      -0.0522642316338267
+    ],
+    "right": [
+      0.10452846326765342,
+      0.0,
+      0.9945218953682733
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 167620.15714285715,
+    "z": -201479.30000000002,
+    "alt_m": 905.9857142857143,
+    "lat": 27.658697479361585,
+    "lon": 54.1898002336442,
+    "dms": "N27°39'31.31\" E054°11'23.28\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:42",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_CentraleLar [r] Ural-375 ZU-23#10839",
+      "type": "Ural-375 ZU-23",
+      "x": 167699.1,
+      "z": -201113.1,
+      "alt": 912.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_CentraleLar [r] combatZone_CentraleLar-Static-Shelter-5#10838 #213",
+      "type": "Shelter B",
+      "x": 167594.0,
+      "z": -201619.0,
+      "alt": 903.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_CentraleLar [r] combatZone_CentraleLar-Static-Electric-6#10841 #214",
+      "type": "Electric power box",
+      "x": 167702.0,
+      "z": -201607.0,
+      "alt": 909.5
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_CentraleLar [r] combatZone_CentraleLar-Static-Workshop-2#10842 #210",
+      "type": "Workshop A",
+      "x": 167650.0,
+      "z": -201461.0,
+      "alt": 907.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_CentraleLar [r] combatZone_CentraleLar-Static-Workshop-3#10843 #211",
+      "type": "Workshop A",
+      "x": 167570.0,
+      "z": -201461.0,
+      "alt": 902.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_CentraleLar [r] combatZone_CentraleLar-Static-Tech-4#10844 #212",
+      "type": "Tech hangar A",
+      "x": 167516.0,
+      "z": -201564.0,
+      "alt": 903.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_CentraleLar [r] combatZone_CentraleLar-Static-Boiler-house-1#10845 #209",
+      "type": "Boiler-house A",
+      "x": 167610.0,
+      "z": -201530.0,
+      "alt": 903.5
+    }
+  ],
+  "image": "centralelar.jpg",
+  "heading": 354,
+  "pitch": -30.0,
+  "x": 166672.7477942475,
+  "y": -201379.72326493086,
+  "altitude_m": 1456,
+  "order": 21
+}

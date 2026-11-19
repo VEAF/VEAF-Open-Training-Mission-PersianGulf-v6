@@ -1,0 +1,106 @@
+{
+  "name": "convoiminab",
+  "title": "Z06 Convoi — Bandar Abbas vers Minab",
+  "heading_deg": 34.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ConvoiMinab",
+  "camera": {
+    "position": [
+      112546.60277421864,
+      310.09999999999997,
+      38738.83484398702
+    ],
+    "forward": [
+      0.7179675985244509,
+      -0.49999999999999994,
+      0.4842752600216462
+    ],
+    "up": [
+      0.4145187862775208,
+      0.8660254037844387,
+      0.2795964517353734
+    ],
+    "right": [
+      -0.5591929034707469,
+      0.0,
+      0.8290375725550417
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 112977.38333333332,
+    "z": 39029.4,
+    "alt_m": 10.1,
+    "lat": 27.193397343336514,
+    "lon": 56.62919391881536,
+    "dms": "N27°11'36.23\" E056°37'45.10\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:38",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiMinab [r] combatZone_ConvoiMinab-Convoi#10805",
+      "type": "BTR-80",
+      "x": 112962.3,
+      "z": 39039.4,
+      "alt": 10.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiMinab [r] combatZone_ConvoiMinab-Convoi#10805",
+      "type": "Ural-375",
+      "x": 112940.4,
+      "z": 39027.4,
+      "alt": 10.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiMinab [r] combatZone_ConvoiMinab-Convoi#10805",
+      "type": "Ural-375",
+      "x": 112960.4,
+      "z": 39027.4,
+      "alt": 10.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiMinab [r] combatZone_ConvoiMinab-Convoi#10805",
+      "type": "Ural-375",
+      "x": 112980.4,
+      "z": 39027.4,
+      "alt": 10.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiMinab [r] combatZone_ConvoiMinab-Convoi#10805",
+      "type": "Ural-375",
+      "x": 113000.4,
+      "z": 39027.4,
+      "alt": 10.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiMinab [r] combatZone_ConvoiMinab-Convoi#10805",
+      "type": "Ural-375 ZU-23",
+      "x": 113020.4,
+      "z": 39027.4,
+      "alt": 10.2
+    }
+  ],
+  "image": "convoiminab.jpg",
+  "heading": 34,
+  "pitch": -30.0,
+  "x": 112546.60277421864,
+  "y": 38738.83484398702,
+  "altitude_m": 310,
+  "order": 15
+}

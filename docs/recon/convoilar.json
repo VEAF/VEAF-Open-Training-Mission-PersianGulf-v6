@@ -1,0 +1,114 @@
+{
+  "name": "convoilar",
+  "title": "Z07 Convoi — Lar vers Bandar Lengeh",
+  "heading_deg": 356.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ConvoiLar",
+  "camera": {
+    "position": [
+      151185.06480005803,
+      1064.6285714285714,
+      -188573.0963301384
+    ],
+    "forward": [
+      0.8639158094271043,
+      -0.49999999999999994,
+      -0.060410878340835
+    ],
+    "up": [
+      0.49878202512991204,
+      0.8660254037844387,
+      -0.03487823687206281
+    ],
+    "right": [
+      0.06975647374412564,
+      0.0,
+      0.9975640502598242
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 151703.4142857143,
+    "z": -188609.34285714288,
+    "alt_m": 764.6285714285714,
+    "lat": 27.517744478025506,
+    "lon": 54.323627908057425,
+    "dms": "N27°31'03.88\" E054°19'25.06\""
+  },
+  "theatre": "PersianGulf",
+  "date": "2025-11-15",
+  "time": "11:39",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLar [r] combatZone_ConvoiLar-Convoi#10806",
+      "type": "T-72B",
+      "x": 151659.7,
+      "z": -188637.2,
+      "alt": 765.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLar [r] combatZone_ConvoiLar-Convoi#10806",
+      "type": "T-72B",
+      "x": 151660.7,
+      "z": -188604.7,
+      "alt": 765.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLar [r] combatZone_ConvoiLar-Convoi#10806",
+      "type": "BMP-2",
+      "x": 151680.7,
+      "z": -188604.7,
+      "alt": 765.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLar [r] combatZone_ConvoiLar-Convoi#10806",
+      "type": "BMP-2",
+      "x": 151700.7,
+      "z": -188604.7,
+      "alt": 764.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLar [r] combatZone_ConvoiLar-Convoi#10806",
+      "type": "Ural-375",
+      "x": 151720.7,
+      "z": -188604.7,
+      "alt": 764.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLar [r] combatZone_ConvoiLar-Convoi#10806",
+      "type": "Ural-375",
+      "x": 151740.7,
+      "z": -188604.7,
+      "alt": 763.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLar [r] combatZone_ConvoiLar-Convoi#10806",
+      "type": "Strela-10M3",
+      "x": 151760.7,
+      "z": -188604.7,
+      "alt": 763.2
+    }
+  ],
+  "image": "convoilar.jpg",
+  "heading": 356,
+  "pitch": -30.0,
+  "x": 151185.06480005803,
+  "y": -188573.0963301384,
+  "altitude_m": 1065,
+  "order": 16
+}
